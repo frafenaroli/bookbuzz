@@ -27,13 +27,14 @@
 
 /* header */
 .bb-head{padding:44px 0 20px}
-.is-m .bb-head{padding:20px 0 6px}
+.is-m .bb-head{padding:24px 0 16px}
 .bb-logo{background:none;border:0;padding:0;margin:0;cursor:pointer;font-family:var(--display);font-weight:var(--dw);font-size:60px;line-height:1;letter-spacing:-.015em;color:var(--logo)}
 .is-m .bb-logo{font-size:34px}
 .bb-tag{margin:12px 0 0;color:var(--muted);max-width:62ch}
-.is-m .bb-tag{font-size:14px;margin-top:6px;line-height:1.45}
+.is-m .bb-tag{font-size:14px;margin-top:14px;line-height:1.5}
 .bb-headrow{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
 .bb-theme{flex:none;width:44px;height:44px;display:grid;place-items:center;border:1px solid var(--rule);border-radius:50%;background:var(--surface);color:var(--ink);cursor:pointer;padding:0;margin:6px 0 0}
+.is-m .bb-headrow{align-items:center}
 .is-m .bb-theme{margin-top:0}
 .bb-theme:hover{border-color:var(--muted)}
 .bb-theme .i-sun{display:none}
@@ -54,7 +55,7 @@
 .is-m .bb-input-s{height:44px}
 .bb-clear{position:absolute;right:4px;width:44px;height:44px;border:0;background:none;border-radius:8px;cursor:pointer;color:var(--muted);display:grid;place-items:center;padding:0}
 .bb-clear:hover{color:var(--ink)}
-.bb-mtools{display:flex;gap:8px;margin-top:10px}
+.bb-mtools{display:flex;gap:10px;margin-top:12px}
 .bb-fbtn{flex:none;height:44px;display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--rule);background:var(--surface);border-radius:10px;cursor:pointer;font-weight:500;padding:0 12px}
 .bb-badge{min-width:22px;height:22px;padding:0 6px;border-radius:999px;background:var(--accent);color:var(--accent-ink);font-size:13px;line-height:22px;text-align:center;font-weight:600}
 .bb-selwrap{position:relative;flex:1;display:flex;align-items:center;gap:10px}
@@ -67,7 +68,8 @@
 /* layout */
 .bb-main{padding-top:28px;padding-bottom:96px}
 .is-d .bb-main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:56px;align-items:start}
-.is-m .bb-main{padding-top:10px}
+.is-m .bb-sbar{padding:14px 0}
+.is-m .bb-main{padding-top:18px}
 
 /* filter panel */
 .bb-panel{display:flex;flex-direction:column}
@@ -108,7 +110,7 @@
 .bb-sugg-k{color:var(--muted);margin-right:4px}
 .bb-tabs{display:flex;gap:2px;border-bottom:1px solid var(--rule);overflow-x:auto;scrollbar-width:none;margin:0 0 18px}
 .bb-tabs::-webkit-scrollbar{display:none}
-.is-m .bb-tabs{flex-wrap:wrap;gap:6px;overflow:visible;border-bottom:0;margin:0 0 14px;padding:0}
+.is-m .bb-tabs{flex-wrap:wrap;gap:8px;overflow:visible;border-bottom:0;margin:0 0 20px;padding:0}
 .bb-tab{flex:none;min-height:46px;padding:10px 14px;background:none;border:0;border-bottom:2px solid transparent;margin:0 0 -1px;cursor:pointer;color:var(--muted);font-weight:500;display:inline-flex;gap:6px;align-items:center;white-space:nowrap;font-size:15px}
 .bb-tab:hover{color:var(--ink)}
 .bb-tab[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--accent);border-bottom-width:3px}
