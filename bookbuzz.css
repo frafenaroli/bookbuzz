@@ -3,7 +3,7 @@
   --bg:#F5F5FA;--surface:#FFFFFF;--ink:#1A1D3D;--muted:#5A5C78;--rule:#D9D9E8;--rule-2:#ECECF4;
   --blue:#3730A3;--blue-ink:#FFFFFF;--blue-soft:#E4E3F7;--tag-ink:#3730A3;--mark:#FFD9CF;
   --accent:#F2674A;--accent-ink:#1A1D3D;--accent-text:#B5401F;--logo:#E5533A;
-  --serif:"Newsreader",Georgia,serif;
+  --serif:"Lora",Georgia,serif;
   --sans:"Bricolage Grotesque",system-ui,-apple-system,"Segoe UI",sans-serif;
   --display:"Bricolage Grotesque",system-ui,sans-serif;--dw:800;
   background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5;
