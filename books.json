@@ -1,5 +1,23 @@
 [
   {
+    "titolo": "Storie di fantasmi",
+    "autore": "Siri Hustvedt",
+    "editore": "Einaudi",
+    "mese": "2026-09",
+    "giorno": 1,
+    "traduttore": "Gioia Guerzoni, Cristiana Mennella",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Memoir",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/",
+      "data": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510",
+      "traduttore": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510"
+    }
+  },
+  {
     "titolo": "Il capitano e la canaglia",
     "autore": "Sarah Honey",
     "editore": "Triskell",
@@ -13,6 +31,100 @@
     "link": "https://libreriamo.it/?p=371958",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/?p=371958"
+    }
+  },
+  {
+    "titolo": "Bristol",
+    "autore": "Jean Echenoz",
+    "editore": "Adelphi",
+    "mese": "2026-09",
+    "giorno": 8,
+    "traduttore": "Giorgio Pinotti",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.adelphi.it/libro/9788845941436",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941436",
+      "data": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/"
+    }
+  },
+  {
+    "titolo": "Omicidio: istruzioni per l'uso",
+    "autore": "Rebecca Philipson",
+    "editore": "Longanesi",
+    "mese": "2026-09",
+    "giorno": 8,
+    "traduttore": "Federica Garlaschelli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [
+      "Esordio"
+    ],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/omicidio-istruzioni-per-uso-libro-rebecca-philipson/e/9788830463882",
+      "traduttore": "laFeltrinelli",
+      "esordio": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "All the Missing Pieces",
+    "autore": "Catherine Cowles",
+    "editore": "De Agostini",
+    "mese": "2026-09",
+    "giorno": 8,
+    "traduttore": "Federica Ressi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romance",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/all-the-missing-pieces-booklover-libro-catherine-cowles/e/9791221222029",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Cara Debbie",
+    "autore": "Freida McFadden",
+    "editore": "Newton Compton",
+    "mese": "2026-09",
+    "giorno": 8,
+    "traduttore": "Eleonora Motta",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/cara-debbie-libro-freida-mcfadden/e/9791224205074",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Bloody Black. La vendetta del cuore nero",
+    "autore": "Rhiannon Hargadon",
+    "editore": "Armenia",
+    "mese": "2026-09",
+    "giorno": 9,
+    "traduttore": "Marina Galli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/bloody-black-vendetta-del-cuore-libro-rhiannon-hargadon/e/9788834442715",
+      "traduttore": "laFeltrinelli",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -38,13 +150,86 @@
     "mese": "2026-09",
     "giorno": 11,
     "traduttore": "Isabella Zani",
-    "titolo_originale": null,
+    "titolo_originale": "Permanence",
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+      "titolo_originale": "https://www.lafeltrinelli.it/persempre-libro-sophie-mackintosh/e/9791255751465"
+    }
+  },
+  {
+    "titolo": "Il gatto del giardiniere",
+    "autore": "Thomas Schlesser",
+    "editore": "Longanesi",
+    "mese": "2026-09",
+    "giorno": 15,
+    "traduttore": "Alba Bariffi",
+    "titolo_originale": "Le Chat du jardinier",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/gatto-del-giardiniere-libro-thomas-schlesser/e/9788830465060",
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: titolo uniforme 'chat du jardinier' (SBN omette l'articolo iniziale)"
+    }
+  },
+  {
+    "titolo": "La giudice",
+    "autore": "James Patterson, Viola Davis",
+    "editore": "Longanesi",
+    "mese": "2026-09",
+    "giorno": 15,
+    "traduttore": "Anna Maria Biavasco",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/giudice-libro-james-patterson-viola-davis/e/9788830465022",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "All Better Now. La felicità è pericolosa",
+    "autore": "Neal Shusterman",
+    "editore": "Feltrinelli",
+    "mese": "2026-09",
+    "giorno": 15,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Young adult",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/all-better-now-felicita-pericolosa-libro-neal-shusterman/e/9788807911026",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Barbecue al numero 9",
+    "autore": "Jennie Godfrey",
+    "editore": "Bollati Boringhieri",
+    "mese": "2026-09",
+    "giorno": 15,
+    "traduttore": "Clelia Venturelli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/barbecue-al-numero-9-libro-jennie-godfrey/e/9788833946399",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -64,6 +249,60 @@
     }
   },
   {
+    "titolo": "Angel Down",
+    "autore": "Daniel Kraus",
+    "editore": "Ne/oN",
+    "mese": "2026-09",
+    "giorno": 16,
+    "traduttore": "Andrea Cassini",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Horror",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/angel-down-libro-daniel-kraus/e/9791282205184",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Ashes. Dalle ceneri risorgeremo",
+    "autore": "Eden Myra",
+    "editore": "HarperCollins Italia",
+    "mese": "2026-09",
+    "giorno": 18,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romance",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/ashes-vol-1-libro-eden-myra/e/9791259856241",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Autoritratto in verde",
+    "autore": "Marie NDiaye",
+    "editore": "Prehistorica",
+    "mese": "2026-09",
+    "giorno": 18,
+    "traduttore": "Antonella Conti",
+    "titolo_originale": "Autoportrait en vert",
+    "titolo_alternativo": null,
+    "genere": "Ibrido",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/autoritratto-in-verde-libro-marie-ndiaye/e/9788831234474",
+      "titolo_originale": "Libreriamo (estratto di ricerca, edizione francese 2005) e OPAC SBN, ricerca del 11/10/2026: solo edizioni francesi, nessuna italiana precedente"
+    }
+  },
+  {
     "titolo": "La stanza delle verità",
     "autore": "Clara Sánchez",
     "editore": "Garzanti",
@@ -77,6 +316,60 @@
     "link": "https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/"
+    }
+  },
+  {
+    "titolo": "Tempesta di fuoco",
+    "autore": "Clive Cussler, Mike Maden",
+    "editore": "Longanesi",
+    "mese": "2026-09",
+    "giorno": 22,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/tempesta-di-fuoco-libro-mike-maden-clive-cussler/e/9788830465459",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Arcana Academy. Vol. 1",
+    "autore": "Elise Kova",
+    "editore": "Mondadori",
+    "mese": "2026-09",
+    "giorno": 22,
+    "traduttore": "Roberta Zuppet",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/arcana-academy-vol-1-libro-elise-kova/e/9788804782445",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Assassinio al Grand Alpine Hotel",
+    "autore": "Lucy Foley",
+    "editore": "Mondadori",
+    "mese": "2026-09",
+    "giorno": 22,
+    "traduttore": "Alessandra Petrelli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/assassinio-al-grand-alpine-hotel-libro-lucy-foley/e/9788804816515",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -133,14 +426,15 @@
     "editore": "Mercurio Books",
     "mese": "2026-09",
     "giorno": 25,
-    "traduttore": null,
+    "traduttore": "Noemi Ronci",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.ibs.it/libri/editori/mercurio-books",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/editori/mercurio-books"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/editori/mercurio-books",
+      "traduttore": "https://www.lafeltrinelli.it/solstizio-libro-nadia-attia/e/9791281656710"
     }
   },
   {
@@ -181,14 +475,15 @@
     "editore": "Sonzogno",
     "mese": "2026-09",
     "giorno": 29,
-    "traduttore": null,
+    "traduttore": "Marinella Magrì",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
+      "traduttore": "https://www.lafeltrinelli.it/mestra-libro-madeline-miller/e/9788845428494"
     }
   },
   {
@@ -224,6 +519,60 @@
     }
   },
   {
+    "titolo": "Mars One",
+    "autore": "Charlotte Robinson",
+    "editore": "Longanesi",
+    "mese": "2026-09",
+    "giorno": 29,
+    "traduttore": "Annamaria Raffo",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantascienza",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/mars-one-libro-charlotte-robinson/e/9788830464544",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Il campo delle rose. Il libro della Polvere. Vol. 3",
+    "autore": "Philip Pullman",
+    "editore": "Salani",
+    "mese": "2026-09",
+    "giorno": 29,
+    "traduttore": null,
+    "titolo_originale": "The Rose Field",
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/libri/philip-pullman-il-libro-della-polvere-il-campo-delle-rose-9788831028806/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/campo-delle-rose-libro-della-libro-philip-pullman/e/9788831028806",
+      "titolo_originale": "solo estratto: risultato di ricerca web (cinefatti.it) che cita l'originale The Rose Field, uscito nel Regno Unito il 23/10/2025"
+    }
+  },
+  {
+    "titolo": "Threshing Day",
+    "autore": "Rebecca Yarros",
+    "editore": "Sperling & Kupfer",
+    "mese": "2026-09",
+    "giorno": 29,
+    "traduttore": "Marta Lanfranco",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/threshing-day-ediz-italiana-libro-rebecca-yarros/e/9788820086626",
+      "titolo_originale": "titolo inglese mantenuto in italiano: non basta a confermare l'originale (11/10/2026)"
+    }
+  },
+  {
     "titolo": "I Lázár",
     "autore": "Nelio Biedermann",
     "editore": "Guanda",
@@ -242,19 +591,40 @@
     }
   },
   {
-    "titolo": "Bristol",
-    "autore": "Jean Echenoz",
-    "editore": "Adelphi",
-    "mese": "2026-09",
-    "giorno": null,
-    "traduttore": "Giorgio Pinotti",
+    "titolo": "Spazzatura! Memoir di un netturbino",
+    "autore": "Simon Paré-Poupart",
+    "editore": "Alegre",
+    "mese": "2026-10",
+    "giorno": 2,
+    "traduttore": "Silvia Turato",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Memoir",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.lafeltrinelli.it/spazzatura-memoir-di-netturbino-libro-simon-pare-poupart/e/9791255600817"
+    }
+  },
+  {
+    "titolo": "Salvezza",
+    "autore": "C. William Langsfeld",
+    "editore": "Jimenez",
+    "mese": "2026-10",
+    "giorno": 2,
+    "traduttore": "Chiara Tambone",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.adelphi.it/libro/9788845941436",
+    "segnalazioni": [
+      "Esordio"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941436"
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/salvezza-libro-c-william-langsfeld/e/9791282325110",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -279,14 +649,15 @@
     "editore": "Mondadori (Oscar Vault)",
     "mese": "2026-10",
     "giorno": 6,
-    "traduttore": null,
+    "traduttore": "Daniela Rossetti",
     "titolo_originale": "Caught Up",
     "titolo_alternativo": null,
     "genere": "Romance",
     "segnalazioni": [],
     "link": "https://www.oscarmondadori.it/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.oscarmondadori.it/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.oscarmondadori.it/",
+      "traduttore": "https://www.lafeltrinelli.it/caught-up-into-darkness-ediz-libro-navessa-allen/e/9788804800934"
     }
   },
   {
@@ -306,6 +677,170 @@
     }
   },
   {
+    "titolo": "Land. Una storia irlandese",
+    "autore": "Maggie O'Farrell",
+    "editore": "Guanda",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Stefania De Franco",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo storico",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/",
+      "data": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/"
+    }
+  },
+  {
+    "titolo": "Ospiti",
+    "autore": "Ayelet Gundar-Goshen",
+    "editore": "Neri Pozza",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Raffaella Scardi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/ e https://www.lafeltrinelli.it/ospiti-libro-ayelet-gundar-goshen/e/9788854534216"
+    }
+  },
+  {
+    "titolo": "Sette giorni",
+    "autore": "Megha Majumdar",
+    "editore": "Marsilio",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Anna Rusconi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.lafeltrinelli.it/sette-giorni-libro-megha-majumdar/e/9788829795970"
+    }
+  },
+  {
+    "titolo": "L'artiglio",
+    "autore": "Maxime Chattam",
+    "editore": "Salani",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/artiglio-libro-maxime-chattam/e/9788831030663",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Le botte",
+    "autore": "Jean Meckert",
+    "editore": "Einaudi",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Luca Bianco",
+    "titolo_originale": "Les Coups",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: Les coups, Gallimard 1941; Libreriamo lo indica come romanzo d'esordio dell'autore",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata"
+    }
+  },
+  {
+    "titolo": "L'assedio infuria. Le tre stelle del caos. Vol. 3",
+    "autore": "Priest",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Giulia Malano",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/?p=372707",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/?p=372707",
+      "scheda_libraio": "https://www.lafeltrinelli.it/assedio-infuria-tre-stelle-del-libro-priest/e/9788804773313",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "La delicata dipendenza",
+    "autore": "Michael Talbot",
+    "editore": "Blackie",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Cristina D'Orazi",
+    "titolo_originale": "The Delicate Dependency",
+    "titolo_alternativo": null,
+    "genere": "Horror",
+    "segnalazioni": [
+      "Prima edizione italiana"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/delicata-dipendenza-libro-michael-talbot/e/9791281631922",
+      "titolo_originale": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "prima_edizione": "ilLibraio: 'arriva finalmente in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato"
+    }
+  },
+  {
+    "titolo": "Sight Unseen. Sotto lo stesso incantesimo",
+    "autore": "Alexis Marie",
+    "editore": "Nord",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Marta Lanfranco",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [
+      "Esordio"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/sight-unseen-sotto-stesso-incantesimo-libro-alexis-marie/e/9788842937678",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Lettere d'amore a un serial killer",
+    "autore": "Tasha Coryell",
+    "editore": "Bollati Boringhieri",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Manuela Faimali",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/lettere-d-amore-a-serial-libro-tasha-coryell/e/9788833942377",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
     "titolo": "La collana di corda",
     "autore": "Kate Foster",
     "editore": "astoria",
@@ -319,6 +854,81 @@
     "link": "https://www.illibraio.it/libri/kate-foster-la-collana-di-corda-9788833212975/",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/kate-foster-la-collana-di-corda-9788833212975/"
+    }
+  },
+  {
+    "titolo": "Un anno di solitudine",
+    "autore": "Eman AlYousuf",
+    "editore": "Polidoro",
+    "mese": "2026-10",
+    "giorno": 9,
+    "traduttore": "Barbara Teresi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/anno-di-solitudine-libro-eman-alyousuf/e/9791281852280",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "C'è un mostro nel lago",
+    "autore": "Laura Fernández",
+    "editore": "Gran vía",
+    "mese": "2026-10",
+    "giorno": 9,
+    "traduttore": "Serena Bianchi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/c-mostro-nel-lago-libro-laura-fernandez/e/9788895492858",
+      "data": "laFeltrinelli",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Contare le ossa",
+    "autore": "Katya Balen",
+    "editore": "Neri Pozza",
+    "mese": "2026-10",
+    "giorno": 9,
+    "traduttore": "Simona Fefè",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [
+      "Data da confermare"
+    ],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "Nerdgames, novità Neri Pozza di ottobre: 9 ottobre; stesso sito, novità di novembre: 3 novembre",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "La vita, nel frattempo",
+    "autore": "Richard Russo",
+    "editore": "Neri Pozza",
+    "mese": "2026-10",
+    "giorno": 9,
+    "traduttore": "Scilla Forti",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/vita-nel-frattempo-libro-richard-russo/e/9788854529298",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -382,11 +992,13 @@
     "titolo_alternativo": null,
     "genere": "Ibrido",
     "segnalazioni": [
-      "Esordio"
+      "Esordio",
+      "Data da confermare"
     ],
     "link": "https://www.adelphi.it/libro/9788845941443",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941443"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941443",
+      "data": "scheda Adelphi (import): 13 ottobre; laFeltrinelli: 16 ottobre"
     }
   },
   {
@@ -440,19 +1052,170 @@
     }
   },
   {
-    "titolo": "Wishbone",
-    "autore": "Laia Jufresa",
-    "editore": "SUR",
+    "titolo": "TEMPEST",
+    "autore": "Victoria Aveyard",
+    "editore": "Mondadori",
     "mese": "2026-10",
-    "giorno": 14,
-    "traduttore": "Giulia Zavagna",
+    "giorno": 13,
+    "traduttore": "Alessandra Petrelli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/libri/tempest-victoria-aveyard/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/tempest-victoria-aveyard/",
+      "data": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096",
+      "traduttore": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096"
+    }
+  },
+  {
+    "titolo": "Cantico del caos",
+    "autore": "Mathieu Belezi",
+    "editore": "Gramma",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Maria Baiocchi",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.lafeltrinelli.it/cantico-del-caos-libro-mathieu-belezi/e/9791256240807"
+    }
+  },
+  {
+    "titolo": "Il bestseller",
+    "autore": "Jenny Knightsby",
+    "editore": "Newton Compton",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/?p=372707",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/?p=372707",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Il caffè delle piccole magie",
+    "autore": "Jessica Rosenberg",
+    "editore": "STORM",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/caffe-delle-piccole-magie-libro-jessica-rosenberg/e/9791223256664",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Evasione",
+    "autore": "Jean Reno",
+    "editore": "Longanesi",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Alba Bariffi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/evasione-libro-jean-reno/e/9788830462830",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Le ore prima dell'alba",
+    "autore": "Celia Fremlin",
+    "editore": "Sellerio",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Chiara Rizzuto",
+    "titolo_originale": "The Hours Before Dawn",
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [
+      "Possibile riedizione"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/ore-prima-dell-alba-libro-celia-fremlin/e/9788838950407",
+      "titolo_originale": "trama di ilLibraio (Louise, la mansarda affittata a Vera) coincide con The Hours Before Dawn (1958); fonte: Wikipedia, ricerca del 11/10/2026",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: Fremlin pubblicata nel Giallo Mondadori dal 1961; questo titolo non verificato"
+    }
+  },
+  {
+    "titolo": "Wishbone",
+    "autore": "Laia Jufresa",
+    "editore": "SUR",
+    "mese": "2026-10",
+    "giorno": 14,
+    "traduttore": "Giulia Zavagna",
+    "titolo_originale": "Wishbone",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo_originale": "https://www.lafeltrinelli.it/wishbone-libro-laia-jufresa/e/9788869985058"
+    }
+  },
+  {
+    "titolo": "Le brave streghe non scappano",
+    "autore": "Ōtani Akira",
+    "editore": "e/o",
+    "mese": "2026-10",
+    "giorno": 14,
+    "traduttore": "Gianluca Coci",
+    "titolo_originale": "Babayaga no yoru",
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/brave-streghe-non-scappano-libro-otani-akira/e/9791257780326",
+      "data": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+      "titolo_originale": "ricerca web (11/10/2026): la trama italiana (Shindō guardia del corpo di Shōko, figlia del boss) coincide con The Night of Baba Yaga, Soho Press 2024; originale giapponese Babayaga no yoru (Wikipedia). Grafia giapponese non verificata"
+    }
+  },
+  {
+    "titolo": "Adam & Eve",
+    "autore": "Jeffrey Archer",
+    "editore": "HarperCollins Italia",
+    "mese": "2026-10",
+    "giorno": 14,
+    "traduttore": "Seba Pezzani",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo storico",
+    "segnalazioni": [
+      "Data da confermare"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/adam-eve-libro-jeffrey-archer/e/9791259856227",
+      "data": "laFeltrinelli: 14 ottobre; ilLibraio: 27 ottobre",
+      "traduttore": "laFeltrinelli: Seba Pezzani; ilLibraio scrive Seba Pizzani",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -461,14 +1224,15 @@
     "editore": "Mercurio Books",
     "mese": "2026-10",
     "giorno": 16,
-    "traduttore": null,
+    "traduttore": "Maurizio Totaro",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/editori/mercurio-books",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books",
+      "traduttore": "https://www.lafeltrinelli.it/tra-due-fuochi-libro-christopher-buehlman/e/9791281656697"
     }
   },
   {
@@ -488,21 +1252,80 @@
     }
   },
   {
+    "titolo": "Bandiere sul bayou",
+    "autore": "James Lee Burke",
+    "editore": "Jimenez",
+    "mese": "2026-10",
+    "giorno": 16,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo storico",
+    "segnalazioni": [],
+    "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+    "fonti": {
+      "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/bandiere-sul-bayou-libro-james-lee-burke/e/9791282325127",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Mossa fatale",
+    "autore": "Harlan Coben",
+    "editore": "TRE60",
+    "mese": "2026-10",
+    "giorno": 16,
+    "traduttore": "Riccardo Bettini",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [
+      "Possibile riedizione"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/mossa-fatale-libro-harlan-coben/e/9788867028979",
+      "riedizione": "terzo romanzo della serie Myron Bolitar (Fade Away, 1996); OPAC SBN, ricerca del 11/10/2026 trova solo l'edizione inglese, ma un'edizione italiana precedente con altro titolo non è esclusa",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Un giorno ancora",
+    "autore": "Susana Fortes",
+    "editore": "astoria",
+    "mese": "2026-10",
+    "giorno": 16,
+    "traduttore": "Patrizia Spinato",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
     "titolo": "Nessun fantasma",
     "autore": "Max Lury",
     "editore": "Atlantide",
     "mese": "2026-10",
     "giorno": 19,
-    "traduttore": null,
+    "traduttore": "Alessandra Osti",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [
-      "Esordio"
+      "Esordio",
+      "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "traduttore": "https://www.lafeltrinelli.it/nessun-fantasma-libro-max-lury/e/9791256420353",
+      "data": "ilLibraio: 19 ottobre; laFeltrinelli: 21 ottobre"
     }
   },
   {
@@ -556,21 +1379,192 @@
     }
   },
   {
-    "titolo": "Menti pericolose",
+    "titolo": "All in. Menti pericolose",
     "autore": "Jennifer Lynn Barnes",
     "editore": "Nord",
     "mese": "2026-10",
     "giorno": 20,
     "traduttore": "Tessa Bernardi",
     "titolo_originale": null,
-    "titolo_alternativo": null,
+    "titolo_alternativo": "Menti pericolose",
     "genere": "Young adult",
-    "segnalazioni": [
-      "Titolo italiano da confermare"
-    ],
+    "segnalazioni": [],
     "link": "https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
+      "titolo": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 e https://libreriamo.it/?p=372707",
+      "titolo_alternativo": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 e https://libreriamo.it/?p=372707"
+    }
+  },
+  {
+    "titolo": "L'enigma di Hurley Court",
+    "autore": "Gareth Rubin",
+    "editore": "Longanesi",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Amerigo Dercenno",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/enigma-di-hurley-court-libro-gareth-rubin/e/9788830465077",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Le vite nascoste",
+    "autore": "Patrick Ryan",
+    "editore": "Neri Pozza",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Laura Prandino",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/vite-nascoste-libro-patrick-ryan/e/9788854534674",
+      "data": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Il mio anno a Parigi con Gertrude Stein",
+    "autore": "Deborah Levy",
+    "editore": "NN",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": null,
+    "titolo_originale": "My Year in Paris with Gertrude Stein",
+    "titolo_alternativo": null,
+    "genere": "Ibrido",
+    "segnalazioni": [
+      "Data da confermare"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/mio-anno-a-parigi-con-libro-deborah-levy/e/9791255751502",
+      "data": "ilLibraio: 20 ottobre; laFeltrinelli: 23 ottobre",
+      "titolo_originale": "recensione NPR del 03/06/2026 (Farrar, Straus and Giroux); trama coincidente"
+    }
+  },
+  {
+    "titolo": "La rete a maglie strette",
+    "autore": "Håkan Nesser",
+    "editore": "Guanda",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Carmen Giorgetti Cima",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/rete-a-maglie-strette-libro-hakan-nesser/e/9788823536494",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessun risultato",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Pagnotta non c'è più",
+    "autore": "László Krasznahorkai",
+    "editore": "Bompiani",
+    "mese": "2026-10",
+    "giorno": 21,
+    "traduttore": "Dóra Várnai",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595",
+      "traduttore": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595 (ilLibraio scriveva Dora Várna)"
+    }
+  },
+  {
+    "titolo": "Il viaggio inutile",
+    "autore": "Camila Sosa Villada",
+    "editore": "SUR",
+    "mese": "2026-10",
+    "giorno": 21,
+    "traduttore": "Giulia Zavagna",
+    "titolo_originale": "El viaje inútil",
+    "titolo_alternativo": null,
+    "genere": "Memoir",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/viaggio-inutile-corpo-scrittura-libro-camila-sosa-villada/e/9788869985041",
+      "titolo_originale": "laFeltrinelli"
+    }
+  },
+  {
+    "titolo": "Ride bene chi ha i denti",
+    "autore": "Zyta Rudzka",
+    "editore": "marcos y marcos",
+    "mese": "2026-10",
+    "giorno": 21,
+    "traduttore": "Irene Salvatori",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [
+      "Data da confermare"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/ride-bene-chi-ha-denti-libro-zyta-rudzka/e/9788892942615",
+      "data": "ilLibraio: 21 ottobre; laFeltrinelli: 28 ottobre",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Cose che cadono dal cielo",
+    "autore": "Selja Ahava",
+    "editore": "Barta",
+    "mese": "2026-10",
+    "giorno": 22,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/cose-che-cadono-dal-cielo-libro-selja-ahava/e/9788898462742",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: di Ahava solo un altro titolo (Elliot, 2022)",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Quaderni dell'acqua",
+    "autore": "João Reis",
+    "editore": "Barta",
+    "mese": "2026-10",
+    "giorno": 22,
+    "traduttore": "Andrea Bianchini",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/quaderni-dell-acqua-libro-joao-reis/e/9788898462704",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -579,14 +1573,15 @@
     "editore": "Mondadori",
     "mese": "2026-10",
     "giorno": 27,
-    "traduttore": null,
+    "traduttore": "Annamaria Raffo",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/agrippa-robert-harris/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/agrippa-robert-harris/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/agrippa-robert-harris/",
+      "traduttore": "https://www.lafeltrinelli.it/agrippa-libro-robert-harris/e/9788804811190"
     }
   },
   {
@@ -613,8 +1608,8 @@
     "editore": "Fazi",
     "mese": "2026-10",
     "giorno": 27,
-    "traduttore": null,
-    "titolo_originale": null,
+    "traduttore": "Giulia Gresti",
+    "titolo_originale": "Nightwatching",
     "titolo_alternativo": null,
     "genere": "Thriller",
     "segnalazioni": [
@@ -622,7 +1617,9 @@
     ],
     "link": "https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+      "traduttore": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962",
+      "titolo_originale": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962"
     }
   },
   {
@@ -668,11 +1665,13 @@
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [
-      "Esordio"
+      "Esordio",
+      "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "ilLibraio: 27 ottobre; laFeltrinelli: 30 ottobre"
     }
   },
   {
@@ -692,6 +1691,41 @@
     }
   },
   {
+    "titolo": "La voce",
+    "autore": "Matsumoto Seichō",
+    "editore": "Adelphi",
+    "mese": "2026-10",
+    "giorno": 27,
+    "traduttore": "Alessandro Passarella",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Racconti",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "La casa accanto",
+    "autore": "Anne Rivers Siddons",
+    "editore": "Neri Pozza",
+    "mese": "2026-10",
+    "giorno": 27,
+    "traduttore": "Giovanni Zucca",
+    "titolo_originale": "The House Next Door",
+    "titolo_alternativo": null,
+    "genere": "Horror",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo_originale": "trama di ilLibraio (i Kennedy, Atlanta, il terreno accanto) coincide con The House Next Door (1978); ricerca web del 11/10/2026",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana di The House Next Door trovata"
+    }
+  },
+  {
     "titolo": "Luce",
     "autore": "Eva Figes",
     "editore": "Atlantide",
@@ -702,11 +1736,13 @@
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [
-      "Prima edizione italiana"
+      "Prima edizione italiana",
+      "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "ilLibraio: 28 ottobre; laFeltrinelli: 14 ottobre"
     }
   },
   {
@@ -716,7 +1752,7 @@
     "mese": "2026-10",
     "giorno": 28,
     "traduttore": "Claudia Di Palermo",
-    "titolo_originale": null,
+    "titolo_originale": "Bezonken rood",
     "titolo_alternativo": null,
     "genere": "Ibrido",
     "segnalazioni": [
@@ -724,7 +1760,8 @@
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo_originale": "https://www.lafeltrinelli.it/rosso-decantato-libro-jeroen-brouwers/e/9791257800284"
     }
   },
   {
@@ -778,19 +1815,22 @@
     }
   },
   {
-    "titolo": "Pagnotta non c'è più",
-    "autore": "László Krasznahorkai",
-    "editore": "Bompiani",
+    "titolo": "La potenza delle mosche",
+    "autore": "Lydie Salvayre",
+    "editore": "Prehistorica",
     "mese": "2026-10",
-    "giorno": null,
-    "traduttore": "Dora Várna",
-    "titolo_originale": null,
+    "giorno": 30,
+    "traduttore": "Lorenza Di Lella, Francesca Scala",
+    "titolo_originale": "La Puissance des mouches",
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/potenza-delle-mosche-libro-lydie-salvayre/e/9788831234498",
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: La puissance des mouches, Seuil 1995",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata"
     }
   },
   {
@@ -864,6 +1904,123 @@
     }
   },
   {
+    "titolo": "Dead Beat",
+    "autore": "Leigh Bardugo",
+    "editore": "Mondadori",
+    "mese": "2026-11",
+    "giorno": 3,
+    "traduttore": "Roberta Verde",
+    "titolo_originale": "Dead Beat",
+    "titolo_alternativo": "Dead Beat. Ultimo rintocco",
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/libri/dead-beat-leigh-bardugo/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/dead-beat-leigh-bardugo/",
+      "data": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
+      "traduttore": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
+      "titolo_originale": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
+      "titolo_alternativo": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413"
+    }
+  },
+  {
+    "titolo": "Vespri veneziani",
+    "autore": "John Banville",
+    "editore": "Guanda",
+    "mese": "2026-11",
+    "giorno": 3,
+    "traduttore": "Irene Abigail Piccinini",
+    "titolo_originale": "Venetian Vespers",
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/vespri-veneziani-libro-john-banville/e/9788823535732",
+      "data": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+      "titolo_originale": "ricerca web (11/10/2026): Venetian Vespers (Faber/Knopf 2025), Venezia 1899, Dolman e Laura Rensselaer; trama coincidente"
+    }
+  },
+  {
+    "titolo": "Il padre della pioggia",
+    "autore": "Lily King",
+    "editore": "Fazi",
+    "mese": "2026-11",
+    "giorno": 3,
+    "traduttore": "Manuela Francescon",
+    "titolo_originale": "Father of the Rain",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [
+      "Prima edizione italiana"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/padre-della-pioggia-libro-lily-king/e/9791259679321",
+      "titolo_originale": "laFeltrinelli",
+      "prima_edizione": "scheda: 'terzo romanzo di Lily King finora inedito in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato"
+    }
+  },
+  {
+    "titolo": "Che la morte ci sfiori",
+    "autore": "Michel Bussi",
+    "editore": "e/o",
+    "mese": "2026-11",
+    "giorno": 4,
+    "traduttore": "Alberto Bracci Testasecca",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/che-morte-ci-sfiori-libro-michel-bussi/e/9791257780357",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Paris Celestial",
+    "autore": "A.Y. Chao",
+    "editore": "e/o",
+    "mese": "2026-11",
+    "giorno": 4,
+    "traduttore": "Tiziana Lo Porto",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/paris-celestial-libro-ay-chao/e/9791257780371",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Le nozze norvegesi",
+    "autore": "Karen Forberg",
+    "editore": "Neri Pozza",
+    "mese": "2026-11",
+    "giorno": 6,
+    "traduttore": "Cristina Falcinella",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [
+      "Data da confermare"
+    ],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/nozze-norvegesi-libro-karen-forberg/e/9788854534421",
+      "data": "Nerdgames: 6 novembre; laFeltrinelli: 27 ottobre",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
     "titolo": "Yesteryear",
     "autore": "Caro Claire Burke",
     "editore": "Neri Pozza",
@@ -887,14 +2044,49 @@
     "editore": "Guanda",
     "mese": "2026-11",
     "giorno": 10,
-    "traduttore": null,
+    "traduttore": "Bruno Arpaia",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "traduttore": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/ e https://www.lafeltrinelli.it/maite-libro-fernando-aramburu/e/9788823537286"
+    }
+  },
+  {
+    "titolo": "Le signore di Peregrine Hill",
+    "autore": "Nina de Gramont",
+    "editore": "Neri Pozza",
+    "mese": "2026-11",
+    "giorno": 10,
+    "traduttore": "Massimo Ortelio",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "L'ossessione della diva",
+    "autore": "Pierre Martin",
+    "editore": "Neri Pozza",
+    "mese": "2026-11",
+    "giorno": 10,
+    "traduttore": "Roberta Scarabelli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Giallo",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -914,19 +2106,129 @@
     }
   },
   {
+    "titolo": "Cimici",
+    "autore": "Martina Vidaić",
+    "editore": "Voland",
+    "mese": "2026-11",
+    "giorno": 13,
+    "traduttore": "Elisa Copetti",
+    "titolo_originale": "Stjenice",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/cimici-libro-martina-vidaic/e/9788862436427",
+      "titolo_originale": "EU Prize for Literature, pagina dell'autrice: romanzo Stjenice (2021), premio 2023, trama coincidente"
+    }
+  },
+  {
+    "titolo": "La scuola di mia madre",
+    "autore": "Stefan Merrill Block",
+    "editore": "Neri Pozza",
+    "mese": "2026-11",
+    "giorno": 17,
+    "traduttore": "Carlo Prosperi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Memoir",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/scuola-di-mia-madre-libro-stefan-merrill-block/e/9788854534223",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Medusa",
+    "autore": "Lars Kepler",
+    "editore": "Longanesi",
+    "mese": "2026-11",
+    "giorno": 17,
+    "traduttore": "Andrea Berardini",
+    "titolo_originale": "Medusa",
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "titolo_originale": "Albert Bonniers Förlag: Medusa, uscita svedese 21/09/2026, undicesimo Joona Linna (ricerca web del 11/10/2026)"
+    }
+  },
+  {
     "titolo": "Headlights",
     "autore": "CJ Leede",
     "editore": "Mercurio Books",
     "mese": "2026-11",
     "giorno": 20,
-    "traduttore": null,
+    "traduttore": "Nicole Spallina",
     "titolo_originale": "Headlights",
     "titolo_alternativo": null,
     "genere": "Horror",
-    "segnalazioni": [],
+    "segnalazioni": [
+      "Data da confermare"
+    ],
     "link": "https://www.libreriauniversitaria.it/libri-editore_Mercurio+Books-mercurio_books.htm",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.libreriauniversitaria.it/libri-editore_Mercurio+Books-mercurio_books.htm"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.libreriauniversitaria.it/libri-editore_Mercurio+Books-mercurio_books.htm",
+      "traduttore": "https://www.lafeltrinelli.it/headlights-libro-cj-leede/e/9791281656765",
+      "data": "fonte precedente: 20 novembre; laFeltrinelli: 13 novembre"
+    }
+  },
+  {
+    "titolo": "Moscow Mule",
+    "autore": "Maya Rosa",
+    "editore": "Voland",
+    "mese": "2026-11",
+    "giorno": 20,
+    "traduttore": "Cristina Vezzaro",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "data": "https://www.lafeltrinelli.it/moscow-mule-libro-maya-rosa/e/9788862436441"
+    }
+  },
+  {
+    "titolo": "Non lasciarlo entrare",
+    "autore": "Lisa Jewell",
+    "editore": "Neri Pozza",
+    "mese": "2026-11",
+    "giorno": 24,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Schema di morte",
+    "autore": "James Patterson",
+    "editore": "Longanesi",
+    "mese": "2026-11",
+    "giorno": 24,
+    "traduttore": "Anna Maria Biavasco",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "fonti": {
+      "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/schema-di-morte-libro-james-patterson/e/9788830464933",
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
     }
   },
   {
@@ -935,46 +2237,15 @@
     "editore": "Mercurio Books",
     "mese": "2026-12",
     "giorno": 4,
-    "traduttore": null,
+    "traduttore": "Simone Sauza",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Fantascienza",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/editori/mercurio-books",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books"
-    }
-  },
-  {
-    "titolo": "TEMPEST",
-    "autore": "Victoria Aveyard",
-    "editore": "Mondadori",
-    "mese": null,
-    "giorno": null,
-    "traduttore": null,
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Fantasy",
-    "segnalazioni": [],
-    "link": "https://www.mondadori.it/libri/tempest-victoria-aveyard/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/tempest-victoria-aveyard/"
-    }
-  },
-  {
-    "titolo": "Dead Beat",
-    "autore": "Leigh Bardugo",
-    "editore": "Mondadori",
-    "mese": null,
-    "giorno": null,
-    "traduttore": null,
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Fantasy",
-    "segnalazioni": [],
-    "link": "https://www.mondadori.it/libri/dead-beat-leigh-bardugo/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/dead-beat-leigh-bardugo/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books",
+      "traduttore": "https://www.lafeltrinelli.it/divisione-antimemetica-libro-qntm/e/9791281656796"
     }
   },
   {
@@ -1026,22 +2297,6 @@
     }
   },
   {
-    "titolo": "Land. Una storia irlandese",
-    "autore": "Maggie O'Farrell",
-    "editore": "Guanda",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Stefania De Franco",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo storico",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/"
-    }
-  },
-  {
     "titolo": "Una vita lontana",
     "autore": "M.L. Stedman",
     "editore": "Garzanti",
@@ -1058,44 +2313,12 @@
     }
   },
   {
-    "titolo": "Ospiti",
-    "autore": "Ayelet Gundar-Goshen",
-    "editore": "Neri Pozza",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Raffaella Scardi",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
     "titolo": "Uomini e donne",
     "autore": "Lena Andersson",
     "editore": "e/o",
     "mese": null,
     "giorno": null,
     "traduttore": "Carmen Giorgetti Cima",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Moscow Mule",
-    "autore": "Maya Rosa",
-    "editore": "Voland",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Cristina Vezzaro",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
@@ -1156,38 +2379,6 @@
     }
   },
   {
-    "titolo": "Cantico del caos",
-    "autore": "Mathieu Belezi",
-    "editore": "Gramma",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Maria Baiocchi",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Sette giorni",
-    "autore": "Megha Majumdar",
-    "editore": "Marsilio",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Anna Rusconi",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
     "titolo": "Le lacrime del Nilo",
     "autore": "Reem Gaafar",
     "editore": "astoria",
@@ -1235,38 +2426,6 @@
     "link": "https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/"
-    }
-  },
-  {
-    "titolo": "Spazzatura! Memoir di un netturbino",
-    "autore": "Simon Paré-Poupart",
-    "editore": "Alegre",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Silvia Turato",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Memoir",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Storie di fantasmi",
-    "autore": "Siri Hustvedt",
-    "editore": "Einaudi",
-    "mese": null,
-    "giorno": null,
-    "traduttore": null,
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Memoir",
-    "segnalazioni": [],
-    "link": "https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/"
     }
   }
 ]
