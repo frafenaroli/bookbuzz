@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BookBuzz</title>
+<meta name="description" content="Narrativa straniera tradotta in uscita in Italia: romanzi, racconti, memoir e libri ibridi, anche di genere.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="bookbuzz.css">
+<style>body{margin:0}</style>
+</head>
+<body>
+<div id="bb" class="bb is-d">
+
+  <header class="bb-head">
+    <div class="bb-wrap">
+      <button type="button" class="bb-logo" data-act="resetAll">BookBuzz</button>
+      <p class="bb-tag" id="bb-tagline">Narrativa straniera tradotta in uscita in Italia: romanzi, racconti, memoir e libri ibridi, anche di genere.</p>
+    </div>
+  </header>
+
+  <div class="bb-sbar">
+    <div class="bb-wrap">
+      <div class="bb-search" role="search">
+        <svg class="bb-ico" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+        <input id="bb-q" class="bb-input" type="search" aria-label="Cerca un libro" placeholder="Cerca titolo, autore, editore o traduttore" autocomplete="off">
+        <button type="button" class="bb-clear" id="bb-clear" aria-label="Cancella la ricerca" data-act="clearQ" hidden><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg></button>
+      </div>
+      <div class="bb-mtools bb-m-only">
+        <button type="button" class="bb-fbtn" data-act="openSheet" aria-haspopup="dialog">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"></path></svg>
+          <span>Filtri</span>
+          <span class="bb-badge" id="bb-badge" hidden></span>
+        </button>
+        <div class="bb-selwrap">
+          <label class="bb-sr" for="bb-sort-m">Ordina</label>
+          <select id="bb-sort-m" class="bb-select bb-sort">
+            <option value="date">Per data di uscita</option>
+            <option value="title">Per titolo</option>
+            <option value="author">Per autore</option>
+            <option value="publisher">Per editore</option>
+          </select>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"></path></svg>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bb-wrap bb-main">
+
+    <aside class="bb-panel" aria-label="Filtri">
+      <div class="bb-sheet-head bb-m-only">
+        <h2 class="bb-sheet-t">Filtri</h2>
+        <button type="button" class="bb-iconbtn" aria-label="Chiudi i filtri" data-act="closeSheet"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg></button>
+      </div>
+      <div class="bb-panel-body">
+        <section class="bb-fs" id="bb-fs-genre">
+          <h2 class="bb-fs-h">Genere</h2>
+          <div class="bb-chips" id="bb-genres"></div>
+        </section>
+        <section class="bb-fs" id="bb-fs-evid">
+          <h2 class="bb-fs-h">In evidenza</h2>
+          <div class="bb-chips" id="bb-evid"></div>
+        </section>
+        <section class="bb-fs">
+          <h2 class="bb-fs-h">Editore</h2>
+          <div class="bb-search bb-search-s">
+            <svg class="bb-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+            <input id="bb-pq" class="bb-input bb-input-s" type="search" aria-label="Cerca un editore" placeholder="Cerca un editore" autocomplete="off">
+          </div>
+          <ul class="bb-checks" id="bb-pubs"></ul>
+          <p class="bb-small" id="bb-pub-empty" hidden>Nessun editore con questo nome.</p>
+          <button type="button" class="bb-more" id="bb-pub-more" data-act="togglePubAll" hidden></button>
+        </section>
+        <div class="bb-d-only" id="bb-side-reset" hidden><button type="button" class="bb-link" data-act="resetFilters">Azzera tutti i filtri</button></div>
+      </div>
+      <div class="bb-sheet-foot bb-m-only">
+        <button type="button" class="bb-btn" data-act="resetFilters">Azzera</button>
+        <button type="button" class="bb-btn bb-btn-p bb-grow" data-act="closeSheet" id="bb-show"></button>
+      </div>
+    </aside>
+
+    <section class="bb-results" aria-label="Risultati">
+      <div class="bb-sugg" id="bb-sugg" hidden></div>
+      <nav class="bb-tabs" aria-label="Mese di uscita" id="bb-tabs"></nav>
+      <div class="bb-bar">
+        <p class="bb-count" aria-live="polite" id="bb-count">Caricamento…</p>
+        <div class="bb-selwrap bb-selwrap-s bb-d-only">
+          <label class="bb-sellab" for="bb-sort-d">Ordina</label>
+          <select id="bb-sort-d" class="bb-select bb-sort">
+            <option value="date">per data di uscita</option>
+            <option value="title">per titolo</option>
+            <option value="author">per autore</option>
+            <option value="publisher">per editore</option>
+          </select>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"></path></svg>
+        </div>
+      </div>
+      <div class="bb-active" id="bb-active" hidden></div>
+      <p class="bb-note" id="bb-fuzzy" hidden></p>
+      <div id="bb-groups"></div>
+      <div class="bb-morewrap" id="bb-morewrap" hidden>
+        <button type="button" class="bb-btn" data-act="showMore" id="bb-more"></button>
+        <p class="bb-moresub" id="bb-moresub"></p>
+      </div>
+      <div class="bb-empty" id="bb-empty" hidden>
+        <p class="bb-empty-t" id="bb-empty-t"></p>
+        <p class="bb-empty-s">Prova a togliere qualche filtro o a cercare in modo più generico.</p>
+        <div class="bb-empty-a">
+          <button type="button" class="bb-btn" data-act="clearQ" id="bb-empty-q">Cancella la ricerca</button>
+          <button type="button" class="bb-btn" data-act="resetFilters" id="bb-empty-f">Azzera i filtri</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <button type="button" class="bb-scrim" aria-label="Chiudi" data-act="closeOverlays"></button>
+  <div class="bb-drawer" id="bb-drawer" role="dialog" aria-modal="true" hidden></div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
