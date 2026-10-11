@@ -93,6 +93,7 @@
 .bb-fs-h{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 12px}
 .bb-chips{display:flex;flex-wrap:wrap;gap:6px}
 .bb-chip{min-height:38px;padding:6px 13px;border-radius:999px;border:1px solid var(--rule);background:var(--surface);cursor:pointer;font-size:14px;display:inline-flex;align-items:center;gap:7px;margin:0}
+.is-d .bb-chip{min-height:32px;padding:4px 11px;font-size:13px;gap:6px}
 .is-m .bb-chip{min-height:44px;padding:8px 15px;background:var(--bg)}
 .bb-chip:hover{border-color:var(--muted)}
 .bb-chip[aria-pressed="true"]{background:var(--blue);border-color:var(--blue);color:var(--blue-ink)}
@@ -118,12 +119,12 @@
 .bb-sugg-k{color:var(--muted);margin-right:4px}
 .bb-tabs{display:flex;gap:2px;border-bottom:1px solid var(--rule);overflow-x:auto;scrollbar-width:none;margin:0 0 18px}
 .bb-tabs::-webkit-scrollbar{display:none}
-.is-m .bb-tabs{flex-wrap:wrap;gap:8px;overflow:visible;border-bottom:0;margin:0 0 20px;padding:0}
-.bb-tab{flex:none;min-height:46px;padding:10px 14px;background:none;border:0;border-bottom:2px solid transparent;margin:0 0 -1px;cursor:pointer;color:var(--muted);font-weight:500;display:inline-flex;gap:6px;align-items:center;white-space:nowrap;font-size:15px}
+.is-m .bb-tabs{flex-wrap:wrap;gap:6px;overflow:visible;border-bottom:0;margin:0 0 20px;padding:0}
+.bb-tab{flex:none;min-height:40px;padding:8px 12px;background:none;border:0;border-bottom:2px solid transparent;margin:0 0 -1px;cursor:pointer;color:var(--muted);font-weight:500;display:inline-flex;gap:6px;align-items:center;white-space:nowrap;font-size:14px}
 .bb-tab:hover{color:var(--ink)}
 .bb-tab[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--accent);border-bottom-width:3px}
 .bb-tab:disabled{opacity:.4;cursor:default}
-.is-m .bb-tab{min-height:40px;padding:6px 13px;border:1px solid var(--rule);border-radius:999px;margin:0;background:var(--surface);font-size:14px;color:var(--ink)}
+.is-m .bb-tab{min-height:34px;padding:4px 11px;border:1px solid var(--rule);border-radius:999px;margin:0;background:var(--surface);font-size:13px;color:var(--ink)}
 .is-m .bb-tab[aria-pressed="true"]{background:var(--blue);border-color:var(--blue);color:var(--blue-ink);border-bottom-width:1px}
 .is-m .bb-tab:disabled{display:none}
 .bb-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 12px;flex-wrap:wrap}
@@ -164,7 +165,7 @@
 .bb-tagl{display:inline-flex;align-items:center;font-size:12px;font-weight:600;padding:2px 10px;border-radius:999px;background:var(--mark);color:var(--accent-text)}
 /* genere: etichette colorate */
 .bb-gtag,.bb-gdot,.bb-gbadge,.bb-gico{--h:35;--s:10%}
-.g-romanzo{--h:35;--s:10%}
+.g-narrativa{--h:35;--s:10%}
 .g-romanzo-storico{--h:32;--s:65%}
 .g-racconti{--h:75;--s:45%}
 .g-ibrido{--h:175;--s:45%}

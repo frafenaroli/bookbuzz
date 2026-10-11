@@ -89,7 +89,7 @@ Esiti:
 Per ogni libro tenuto, partendo dall'uscita di `lf.py`:
 - **Traduttore**: scheda dell'editore, lista dell'editore o laFeltrinelli. Riporta la grafia della fonte; se due fonti scrivono il nome in modo diverso, scegli quella dell'editore e annota l'altra in `fonti.traduttore`. Non dedurlo mai da edizioni precedenti dello stesso autore.
 - **Data**: lista o scheda dell'editore, poi laFeltrinelli. Se le fonti divergono, tieni quella dell'editore e aggiungi "Data da confermare", scrivendo le due date in `fonti.data`.
-- **Genere**: uno solo, tra i valori ammessi. Se il libro è a metà tra memoir e romanzo, usa "Ibrido".
+- **Genere**: uno solo, tra i valori ammessi. Se il libro è a metà tra memoir e romanzo, usa "Ibrido". Per la narrativa senza un genere più preciso usa "Narrativa".
 - **Link**: la scheda o la pagina dell'editore quando esiste, altrimenti l'articolo che ha segnalato il libro.
 - **Editore nuovo**: se il marchio non è ancora in `editori.json`, aggiungilo con `indipendente` (`true`, `false` con il `gruppo`, oppure `null` se non trovi conferme) e una `nota` con la fonte. Criterio e gruppi principali sono in `CLAUDE.md`. Cerca la proprietà sul sito dell'editore (pagina "chi siamo") o nella stampa economica; non fidarti della memoria.
 - **Trama**: vedi sotto.

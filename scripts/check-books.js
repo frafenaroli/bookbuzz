@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const GENERI = ["Romanzo", "Romanzo storico", "Racconti", "Ibrido", "Memoir", "Giallo", "Thriller", "Horror", "Fantasy", "Fantascienza", "Romance", "Young adult"];
+const GENERI = ["Narrativa", "Romanzo storico", "Racconti", "Ibrido", "Memoir", "Giallo", "Thriller", "Horror", "Fantasy", "Fantascienza", "Romance", "Young adult"];
 const SEGNALAZIONI = ["Esordio", "Prima edizione italiana", "Possibile riedizione", "Titolo italiano da confermare", "Data da confermare"];
 const CAMPI = ["titolo", "autore", "editore", "mese", "giorno", "traduttore", "titolo_originale", "titolo_alternativo", "genere", "segnalazioni", "link", "trama", "fonti"];
 

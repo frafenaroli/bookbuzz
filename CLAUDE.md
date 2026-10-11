@@ -40,7 +40,7 @@ Un array di oggetti, ordinato per `mese`, poi `giorno`, con le date `null` in fo
 | `trama` | stringa o `null` | Due o tre frasi sul libro, al massimo 600 caratteri, mostrate nella scheda. Testo dell'editore accorciato se c'è, altrimenti riscritto dalle fonti; mai inventato. Fonte in `fonti.trama`. |
 | `fonti` | oggetto | Una chiave per campo (`data`, `traduttore`, `titolo_originale`, …) con URL o nota sulla fonte, per esempio `"solo estratto"` o i canali provati senza esito. |
 
-Generi ammessi: `Romanzo`, `Romanzo storico`, `Racconti`, `Ibrido`, `Memoir`, `Giallo`, `Thriller`, `Horror`, `Fantasy`, `Fantascienza`, `Romance`, `Young adult`. Un genere nuovo va aggiunto anche a `ICONS` in `app.js` e alle classi `.g-*` in `bookbuzz.css`, altrimenti appare con l'icona e il colore di Romanzo.
+Generi ammessi: `Narrativa`, `Romanzo storico`, `Racconti`, `Ibrido`, `Memoir`, `Giallo`, `Thriller`, `Horror`, `Fantasy`, `Fantascienza`, `Romance`, `Young adult`. Un genere nuovo va aggiunto anche a `ICONS` in `app.js` e alle classi `.g-*` in `bookbuzz.css`, altrimenti appare con l'icona e il colore di Narrativa.
 
 Segnalazioni ammesse: `Esordio`, `Prima edizione italiana`, `Possibile riedizione`, `Titolo italiano da confermare`, `Data da confermare`. Le prime due alimentano il filtro "In evidenza" (insieme a "Indipendenti", che viene da `editori.json`), le altre compaiono come nota nella scheda del libro.
 
@@ -71,7 +71,7 @@ I libri importati dal prototipo hanno in `fonti` la sola chiave `import`, con il
   "traduttore": "Susanna Basso",
   "titolo_originale": "The Things We Never Say",
   "titolo_alternativo": null,
-  "genere": "Romanzo",
+  "genere": "Narrativa",
   "segnalazioni": [],
   "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
   "trama": "Artie Dam è l'insegnante che tutti vorrebbero: accogliente, gioviale, devoto ai suoi ragazzi. Eppure dietro la sua vita si nasconde un'ombra insondabile.",
