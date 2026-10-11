@@ -232,6 +232,7 @@ function resetFilters(){ set({ mese: "all", genere: [], editore: [], evid: [], l
 function btn(act, v){ return ' data-act="' + act + '"' + (v != null ? ' data-v="' + esc(v) + '"' : ''); }
 
 actions = {
+  toTop: function(){ window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); },
   resetAll: function(){ set({ q: "", mese: "all", genere: [], editore: [], evid: [], limit: PAGE, pubQ: "", pubAll: false, detail: null, sheet: false }); },
   resetFilters: resetFilters,
   clearQ: function(){ set({ q: "", limit: PAGE }); $("bb-q").focus(); },
@@ -431,7 +432,7 @@ function render(){
 
   renderDetail();
 
-  root.className = "bb t-" + theme + (isM ? " is-m" : " is-d") + (isM && S.sheet ? " sheet-open" : "") + (S.detail != null ? " detail-open" : "");
+  root.className = "bb t-" + theme + (stuck ? " is-stuck" : "") + (isM ? " is-m" : " is-d") + (isM && S.sheet ? " sheet-open" : "") + (S.detail != null ? " detail-open" : "");
 }
 
 function renderDetail(){
@@ -526,6 +527,17 @@ document.addEventListener("keydown", function(e){
   if (S.detail != null) set({ detail: null });
   else if (S.sheet) set({ sheet: false });
 });
+/* Logo ridotto nella barra fissa: compare quando l'intestazione è uscita dallo schermo, cioè quando la barra si attacca in cima */
+var stuck = false;
+function setStuck(v){
+  if (v === stuck) return;
+  stuck = v;
+  root.classList.toggle("is-stuck", v);
+  document.querySelector(".bb-mini-logo").tabIndex = v ? 0 : -1;
+}
+if ("IntersectionObserver" in window){
+  new IntersectionObserver(function(entries){ setStuck(!entries[0].isIntersecting); }).observe(document.querySelector(".bb-head"));
+}
 function measure(){
   var n = window.innerWidth < 768;
   if (n !== isM){ isM = n; if (loaded) render(); }

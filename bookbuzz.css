@@ -27,7 +27,7 @@
 
 /* header */
 .bb-head{padding:44px 0 20px}
-.is-m .bb-head{padding:24px 0 16px}
+.is-m .bb-head{padding:24px 0 2px}
 .bb-logo{background:none;border:0;padding:0;margin:0;cursor:pointer;font-family:var(--display);font-weight:var(--dw);font-size:60px;line-height:1;letter-spacing:-.015em;color:var(--logo)}
 .is-m .bb-logo{font-size:34px}
 .bb-tag{margin:12px 0 0;color:var(--muted);max-width:62ch}
@@ -69,7 +69,14 @@
 /* layout */
 .bb-main{padding-top:28px;padding-bottom:96px}
 .is-d .bb-main{display:grid;grid-template-columns:250px minmax(0,1fr);gap:56px;align-items:start}
-.is-m .bb-sbar{padding:14px 0}
+.is-m .bb-sbar{padding:6px 0 14px}
+/* logo ridotto nella barra fissa: la riga occupa sempre lo stesso spazio, così la lista non salta */
+.bb-mini{height:26px;margin:0 0 6px;display:flex;align-items:center;overflow:hidden}
+.bb-mini-logo{background:none;border:0;padding:0;margin:0;cursor:pointer;font-family:var(--display);font-weight:var(--dw);font-size:21px;line-height:1;letter-spacing:-.01em;color:var(--logo);opacity:0;transform:translateY(10px) scale(.9);transform-origin:left center;visibility:hidden;transition:opacity .2s ease,transform .25s cubic-bezier(.2,.8,.2,1),visibility 0s linear .25s}
+.bb.is-stuck .bb-mini-logo{opacity:1;transform:none;visibility:visible;transition:opacity .2s ease,transform .25s cubic-bezier(.2,.8,.2,1),visibility 0s}
+.is-m .bb-sbar{transition:box-shadow .2s ease}
+.is-m.is-stuck .bb-sbar{box-shadow:0 6px 16px -12px rgba(0,0,0,.35)}
+@media (prefers-reduced-motion:reduce){.bb-mini-logo,.bb.is-stuck .bb-mini-logo,.is-m .bb-sbar{transition:none}}
 .is-m .bb-main{padding-top:18px}
 
 /* filter panel */
