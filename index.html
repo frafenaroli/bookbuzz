@@ -13,11 +13,18 @@
 <style>body{margin:0}</style>
 </head>
 <body>
-<div id="bb" class="bb is-d">
+<div id="bb" class="bb t-auto is-d">
 
   <header class="bb-head">
     <div class="bb-wrap">
-      <button type="button" class="bb-logo" data-act="resetAll">BookBuzz</button>
+      <div class="bb-headrow">
+        <button type="button" class="bb-logo" data-act="resetAll">BookBuzz</button>
+        <div class="bb-theme" role="group" aria-label="Tema">
+          <button type="button" data-theme="auto" aria-label="Tema automatico" title="Segue le impostazioni del dispositivo"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M12 3v18"></path><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor"></path></svg><span class="bb-theme-l">Auto</span></button>
+          <button type="button" data-theme="light" aria-label="Tema chiaro"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg><span class="bb-theme-l">Chiaro</span></button>
+          <button type="button" data-theme="dark" aria-label="Tema scuro"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg><span class="bb-theme-l">Scuro</span></button>
+        </div>
+      </div>
       <p class="bb-tag" id="bb-tagline">Narrativa straniera tradotta in uscita in Italia: romanzi, racconti, memoir e libri ibridi, anche di genere.</p>
     </div>
   </header>
@@ -121,6 +128,7 @@
   <div class="bb-drawer" id="bb-drawer" role="dialog" aria-modal="true" hidden></div>
 
 </div>
+<script>try{var t=localStorage.getItem("bb-theme");if(t==="light"||t==="dark")document.getElementById("bb").className="bb t-"+t+" is-d";}catch(e){}</script>
 <script src="app.js"></script>
 </body>
 </html>

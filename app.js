@@ -185,6 +185,14 @@ function genreTag(g){ return '<span class="bb-gtag g-' + gslug(g) + '">' + svgIc
 function evidTags(b){ return b.ev.map(function(e){ return '<span class="bb-tagl">' + EVID_TAG[e] + '</span>'; }).join(""); }
 
 /* ---------- stato ---------- */
+var THEMES = ["auto","light","dark"];
+var theme = "auto";
+try { var savedTheme = localStorage.getItem("bb-theme"); if (THEMES.indexOf(savedTheme) > -1) theme = savedTheme; } catch (e) {}
+function paintTheme(){
+  document.querySelectorAll(".bb-theme [data-theme]").forEach(function(el){ el.setAttribute("aria-pressed", String(el.dataset.theme === theme)); });
+  root.className = root.className.replace(/\bt-\w+/, "t-" + theme);
+}
+
 var S = { q: "", mese: "all", genere: [], editore: [], evid: [], sort: "date", limit: PAGE, sheet: false, detail: null, pubQ: "", pubAll: false };
 var isM = false;
 var results = [];
@@ -401,7 +409,7 @@ function render(){
 
   renderDetail();
 
-  root.className = "bb" + (isM ? " is-m" : " is-d") + (isM && S.sheet ? " sheet-open" : "") + (S.detail != null ? " detail-open" : "");
+  root.className = "bb t-" + theme + (isM ? " is-m" : " is-d") + (isM && S.sheet ? " sheet-open" : "") + (S.detail != null ? " detail-open" : "");
 }
 
 function renderDetail(){
@@ -478,6 +486,13 @@ root.addEventListener("click", function(e){
     if (again && !again.disabled) again.focus({ preventScroll: true });
   }
 });
+document.querySelectorAll(".bb-theme [data-theme]").forEach(function(el){
+  el.addEventListener("click", function(){
+    theme = el.dataset.theme;
+    try { if (theme === "auto") localStorage.removeItem("bb-theme"); else localStorage.setItem("bb-theme", theme); } catch (e) {}
+    paintTheme();
+  });
+});
 $("bb-q").addEventListener("input", function(e){ set({ q: e.target.value, limit: PAGE }); });
 $("bb-pq").addEventListener("input", function(e){ set({ pubQ: e.target.value }); });
 document.querySelectorAll(".bb-sort").forEach(function(el){
@@ -506,6 +521,7 @@ function tagline(){
   $("bb-tagline").textContent = "Narrativa straniera tradotta in uscita in Italia " + span + ": romanzi, racconti, memoir e libri ibridi, anche di genere.";
 }
 isM = window.innerWidth < 768;
+paintTheme();
 fetch("books.json", { cache: "no-cache" })
   .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(function(data){
