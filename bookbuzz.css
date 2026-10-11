@@ -47,6 +47,7 @@
 .bb-ico{position:absolute;left:15px;color:var(--muted);pointer-events:none}
 .bb-input{width:100%;height:52px;font-size:17px;padding:0 48px 0 46px;background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:10px;-webkit-appearance:none;appearance:none;margin:0}
 .bb-input::placeholder{color:var(--muted)}
+.is-m .bb-input:not(.bb-input-s){height:44px}
 .is-m .bb-input::placeholder{font-size:14px}
 .bb-input:focus{outline:none;border-color:var(--blue);box-shadow:0 0 0 3px var(--blue-soft)}
 .bb-input::-webkit-search-cancel-button,.bb-input::-webkit-search-decoration{-webkit-appearance:none;display:none}
