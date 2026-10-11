@@ -500,9 +500,9 @@ function renderDetail(){
       '<div class="bb-dl">' + rows.map(function(r){ return '<div class="bb-row"><span class="bb-rk">' + r[0] + '</span><span class="' + r[2] + '">' + esc(r[1]) + '</span></div>'; }).join("") + '</div>' +
       db.notes.map(function(t){ return '<p class="bb-dnote">' + esc(t) + '</p>'; }).join("") +
       (db.u ? '<a class="bb-src" href="' + esc(db.u) + '" target="_blank" rel="noopener">Apri la scheda della fonte<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg></a>' : '') +
-      (samePub.length ? '<div class="bb-rel"><h3 class="bb-rel-h">Sempre da ' + esc(db.p) + '</h3><ul class="bb-rel-list">' + samePub.slice(0, 4).map(rel).join("") + '</ul>' +
+      (samePub.length ? '<div class="bb-rel"><h3 class="bb-rel-h">Altri titoli ' + esc(db.p) + '</h3><ul class="bb-rel-list">' + samePub.slice(0, 4).map(rel).join("") + '</ul>' +
         '<button type="button" class="bb-more"' + btn("allPub", db.p) + '>Tutti i titoli ' + esc(db.p) + ' (' + (samePub.length + 1) + ')</button></div>' : '') +
-      (sameGenre.length ? '<div class="bb-rel"><h3 class="bb-rel-h">Altri titoli · ' + esc(db.k) + '</h3><ul class="bb-rel-list">' + sameGenre.slice(0, 4).map(rel).join("") + '</ul>' +
+      (sameGenre.length ? '<div class="bb-rel"><h3 class="bb-rel-h">Altri titoli ' + esc(db.k) + '</h3><ul class="bb-rel-list">' + sameGenre.slice(0, 4).map(rel).join("") + '</ul>' +
         '<button type="button" class="bb-more"' + btn("allGenre", db.k) + '>Vedi tutti: ' + esc(db.k) + ' (' + gTot + ')</button></div>' : '') +
     '</div>';
   dr.hidden = false;
