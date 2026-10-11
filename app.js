@@ -4,8 +4,8 @@
 var PAGE = 20;
 var MONTH_NAMES = ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
 var MONTH_ABBR = ["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"];
-var EVID = [["esordio","Esordi"],["prima","Prime edizioni italiane"]];
-var EVID_TAG = {esordio:"Esordio",prima:"Prima edizione italiana"};
+var EVID = [["esordio","Esordi"],["prima","Prime edizioni italiane"],["indip","Indipendenti"]];
+var EVID_TAG = {esordio:"Esordio",prima:"Prima edizione italiana",indip:"Indipendente"};
 var SORT_LABEL = {date:"data",title:"titolo",author:"autore",publisher:"editore"};
 
 /* ---------- testo ---------- */
@@ -107,6 +107,9 @@ function mYear(key){ return key.slice(0, 4); }
 function monthLabel(key, withYear){ var s = cap(MONTH_NAMES[mIdx(key)]); return withYear || !ONE_YEAR ? s + " " + mYear(key) : s; }
 
 /* Normalizzazione dei dati in ingresso: stringhe vuote diventano null, mese e giorno non validi vengono scartati */
+/* Editori: da editori.json. "Indipendente" vale per il marchio senza la collana tra parentesi. */
+var EDITORI = {};
+function pubBase(p){ return p.replace(/\s*\(.*\)\s*$/, ""); }
 function prepare(raw){
   BOOKS = raw.map(function(r){
     var f = Array.isArray(r.segnalazioni) ? r.segnalazioni : [];
@@ -124,11 +127,13 @@ function prepare(raw){
     f.forEach(function(x){
       if (typeof x !== "string") return;
       if (/esordio/i.test(x)) b.ev.push("esordio");
-      if (/prima edizione italiana/i.test(x)) b.ev.push("prima");
+      if (/prima edizione italiana/i.test(x) && b.ev.indexOf("prima") < 0) b.ev.push("prima");
       if (/titolo italiano da confermare/i.test(x)) b.notes.push("Il titolo italiano potrebbe cambiare prima dell’uscita.");
       if (/data da confermare/i.test(x)) b.notes.push("La data di uscita è indicativa.");
       if (/riedizione/i.test(x)) b.notes.push("Potrebbe trattarsi di una riedizione.");
     });
+    var ed = EDITORI[pubBase(b.p)];
+    if (ed && ed.indipendente === true) b.ev.push("indip");
     if (b.o && norm(b.o) === norm(b.t)) b.oSame = true;
     b.hay = norm([b.t, b.alt, b.a, b.p, b.tr, b.o, b.k].filter(Boolean).join(" "));
     b.compact = b.hay.replace(/ /g, "");
@@ -570,10 +575,11 @@ function tagline(){
 }
 isM = window.innerWidth < 768;
 paintTheme();
-fetch("books.json", { cache: "no-cache" })
-  .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(function(data){
-    prepare(Array.isArray(data) ? data : []);
+function getJSON(url){ return fetch(url, { cache: "no-cache" }).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); }); }
+Promise.all([getJSON("books.json"), getJSON("editori.json").catch(function(){ return {}; })])
+  .then(function(res){
+    EDITORI = res[1] && typeof res[1] === "object" ? res[1] : {};
+    prepare(Array.isArray(res[0]) ? res[0] : []);
     loaded = true;
     tagline();
     render();

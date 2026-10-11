@@ -1,6 +1,6 @@
 # BookBuzz
 
-Sito statico che elenca la narrativa straniera tradotta in uscita in Italia. Nessun build: `index.html`, `bookbuzz.css`, `app.js` e i dati in `books.json`, caricati dal browser con `fetch` (serve un server HTTP, anche solo `python3 -m http.server`).
+Sito statico che elenca la narrativa straniera tradotta in uscita in Italia. Nessun build: `index.html`, `bookbuzz.css`, `app.js` e i dati in `books.json` ed `editori.json`, caricati dal browser con `fetch` (serve un server HTTP, anche solo `python3 -m http.server`).
 
 Il catalogo si aggiorna con la skill `aggiorna-bookbuzz` (in `.claude/skills/aggiorna-bookbuzz/`, con gli script di ricerca), che modifica solo `books.json`.
 
@@ -42,7 +42,20 @@ Un array di oggetti, ordinato per `mese`, poi `giorno`, con le date `null` in fo
 
 Generi ammessi: `Romanzo`, `Romanzo storico`, `Racconti`, `Ibrido`, `Memoir`, `Giallo`, `Thriller`, `Horror`, `Fantasy`, `Fantascienza`, `Romance`, `Young adult`. Un genere nuovo va aggiunto anche a `ICONS` in `app.js` e alle classi `.g-*` in `bookbuzz.css`, altrimenti appare con l'icona e il colore di Romanzo.
 
-Segnalazioni ammesse: `Esordio`, `Prima edizione italiana`, `Possibile riedizione`, `Titolo italiano da confermare`, `Data da confermare`. Le prime due alimentano il filtro "In evidenza", le altre compaiono come nota nella scheda del libro.
+Segnalazioni ammesse: `Esordio`, `Prima edizione italiana`, `Possibile riedizione`, `Titolo italiano da confermare`, `Data da confermare`. Le prime due alimentano il filtro "In evidenza" (insieme a "Indipendenti", che viene da `editori.json`), le altre compaiono come nota nella scheda del libro.
+
+## Editori indipendenti: `editori.json`
+
+Un oggetto con una chiave per marchio (il nome come in `editore`, senza la collana tra parentesi):
+
+```json
+"Neri Pozza": { "indipendente": false, "gruppo": "Athesis", "nota": "fonte o motivo" }
+```
+
+- `indipendente: true` se il marchio non è controllato da un grande gruppo editoriale o mediatico (Mondadori, GeMS/Messaggerie, Feltrinelli, Giunti, De Agostini, HarperCollins, Athesis…). Le quote di minoranza non contano. I marchi di un editore indipendente (Ne/oN di e/o, TimeCrime di Fanucci) sono indipendenti.
+- `false` con il `gruppo` di appartenenza; `null` se la proprietà non è verificata.
+- Il sito aggiunge in automatico il tag "Indipendente", e il filtro "In evidenza > Indipendenti", ai libri dei marchi con `true`. Non va messo tra le `segnalazioni`.
+- Ogni editore presente in `books.json` deve stare in `editori.json`: il validatore lo controlla.
 
 I libri importati dal prototipo hanno in `fonti` la sola chiave `import`, con il link da cui provenivano tutti i campi. Quando un campo viene verificato o corretto, aggiungi la chiave specifica.
 

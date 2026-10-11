@@ -56,5 +56,18 @@ books.forEach((b, i) => {
   if (d < cutoff) errors.push(`#${i} «${b.titolo}»: uscito più di 30 giorni fa (${d.toISOString().slice(0, 10)}), da cancellare`);
 });
 
+// Ogni editore (senza la collana tra parentesi) deve essere classificato in editori.json.
+let editori = {};
+try { editori = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "editori.json"), "utf8")); }
+catch (e) { errors.push("editori.json mancante o non valido: " + e.message); }
+for (const [nome, e] of Object.entries(editori)) {
+  if (!e || ![true, false, null].includes(e.indipendente)) errors.push(`editori.json «${nome}»: indipendente deve essere true, false o null`);
+  if (e && e.indipendente === false && !e.gruppo) errors.push(`editori.json «${nome}»: manca il gruppo`);
+}
+books.forEach((b, i) => {
+  const base = String(b && b.editore || "").replace(/\s*\(.*\)\s*$/, "");
+  if (base && !(base in editori)) errors.push(`#${i} «${b.titolo}»: editore «${base}» assente da editori.json`);
+});
+
 if (errors.length) { console.error(errors.join("\n")); console.error(`\n${errors.length} errori su ${books.length} libri`); process.exit(1); }
 console.log(`books.json valido: ${books.length} libri`);

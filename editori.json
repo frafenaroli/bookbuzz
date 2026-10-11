@@ -1,0 +1,221 @@
+{
+  "66thand2nd": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "add": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Adelphi": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "controllata dagli eredi Calasso; quote di minoranza di Feltrinelli (10%, 2024) e opzione di Mondadori su un altro 10% dal 2027"
+  },
+  "Alegre": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Always Publishing": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "astoria": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Atlantide": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Barta": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Blackie": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Bollati Boringhieri": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Bompiani": {
+    "indipendente": false,
+    "gruppo": "Giunti"
+  },
+  "Crocetti": {
+    "indipendente": false,
+    "gruppo": "Feltrinelli",
+    "nota": "elencata tra i marchi del polo editoriale Feltrinelli"
+  },
+  "DOA": {
+    "indipendente": false,
+    "gruppo": "De Agostini Libri (De Agostini e Mondadori)",
+    "nota": "laFeltrinelli indica De Agostini come editore di Children of the Night"
+  },
+  "e/o": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Einaudi": {
+    "indipendente": false,
+    "gruppo": "Mondadori"
+  },
+  "Fandango": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Fazi": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Feltrinelli": {
+    "indipendente": false,
+    "gruppo": "Feltrinelli"
+  },
+  "Garzanti": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Gramma": {
+    "indipendente": false,
+    "gruppo": "Feltrinelli"
+  },
+  "Gran vía": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Guanda": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "HarperCollins Italia": {
+    "indipendente": false,
+    "gruppo": "HarperCollins (News Corp)"
+  },
+  "Il Castoro": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "si presenta come editore indipendente; nessuna partecipazione di gruppi trovata"
+  },
+  "Iperborea": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Jimenez": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "L'orma": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "La nave di Teseo": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "La Nuova Frontiera": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Longanesi": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "marcos y marcos": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Marsilio": {
+    "indipendente": false,
+    "gruppo": "Feltrinelli",
+    "nota": "Marsilio, pagina foreign rights: nel gruppo Feltrinelli dal 2017"
+  },
+  "Mercurio Books": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Mondadori": {
+    "indipendente": false,
+    "gruppo": "Mondadori"
+  },
+  "Ne/oN": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "marchio di e/o"
+  },
+  "Neri Pozza": {
+    "indipendente": false,
+    "gruppo": "Athesis",
+    "nota": "ItaliaOggi, marzo 2025: marchio del Gruppo editoriale Athesis"
+  },
+  "Newton Compton": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "di proprietà familiare, fuori dai grandi gruppi"
+  },
+  "NN": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Nord": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Polidoro": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Ponte alle Grazie": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Prehistorica": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Rizzoli": {
+    "indipendente": false,
+    "gruppo": "Mondadori"
+  },
+  "Salani": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Sellerio": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "Sonzogno": {
+    "indipendente": false,
+    "gruppo": "Feltrinelli",
+    "nota": "marchio di Marsilio"
+  },
+  "Sperling & Kupfer": {
+    "indipendente": false,
+    "gruppo": "Mondadori"
+  },
+  "STORM": {
+    "indipendente": null,
+    "gruppo": null,
+    "nota": "proprietà non verificata (ottobre 2026)"
+  },
+  "SUR": {
+    "indipendente": true,
+    "gruppo": null
+  },
+  "TimeCrime": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "marchio di Fanucci"
+  },
+  "TRE60": {
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)"
+  },
+  "Voland": {
+    "indipendente": true,
+    "gruppo": null
+  }
+}

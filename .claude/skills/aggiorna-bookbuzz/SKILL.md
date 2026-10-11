@@ -5,7 +5,7 @@ description: Procedura per aggiornare books.json di BookBuzz con le nuove uscite
 
 # Aggiorna BookBuzz
 
-Obiettivo: portare in `books.json` le nuove uscite che rientrano nel perimetro definito in `CLAUDE.md`, con ogni campo tracciato su una fonte. Leggi `CLAUDE.md` prima di iniziare: perimetro, schema, valori ammessi e regola sulle uscite passate stanno lì.
+Obiettivo: portare in `books.json` (e, per gli editori nuovi, in `editori.json`) le nuove uscite che rientrano nel perimetro definito in `CLAUDE.md`, con ogni campo tracciato su una fonte. Leggi `CLAUDE.md` prima di iniziare: perimetro, schema, valori ammessi e regola sulle uscite passate stanno lì.
 
 Principio guida: un campo vuoto e onesto vale più di un campo pieno e stimato. Se un dato non è confermato da una fonte, resta `null`.
 
@@ -91,6 +91,7 @@ Per ogni libro tenuto, partendo dall'uscita di `lf.py`:
 - **Data**: lista o scheda dell'editore, poi laFeltrinelli. Se le fonti divergono, tieni quella dell'editore e aggiungi "Data da confermare", scrivendo le due date in `fonti.data`.
 - **Genere**: uno solo, tra i valori ammessi. Se il libro è a metà tra memoir e romanzo, usa "Ibrido".
 - **Link**: la scheda o la pagina dell'editore quando esiste, altrimenti l'articolo che ha segnalato il libro.
+- **Editore nuovo**: se il marchio non è ancora in `editori.json`, aggiungilo con `indipendente` (`true`, `false` con il `gruppo`, oppure `null` se non trovi conferme) e una `nota` con la fonte. Criterio e gruppi principali sono in `CLAUDE.md`. Cerca la proprietà sul sito dell'editore (pagina "chi siamo") o nella stampa economica; non fidarti della memoria.
 - **Trama**: vedi sotto.
 - **Titolo originale**: vedi sotto.
 
@@ -135,7 +136,7 @@ A ogni aggiornamento, dopo i nuovi titoli, passa a `lf.py` anche i libri già pr
 - Discordanze tra fonti: non sceglierne una in silenzio. Usa `titolo_alternativo` o una segnalazione "da confermare".
 - Mantieni l'ordine dei campi dello schema e l'ordinamento del file per mese, poi giorno, con le date `null` in fondo.
 - Fai le modifiche con uno script che legge e riscrive il JSON, non a mano.
-- Valida con `node scripts/check-books.js` prima di chiudere.
+- Valida con `node scripts/check-books.js` prima di chiudere: controlla anche che ogni editore sia in `editori.json`.
 
 ## 6. Report finale
 
