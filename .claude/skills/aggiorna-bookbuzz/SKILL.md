@@ -5,7 +5,7 @@ description: Procedura per aggiornare books.json di BookBuzz con le nuove uscite
 
 # Aggiorna BookBuzz
 
-Obiettivo: portare in `books.json` le nuove uscite che rientrano nel perimetro definito in `CLAUDE.md`, con ogni campo tracciato su una fonte. Leggi `CLAUDE.md` prima di iniziare: perimetro, schema, valori ammessi e regola sui mesi passati stanno lì.
+Obiettivo: portare in `books.json` le nuove uscite che rientrano nel perimetro definito in `CLAUDE.md`, con ogni campo tracciato su una fonte. Leggi `CLAUDE.md` prima di iniziare: perimetro, schema, valori ammessi e regola sulle uscite passate stanno lì.
 
 Principio guida: un campo vuoto e onesto vale più di un campo pieno e stimato. Se un dato non è confermato da una fonte, resta `null`.
 
@@ -64,7 +64,7 @@ Non hanno una pagina di prossime uscite leggibile: SUR, add, La Nuova Frontiera,
 
 Per ogni candidato controlla, nell'ordine:
 1. È narrativa straniera tradotta? Memoir e ibridi sì; saggistica pura, varia, poesia, fumetti e libri per ragazzi sotto i 12 anni no. In caso di dubbio leggi la trama: un libro "sulla scrittura" o "sulla lettura" è quasi sempre un saggio.
-2. La data cade tra il mese precedente e la fine della finestra, oppure il mese è ignoto ma il libro è annunciato come in arrivo?
+2. Il libro è uscito al massimo 30 giorni prima di oggi, o esce entro la fine della finestra, oppure il mese è ignoto ma il libro è annunciato come in arrivo?
 3. È una prima edizione italiana? Vedi il passo 3.
 
 ## 3. Verifica delle riedizioni
@@ -129,7 +129,7 @@ A ogni aggiornamento, dopo i nuovi titoli, passa a `lf.py` anche i libri già pr
 ## 5. Scrittura in `books.json`
 
 - Leggi il file esistente prima di modificarlo.
-- Cancella prima i libri con `mese` anteriore al mese precedente (regola in `CLAUDE.md`).
+- Cancella prima i libri usciti più di 30 giorni prima di oggi (regola in `CLAUDE.md`; per un libro senza giorno conta l'ultimo giorno del mese).
 - Chiave per i duplicati: autore più titolo, normalizzati (minuscole, senza accenti né punteggiatura). Controlla anche `titolo_alternativo`.
 - Libro già presente: aggiorna solo i campi che erano `null` o che una fonte più autorevole corregge. Non cancellare dati confermati. Se cambi un valore, aggiorna la fonte corrispondente in `fonti`. Quando si conferma il titolo italiano di un libro segnato "Titolo italiano da confermare", sposta il vecchio titolo in `titolo_alternativo` e togli la segnalazione.
 - Discordanze tra fonti: non sceglierne una in silenzio. Usa `titolo_alternativo` o una segnalazione "da confermare".
@@ -143,4 +143,5 @@ Chiudi sempre con un resoconto breve, diviso in quattro parti:
 - **Aggiunti**: titolo, autore, editore, mese.
 - **Aggiornati**: quali campi sono stati completati o corretti, trame comprese.
 - **Esclusi**: titolo e motivo (riedizione, saggistica, fuori finestra, italiano).
+- **Cancellati**: libri tolti perché usciti più di 30 giorni prima.
 - **Ancora aperti**: libri con traduttore, titolo originale, mese o trama ancora `null`, ed editori per cui non è stato possibile raggiungere le prossime uscite.

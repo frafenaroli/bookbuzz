@@ -76,15 +76,24 @@ var CHEV_ICON = '<svg class="bb-chev" width="18" height="18" viewBox="0 0 24 24"
 /* ---------- dati ---------- */
 var BOOKS = [], MONTHS = [], ALL_GENRES = [], ALL_PUBS = [], ONE_YEAR = true;
 
-/* Mesi passati: il mese precedente va in archivio, quelli ancora prima non si mostrano.
-   ?oggi=AAAA-MM nell'indirizzo simula un'altra data, per provare il passaggio di mese. */
-function ym(d){ return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0"); }
-var NOW = (function(){
-  var m = /[?&]oggi=(\d{4}-\d{2})/.exec(location.search);
-  return m ? m[1] : ym(new Date());
+/* Uscite passate: il taglio è la data di consultazione. I libri usciti nei 30 giorni precedenti
+   vanno nella scheda "Recenti", quelli più vecchi non si mostrano. Senza giorno, la data stimata
+   è l'ultimo giorno del mese. ?oggi=AAAA-MM-GG (o AAAA-MM) nell'indirizzo simula un'altra data. */
+var RECENT_DAYS = 30;
+function ymd(y, m, d){ return y + "-" + String(m).padStart(2, "0") + "-" + String(d).padStart(2, "0"); }
+var TODAY = (function(){
+  var m = /[?&]oggi=(\d{4})-(\d{2})(?:-(\d{2}))?/.exec(location.search);
+  if (m) return ymd(+m[1], +m[2], m[3] ? +m[3] : 1);
+  var n = new Date();
+  return ymd(n.getFullYear(), n.getMonth() + 1, n.getDate());
 })();
-var ARCHIVE = (function(){ var d = new Date(+NOW.slice(0, 4), +NOW.slice(5) - 2, 1); return ym(d); })();
-var HAS_ARCHIVE = false;
+var RECENT_FROM = (function(){
+  var p = TODAY.split("-"), d = new Date(+p[0], +p[1] - 1, +p[2] - RECENT_DAYS);
+  return ymd(d.getFullYear(), d.getMonth() + 1, d.getDate());
+})();
+function lastDay(key){ return new Date(+key.slice(0, 4), +key.slice(5), 0).getDate(); }
+function bookDate(m, d){ return m ? m + "-" + String(d || lastDay(m)).padStart(2, "0") : null; }
+var HAS_RECENT = false;
 
 function monthKey(v){
   if (typeof v !== "string") return null;
@@ -99,18 +108,17 @@ function monthLabel(key, withYear){ var s = cap(MONTH_NAMES[mIdx(key)]); return 
 
 /* Normalizzazione dei dati in ingresso: stringhe vuote diventano null, mese e giorno non validi vengono scartati */
 function prepare(raw){
-  BOOKS = raw.filter(function(r){ var m = monthKey(r.mese); return !m || m >= ARCHIVE; }).map(function(r, i){
+  BOOKS = raw.map(function(r){
     var f = Array.isArray(r.segnalazioni) ? r.segnalazioni : [];
     var m = monthKey(r.mese);
     var d = (m && Number.isInteger(r.giorno) && r.giorno >= 1 && r.giorno <= 31) ? r.giorno : null;
     var b = {
-      id: i,
       t: clean(r.titolo) || "Senza titolo",
       a: clean(r.autore) || "",
       p: clean(r.editore) || "",
       tr: clean(r.traduttore), o: clean(r.titolo_originale), alt: clean(r.titolo_alternativo), trama: clean(r.trama),
       k: clean(r.genere) || "Narrativa",
-      m: m, d: d, u: clean(r.link), arch: m === ARCHIVE,
+      m: m, d: d, u: clean(r.link), date: bookDate(m, d),
       ev: [], notes: []
     };
     f.forEach(function(x){
@@ -127,11 +135,13 @@ function prepare(raw){
     b.words = b.hay.split(" ");
     b.nO = b.o ? norm(b.o) : "";
     b.nAlt = b.alt ? norm(b.alt) : "";
+    b.rec = !!b.date && b.date < TODAY;
     return b;
-  });
-  MONTHS = Array.from(new Set(BOOKS.map(function(b){ return b.arch ? null : b.m; }).filter(Boolean))).sort();
-  HAS_ARCHIVE = BOOKS.some(function(b){ return b.arch; });
-  ONE_YEAR = new Set(MONTHS.concat(HAS_ARCHIVE ? [ARCHIVE] : []).map(mYear)).size <= 1;
+  }).filter(function(b){ return !b.date || b.date >= RECENT_FROM; });
+  BOOKS.forEach(function(b, i){ b.id = i; });
+  MONTHS = Array.from(new Set(BOOKS.map(function(b){ return b.rec ? null : b.m; }).filter(Boolean))).sort();
+  HAS_RECENT = BOOKS.some(function(b){ return b.rec; });
+  ONE_YEAR = new Set(BOOKS.map(function(b){ return b.m; }).filter(Boolean).map(mYear)).size <= 1;
   ALL_GENRES = Array.from(new Set(BOOKS.map(function(b){ return b.k; }))).sort(function(x, y){ return x.localeCompare(y, "it"); });
   ALL_PUBS = Array.from(new Set(BOOKS.map(function(b){ return b.p; }).filter(Boolean)));
 }
@@ -180,14 +190,15 @@ function highlight(s, toks){
   return out;
 }
 
-function tabKey(b){ return b.arch ? "arch" : (b.m || "na"); }
-function tabLabel(key){ return key === "all" ? "Tutti" : key === "na" ? "Da annunciare" : key === "arch" ? "Archivio · " + monthLabel(ARCHIVE) : monthLabel(key); }
-function dateKey(b){ var i = b.m ? MONTHS.indexOf(b.m) : MONTHS.length; return i * 100 + (b.d == null ? 60 : b.d); }
+function tabKey(b){ return b.rec ? "rec" : (b.m || "na"); }
+function tabLabel(key){ return key === "all" ? "Tutti" : key === "na" ? "Da annunciare" : key === "rec" ? "Recenti" : monthLabel(key); }
+function dateKey(b){ return b.date || "9999-99-99"; }
+function cmpDate(x, y){ var a = dateKey(x), c = dateKey(y); return a < c ? -1 : a > c ? 1 : 0; }
 var CMP = {
-  date: function(x, y){ return dateKey(x) - dateKey(y) || x.t.localeCompare(y.t, "it"); },
+  date: function(x, y){ return cmpDate(x, y) || x.t.localeCompare(y.t, "it"); },
   title: function(x, y){ return x.t.localeCompare(y.t, "it"); },
   author: function(x, y){ return x.a.localeCompare(y.a, "it") || x.t.localeCompare(y.t, "it"); },
-  publisher: function(x, y){ return x.p.localeCompare(y.p, "it") || dateKey(x) - dateKey(y); }
+  publisher: function(x, y){ return x.p.localeCompare(y.p, "it") || cmpDate(x, y); }
 };
 function dateFull(b){
   if (b.m && b.d) return b.d + " " + MONTH_NAMES[mIdx(b.m)] + " " + mYear(b.m);
@@ -252,8 +263,8 @@ actions = {
   open: function(v){ set({ detail: +v, sheet: false }); },
   prev: function(){ step(-1); },
   next: function(){ step(1); },
-  allPub: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].arch ? "arch" : "all", genere: [], evid: [], editore: [v], detail: null, limit: PAGE }); },
-  allGenre: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].arch ? "arch" : "all", editore: [], evid: [], genere: [v], detail: null, limit: PAGE }); }
+  allPub: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].rec ? "rec" : "all", genere: [], evid: [], editore: [v], detail: null, limit: PAGE }); },
+  allGenre: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].rec ? "rec" : "all", editore: [], evid: [], genere: [v], detail: null, limit: PAGE }); }
 };
 function step(dir){
   var idx = results.findIndex(function(b){ return b.id === S.detail; });
@@ -277,7 +288,7 @@ function render(){
   }
 
   function pass(b, except){
-    if (except !== "mese" && (S.mese === "all" ? b.arch : tabKey(b) !== S.mese)) return false;
+    if (except !== "mese" && (S.mese === "all" ? b.rec : tabKey(b) !== S.mese)) return false;
     if (except !== "genere" && S.genere.length && S.genere.indexOf(b.k) < 0) return false;
     if (except !== "editore" && S.editore.length && S.editore.indexOf(b.p) < 0) return false;
     if (except !== "evid" && S.evid.length && !S.evid.some(function(e){ return b.ev.indexOf(e) > -1; })) return false;
@@ -289,11 +300,13 @@ function render(){
     return m;
   }
   results = base.filter(function(b){ return pass(b, null); }).sort(CMP[S.sort] || CMP.date);
+  /* nei Recenti, per data, prima i più recenti */
+  if (S.mese === "rec" && S.sort === "date") results.reverse();
 
   /* schede mese */
   var mC = countBy("mese", function(b){ return [tabKey(b)]; });
-  var tabsTotal = 0; Object.keys(mC).forEach(function(k){ if (k !== "arch") tabsTotal += mC[k]; });
-  $("bb-tabs").innerHTML = ["all"].concat(MONTHS, ["na"], HAS_ARCHIVE ? ["arch"] : []).map(function(key){
+  var tabsTotal = 0; Object.keys(mC).forEach(function(k){ if (k !== "rec") tabsTotal += mC[k]; });
+  $("bb-tabs").innerHTML = ["all"].concat(MONTHS, ["na"], HAS_RECENT ? ["rec"] : []).map(function(key){
     var n = key === "all" ? tabsTotal : (mC[key] || 0);
     var label = tabLabel(key);
     var dis = n === 0 && S.mese !== key;
@@ -337,7 +350,7 @@ function render(){
 
   /* filtri attivi */
   var pills = [];
-  if (S.mese !== "all") pills.push({ label: S.mese === "arch" ? "Archivio" : tabLabel(S.mese), act: "rmMese" });
+  if (S.mese !== "all") pills.push({ label: tabLabel(S.mese), act: "rmMese" });
   S.evid.forEach(function(e){ pills.push({ label: EVID_TAG[e], act: "evid", v: e }); });
   S.genere.forEach(function(g){ pills.push({ label: g, act: "genere", v: g }); });
   S.editore.forEach(function(p){ pills.push({ label: p, act: "editore", v: p }); });
@@ -420,9 +433,9 @@ function render(){
   $("bb-empty-t").textContent = hasTok ? "Nessun libro trovato per «" + qShow + "»." : "Nessun libro con questi filtri.";
   $("bb-empty-q").hidden = !S.q;
   $("bb-empty-f").hidden = !hasActive;
-  var inArch = S.mese !== "arch" ? (mC.arch || 0) : 0;
-  $("bb-empty-arch").hidden = !(results.length === 0 && inArch);
-  $("bb-empty-arch").textContent = "Vedi " + plural(inArch, "libro", "libri") + " in archivio";
+  var inRec = S.mese !== "rec" ? (mC.rec || 0) : 0;
+  $("bb-empty-arch").hidden = !(results.length === 0 && inRec);
+  $("bb-empty-arch").textContent = "Vedi " + plural(inRec, "libro uscito", "libri usciti") + " di recente";
 
   /* controlli statici */
   if ($("bb-q").value !== S.q) $("bb-q").value = S.q;
@@ -456,7 +469,7 @@ function renderDetail(){
   function rel(b){
     return '<li><button type="button" class="bb-relbtn"' + btn("open", b.id) + '><strong>' + esc(b.t) + '</strong><span>' + esc(b.a + (b.m ? " · " + (b.d ? b.d + " " : "") + MONTH_NAMES[mIdx(b.m)] : "")) + '</span></button></li>';
   }
-  var pool = BOOKS.filter(function(b){ return b.arch === db.arch; });
+  var pool = BOOKS.filter(function(b){ return b.rec === db.rec; });
   var samePub = db.p ? pool.filter(function(b){ return b.p === db.p && b.id !== db.id; }).sort(CMP.date) : [];
   var sameGenre = pool.filter(function(b){ return b.k === db.k && b.id !== db.id && b.p !== db.p; }).sort(CMP.date);
   var gTot = pool.filter(function(b){ return b.k === db.k; }).length;

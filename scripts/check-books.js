@@ -45,10 +45,16 @@ books.forEach((b, i) => {
   if (i > 0 && order(books[i - 1]) > order(b)) err("fuori ordine (mese, giorno, date null in fondo)");
 });
 
-const now = new Date();
-const archive = new Date(now.getFullYear(), now.getMonth() - 1, 1);
-const archiveKey = archive.getFullYear() + "-" + String(archive.getMonth() + 1).padStart(2, "0");
-books.forEach((b, i) => { if (b && b.mese && b.mese < archiveKey) errors.push(`#${i} «${b.titolo}»: mese ${b.mese} anteriore all'archivio (${archiveKey}), da cancellare`); });
+// Uscite più vecchie di 30 giorni rispetto a oggi: il sito non le mostra più, vanno cancellate.
+// Senza giorno, la data stimata è l'ultimo giorno del mese (come nel sito).
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const cutoff = new Date(today); cutoff.setDate(cutoff.getDate() - 30);
+books.forEach((b, i) => {
+  if (!b || !b.mese || !/^\d{4}-\d{2}$/.test(b.mese)) return;
+  const [y, m] = b.mese.split("-").map(Number);
+  const d = new Date(y, m - 1, b.giorno || new Date(y, m, 0).getDate());
+  if (d < cutoff) errors.push(`#${i} «${b.titolo}»: uscito più di 30 giorni fa (${d.toISOString().slice(0, 10)}), da cancellare`);
+});
 
 if (errors.length) { console.error(errors.join("\n")); console.error(`\n${errors.length} errori su ${books.length} libri`); process.exit(1); }
 console.log(`books.json valido: ${books.length} libri`);
