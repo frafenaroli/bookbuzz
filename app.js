@@ -76,6 +76,16 @@ var CHEV_ICON = '<svg class="bb-chev" width="18" height="18" viewBox="0 0 24 24"
 /* ---------- dati ---------- */
 var BOOKS = [], MONTHS = [], ALL_GENRES = [], ALL_PUBS = [], ONE_YEAR = true;
 
+/* Mesi passati: il mese precedente va in archivio, quelli ancora prima non si mostrano.
+   ?oggi=AAAA-MM nell'indirizzo simula un'altra data, per provare il passaggio di mese. */
+function ym(d){ return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0"); }
+var NOW = (function(){
+  var m = /[?&]oggi=(\d{4}-\d{2})/.exec(location.search);
+  return m ? m[1] : ym(new Date());
+})();
+var ARCHIVE = (function(){ var d = new Date(+NOW.slice(0, 4), +NOW.slice(5) - 2, 1); return ym(d); })();
+var HAS_ARCHIVE = false;
+
 function monthKey(v){
   if (typeof v !== "string") return null;
   var m = /^(\d{4})-(\d{2})$/.exec(v.trim());
@@ -89,7 +99,7 @@ function monthLabel(key, withYear){ var s = cap(MONTH_NAMES[mIdx(key)]); return 
 
 /* Normalizzazione dei dati in ingresso: stringhe vuote diventano null, mese e giorno non validi vengono scartati */
 function prepare(raw){
-  BOOKS = raw.map(function(r, i){
+  BOOKS = raw.filter(function(r){ var m = monthKey(r.mese); return !m || m >= ARCHIVE; }).map(function(r, i){
     var f = Array.isArray(r.segnalazioni) ? r.segnalazioni : [];
     var m = monthKey(r.mese);
     var d = (m && Number.isInteger(r.giorno) && r.giorno >= 1 && r.giorno <= 31) ? r.giorno : null;
@@ -100,7 +110,7 @@ function prepare(raw){
       p: clean(r.editore) || "",
       tr: clean(r.traduttore), o: clean(r.titolo_originale), alt: clean(r.titolo_alternativo),
       k: clean(r.genere) || "Narrativa",
-      m: m, d: d, u: clean(r.link),
+      m: m, d: d, u: clean(r.link), arch: m === ARCHIVE,
       ev: [], notes: []
     };
     f.forEach(function(x){
@@ -119,8 +129,9 @@ function prepare(raw){
     b.nAlt = b.alt ? norm(b.alt) : "";
     return b;
   });
-  MONTHS = Array.from(new Set(BOOKS.map(function(b){ return b.m; }).filter(Boolean))).sort();
-  ONE_YEAR = new Set(MONTHS.map(mYear)).size <= 1;
+  MONTHS = Array.from(new Set(BOOKS.map(function(b){ return b.arch ? null : b.m; }).filter(Boolean))).sort();
+  HAS_ARCHIVE = BOOKS.some(function(b){ return b.arch; });
+  ONE_YEAR = new Set(MONTHS.concat(HAS_ARCHIVE ? [ARCHIVE] : []).map(mYear)).size <= 1;
   ALL_GENRES = Array.from(new Set(BOOKS.map(function(b){ return b.k; }))).sort(function(x, y){ return x.localeCompare(y, "it"); });
   ALL_PUBS = Array.from(new Set(BOOKS.map(function(b){ return b.p; }).filter(Boolean)));
 }
@@ -169,6 +180,8 @@ function highlight(s, toks){
   return out;
 }
 
+function tabKey(b){ return b.arch ? "arch" : (b.m || "na"); }
+function tabLabel(key){ return key === "all" ? "Tutti" : key === "na" ? "Da annunciare" : key === "arch" ? "Archivio · " + monthLabel(ARCHIVE) : monthLabel(key); }
 function dateKey(b){ var i = b.m ? MONTHS.indexOf(b.m) : MONTHS.length; return i * 100 + (b.d == null ? 60 : b.d); }
 var CMP = {
   date: function(x, y){ return dateKey(x) - dateKey(y) || x.t.localeCompare(y.t, "it"); },
@@ -232,8 +245,8 @@ actions = {
   open: function(v){ set({ detail: +v, sheet: false }); },
   prev: function(){ step(-1); },
   next: function(){ step(1); },
-  allPub: function(v){ set({ q: "", mese: "all", genere: [], evid: [], editore: [v], detail: null, limit: PAGE }); },
-  allGenre: function(v){ set({ q: "", mese: "all", editore: [], evid: [], genere: [v], detail: null, limit: PAGE }); }
+  allPub: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].arch ? "arch" : "all", genere: [], evid: [], editore: [v], detail: null, limit: PAGE }); },
+  allGenre: function(v){ set({ q: "", mese: BOOKS[S.detail] && BOOKS[S.detail].arch ? "arch" : "all", editore: [], evid: [], genere: [v], detail: null, limit: PAGE }); }
 };
 function step(dir){
   var idx = results.findIndex(function(b){ return b.id === S.detail; });
@@ -257,7 +270,7 @@ function render(){
   }
 
   function pass(b, except){
-    if (except !== "mese" && S.mese !== "all" && (b.m || "na") !== S.mese) return false;
+    if (except !== "mese" && (S.mese === "all" ? b.arch : tabKey(b) !== S.mese)) return false;
     if (except !== "genere" && S.genere.length && S.genere.indexOf(b.k) < 0) return false;
     if (except !== "editore" && S.editore.length && S.editore.indexOf(b.p) < 0) return false;
     if (except !== "evid" && S.evid.length && !S.evid.some(function(e){ return b.ev.indexOf(e) > -1; })) return false;
@@ -271,11 +284,11 @@ function render(){
   results = base.filter(function(b){ return pass(b, null); }).sort(CMP[S.sort] || CMP.date);
 
   /* schede mese */
-  var mC = countBy("mese", function(b){ return [b.m || "na"]; });
-  var tabsTotal = 0; Object.keys(mC).forEach(function(k){ tabsTotal += mC[k]; });
-  $("bb-tabs").innerHTML = ["all"].concat(MONTHS, ["na"]).map(function(key){
+  var mC = countBy("mese", function(b){ return [tabKey(b)]; });
+  var tabsTotal = 0; Object.keys(mC).forEach(function(k){ if (k !== "arch") tabsTotal += mC[k]; });
+  $("bb-tabs").innerHTML = ["all"].concat(MONTHS, ["na"], HAS_ARCHIVE ? ["arch"] : []).map(function(key){
     var n = key === "all" ? tabsTotal : (mC[key] || 0);
-    var label = key === "all" ? "Tutti" : key === "na" ? "Da annunciare" : monthLabel(key);
+    var label = tabLabel(key);
     var dis = n === 0 && S.mese !== key;
     return '<button type="button" class="bb-tab" aria-pressed="' + (S.mese === key) + '"' + (dis ? " disabled" : "") + btn("mese", key) + '>' + label + '<span class="bb-n">' + n + '</span></button>';
   }).join("");
@@ -317,7 +330,7 @@ function render(){
 
   /* filtri attivi */
   var pills = [];
-  if (S.mese !== "all") pills.push({ label: S.mese === "na" ? "Da annunciare" : monthLabel(S.mese), act: "rmMese" });
+  if (S.mese !== "all") pills.push({ label: S.mese === "arch" ? "Archivio" : tabLabel(S.mese), act: "rmMese" });
   S.evid.forEach(function(e){ pills.push({ label: EVID_TAG[e], act: "evid", v: e }); });
   S.genere.forEach(function(g){ pills.push({ label: g, act: "genere", v: g }); });
   S.editore.forEach(function(p){ pills.push({ label: p, act: "editore", v: p }); });
@@ -400,6 +413,9 @@ function render(){
   $("bb-empty-t").textContent = hasTok ? "Nessun libro trovato per «" + qShow + "»." : "Nessun libro con questi filtri.";
   $("bb-empty-q").hidden = !S.q;
   $("bb-empty-f").hidden = !hasActive;
+  var inArch = S.mese !== "arch" ? (mC.arch || 0) : 0;
+  $("bb-empty-arch").hidden = !(results.length === 0 && inArch);
+  $("bb-empty-arch").textContent = "Vedi " + plural(inArch, "libro", "libri") + " in archivio";
 
   /* controlli statici */
   if ($("bb-q").value !== S.q) $("bb-q").value = S.q;
@@ -433,9 +449,10 @@ function renderDetail(){
   function rel(b){
     return '<li><button type="button" class="bb-relbtn"' + btn("open", b.id) + '><strong>' + esc(b.t) + '</strong><span>' + esc(b.a + (b.m ? " · " + (b.d ? b.d + " " : "") + MONTH_NAMES[mIdx(b.m)] : "")) + '</span></button></li>';
   }
-  var samePub = db.p ? BOOKS.filter(function(b){ return b.p === db.p && b.id !== db.id; }).sort(CMP.date) : [];
-  var sameGenre = BOOKS.filter(function(b){ return b.k === db.k && b.id !== db.id && b.p !== db.p; }).sort(CMP.date);
-  var gTot = BOOKS.filter(function(b){ return b.k === db.k; }).length;
+  var pool = BOOKS.filter(function(b){ return b.arch === db.arch; });
+  var samePub = db.p ? pool.filter(function(b){ return b.p === db.p && b.id !== db.id; }).sort(CMP.date) : [];
+  var sameGenre = pool.filter(function(b){ return b.k === db.k && b.id !== db.id && b.p !== db.p; }).sort(CMP.date);
+  var gTot = pool.filter(function(b){ return b.k === db.k; }).length;
   var navBtn = function(act, label, path, dis){
     return '<button type="button" class="bb-iconbtn" aria-label="' + label + '"' + (dis ? " disabled" : "") + btn(act) + '><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="' + path + '"></path></svg></button>';
   };

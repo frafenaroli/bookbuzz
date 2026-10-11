@@ -12,6 +12,13 @@ Il catalogo si aggiorna con la skill `aggiorna-bookbuzz`, che modifica solo `boo
 - Finestra corrente: da settembre a dicembre 2026. Sono ammessi i libri annunciati come in arrivo con mese ancora ignoto (`mese: null`).
 - La finestra si può allargare: il sito ricava schede dei mesi e sottotitolo dai mesi presenti nei dati, senza modifiche al codice.
 
+## Mesi passati
+
+- Il sito calcola il mese corrente dalla data del browser. I libri del mese precedente finiscono nella scheda "Archivio" e non compaiono in "Tutti"; quelli dei mesi ancora prima non vengono mostrati.
+- A ogni aggiornamento, prima di aggiungere titoli, cancella da `books.json` i libri con `mese` anteriore al mese precedente (a novembre 2026 si cancella settembre, si tiene ottobre). I libri con `mese: null` restano.
+- Non aggiungere libri usciti prima del mese precedente.
+- `?oggi=AAAA-MM` in fondo all'indirizzo del sito simula un'altra data, per controllare il passaggio di mese.
+
 ## Schema di `books.json`
 
 Un array di oggetti, ordinato per `mese`, poi `giorno`, con le date `null` in fondo. Un campo non confermato da una fonte resta `null`.

@@ -43,5 +43,10 @@ books.forEach((b, i) => {
   if (i > 0 && order(books[i - 1]) > order(b)) err("fuori ordine (mese, giorno, date null in fondo)");
 });
 
+const now = new Date();
+const archive = new Date(now.getFullYear(), now.getMonth() - 1, 1);
+const archiveKey = archive.getFullYear() + "-" + String(archive.getMonth() + 1).padStart(2, "0");
+books.forEach((b, i) => { if (b && b.mese && b.mese < archiveKey) errors.push(`#${i} «${b.titolo}»: mese ${b.mese} anteriore all'archivio (${archiveKey}), da cancellare`); });
+
 if (errors.length) { console.error(errors.join("\n")); console.error(`\n${errors.length} errori su ${books.length} libri`); process.exit(1); }
 console.log(`books.json valido: ${books.length} libri`);
