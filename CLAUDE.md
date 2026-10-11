@@ -2,7 +2,7 @@
 
 Sito statico che elenca la narrativa straniera tradotta in uscita in Italia. Nessun build: `index.html`, `bookbuzz.css`, `app.js` e i dati in `books.json`, caricati dal browser con `fetch` (serve un server HTTP, anche solo `python3 -m http.server`).
 
-Il catalogo si aggiorna con la skill `aggiorna-bookbuzz`, che modifica solo `books.json`.
+Il catalogo si aggiorna con la skill `aggiorna-bookbuzz` (in `.claude/skills/aggiorna-bookbuzz/`, con gli script di ricerca), che modifica solo `books.json`.
 
 ## Perimetro
 
@@ -36,6 +36,7 @@ Un array di oggetti, ordinato per `mese`, poi `giorno`, con le date `null` in fo
 | `genere` | stringa | Uno dei valori ammessi qui sotto. |
 | `segnalazioni` | array di stringhe | Valori ammessi qui sotto, anche vuoto. |
 | `link` | stringa (URL) o `null` | Preferibilmente la scheda sul sito dell'editore. |
+| `trama` | stringa o `null` | Due o tre frasi sul libro, al massimo 600 caratteri, mostrate nella scheda. Testo dell'editore accorciato se c'è, altrimenti riscritto dalle fonti; mai inventato. Fonte in `fonti.trama`. |
 | `fonti` | oggetto | Una chiave per campo (`data`, `traduttore`, `titolo_originale`, …) con URL o nota sulla fonte, per esempio `"solo estratto"` o i canali provati senza esito. |
 
 Generi ammessi: `Romanzo`, `Romanzo storico`, `Racconti`, `Ibrido`, `Memoir`, `Giallo`, `Thriller`, `Horror`, `Fantasy`, `Fantascienza`, `Romance`, `Young adult`. Un genere nuovo va aggiunto anche a `ICONS` in `app.js` e alle classi `.g-*` in `bookbuzz.css`, altrimenti appare con l'icona e il colore di Romanzo.
@@ -59,7 +60,8 @@ I libri importati dal prototipo hanno in `fonti` la sola chiave `import`, con il
   "genere": "Romanzo",
   "segnalazioni": [],
   "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-  "fonti": { "data": "https://...", "traduttore": "https://..." }
+  "trama": "Artie Dam è l'insegnante che tutti vorrebbero: accogliente, gioviale, devoto ai suoi ragazzi. Eppure dietro la sua vita si nasconde un'ombra insondabile.",
+  "fonti": { "data": "https://...", "traduttore": "https://...", "trama": "https://... (testo dell'editore, accorciato)" }
 }
 ```
 

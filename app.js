@@ -108,7 +108,7 @@ function prepare(raw){
       t: clean(r.titolo) || "Senza titolo",
       a: clean(r.autore) || "",
       p: clean(r.editore) || "",
-      tr: clean(r.traduttore), o: clean(r.titolo_originale), alt: clean(r.titolo_alternativo),
+      tr: clean(r.traduttore), o: clean(r.titolo_originale), alt: clean(r.titolo_alternativo), trama: clean(r.trama),
       k: clean(r.genere) || "Narrativa",
       m: m, d: d, u: clean(r.link), arch: m === ARCHIVE,
       ev: [], notes: []
@@ -477,6 +477,7 @@ function renderDetail(){
       '<h2 class="bb-dt">' + esc(db.t) + '</h2>' +
       (db.a ? '<p class="bb-da">' + esc(db.a) + '</p>' : '') +
       '<div class="bb-tags">' + genreTag(db.k) + evidTags(db) + '</div>' +
+      (db.trama ? '<p class="bb-trama">' + esc(db.trama) + '</p>' : '') +
       '<div class="bb-dl">' + rows.map(function(r){ return '<div class="bb-row"><span class="bb-rk">' + r[0] + '</span><span class="' + r[2] + '">' + esc(r[1]) + '</span></div>'; }).join("") + '</div>' +
       db.notes.map(function(t){ return '<p class="bb-dnote">' + esc(t) + '</p>'; }).join("") +
       (db.u ? '<a class="bb-src" href="' + esc(db.u) + '" target="_blank" rel="noopener">Apri la scheda della fonte<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg></a>' : '') +

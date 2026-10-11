@@ -11,10 +11,32 @@
     "genere": "Memoir",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/",
+    "trama": "Il 30 aprile 2024 Paul Auster muore. Il mondo perde uno dei suoi piú grandi scrittori, Siri Hustvedt il compagno di una vita. Quando il dolore spariglia le carte, non resta che affidarsi alla sobria tenacia dei ricordi: cosí, all'esistenza condivisa subentra un dialogo postumo, fatto di vecchi biglietti, e-mail e pagine di diario.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/libri-attesi-autunno-2026-italia/",
       "data": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510",
-      "traduttore": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510"
+      "traduttore": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510",
+      "trama": "https://www.lafeltrinelli.it/storie-di-fantasmi-con-lettere-libro-siri-hustvedt/e/9788806271510 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "La pietra e la seta",
+    "autore": "Mikael Niemi",
+    "editore": "Iperborea",
+    "mese": "2026-09",
+    "giorno": 2,
+    "traduttore": "Katia De Marco",
+    "titolo_originale": "Sten i siden",
+    "titolo_alternativo": null,
+    "genere": "Romanzo storico",
+    "segnalazioni": [],
+    "link": "https://iperborea.com/",
+    "trama": "Pajala, estremo Nord della Svezia, giorni nostri. Durante gli scavi per una bonifica, affiorano in una torbiera i resti di un essere umano, un segreto sepolto lì da chissà quanti anni, e la polizia avvia le indagini. Nel Sud del paese, intanto, Siw è turbata da uno dei suoi episodi di preveggenza, una visione inquietante che sembra reclamarla su al Nord, terra d’origine del padre e di antichi miti sciamanici.",
+    "fonti": {
+      "scoperta": "https://iperborea.com/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/pietra-seta-libro-mikael-niemi/e/9791281724853",
+      "trama": "https://www.lafeltrinelli.it/pietra-seta-libro-mikael-niemi/e/9791281724853 (testo dell'editore, accorciato)",
+      "titolo_originale": "laFeltrinelli"
     }
   },
   {
@@ -29,8 +51,10 @@
     "genere": "Romance",
     "segnalazioni": [],
     "link": "https://libreriamo.it/?p=371958",
+    "trama": "Il Capitano delle Guardie sa riconoscere ogni minaccia. Tranne quella rappresentata dall’affascinante duca che dovrebbe soltanto tenere lontano dai guai. Thomas Malone ha finalmente ottenuto il ruolo che desiderava: Capitano delle Guardie del castello di Lilleforth.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/?p=371958"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/?p=371958",
+      "trama": "https://www.lafeltrinelli.it/capitano-canaglia-libro-sarah-honey/e/9791220714648 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -45,9 +69,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.adelphi.it/libro/9788845941436",
+    "trama": "La vita di Robert Bristol – regista con all'attivo una dozzina di non indimenticabili film, sfibranti sfide budgetarie, due matrimoni falliti e un'iperglicemia – sembra destinata al flop: commerciale, erotico, personale.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941436",
-      "data": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/"
+      "data": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+      "trama": "https://www.lafeltrinelli.it/bristol-libro-jean-echenoz/e/9788845941436 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -64,12 +90,14 @@
       "Esordio"
     ],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "Quando una ragazza viene trovata morta in un parco di Londra, il caso sembra uno dei tanti. Finché sulla scena del crimine viene rinvenuto un oggetto insolito: un libro intitolato Omicidio: istruzioni per l'uso. L'autore del curioso testo, Denver Brady, sostiene di essere il serial killer più prolifico del mondo: non è mai stato catturato nonostante i molti crimini, proprio perché ha sempre seguito alla lettera le regole dell'omicidio perfetto.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/omicidio-istruzioni-per-uso-libro-rebecca-philipson/e/9788830463882",
       "traduttore": "laFeltrinelli",
       "esordio": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/omicidio-istruzioni-per-uso-libro-rebecca-philipson/e/9788830463882 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -84,10 +112,12 @@
     "genere": "Romance",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "trama": "Ridley credeva che solo la verità l’avrebbe guarita... ma poi ha incontrato Colt. Ogni caso irrisolto ha un pezzo mancante e Ridley Sawyer non ha mai smesso di cercarlo. Da quando sua sorella gemella è scomparsa, vive inseguendo verità su casi di cui nessuno vuole più sentir parlare.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/all-the-missing-pieces-booklover-libro-catherine-cowles/e/9791221222029",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/all-the-missing-pieces-booklover-libro-catherine-cowles/e/9791221222029 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -102,10 +132,32 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "trama": "Debbie Mullen sta perdendo il controllo. Per anni ha dispensato i suoi migliori consigli nella rubrica “Cara Debbie”, dove le mogli del New England scrivono cercando aiuto e comprensione. Grazie al suo lavoro, Debbie ha ascoltato i racconti di innumerevoli donne ignorate, sminuite e persino maltrattate dai loro mariti.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/cara-debbie-libro-freida-mcfadden/e/9791224205074",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/cara-debbie-libro-freida-mcfadden/e/9791224205074 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Cuore di mandorla",
+    "autore": "Yasmina Khadra",
+    "editore": "Sellerio",
+    "mese": "2026-09",
+    "giorno": 8,
+    "traduttore": "Marina Di Leo",
+    "titolo_originale": "Cœur d'amande",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://sellerio.it/it/novita/?per=2026-10",
+    "trama": "Nestor Landiras vive a Montmartre, ai piedi del Sacré-Cœur, dove spesso sale di notte a guardare le luci di Parigi aspettando l'alba. Rifiutato dalla madre alla nascita, è cresciuto nell'abbraccio della nonna Bernadette.",
+    "fonti": {
+      "scoperta": "https://sellerio.it/it/novita/?per=2026-10",
+      "scheda_libraio": "https://www.lafeltrinelli.it/cuore-di-mandorla-libro-yasmina-khadra/e/9788838949975",
+      "trama": "https://www.lafeltrinelli.it/cuore-di-mandorla-libro-yasmina-khadra/e/9788838949975 (testo dell'editore, accorciato) e riscritto",
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: titolo dell'opera 'coeur-d'amande'"
     }
   },
   {
@@ -120,11 +172,13 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
+    "trama": "Dopo il brutale tradimento consumatosi durante la sua notte di nozze, la principessa Anne svanisce nel nulla, dimenticata dal regno che era destinata a governare. Anni dopo riemerge dall’Oltretomba non più come principessa, ma come flagello dei mari: meglio conosciuta come Barbanera.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-novita-uscita-7-13-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/bloody-black-vendetta-del-cuore-libro-rhiannon-hargadon/e/9788834442715",
       "traduttore": "laFeltrinelli",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/bloody-black-vendetta-del-cuore-libro-rhiannon-hargadon/e/9788834442715 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -139,8 +193,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+    "trama": "È un nuovo giorno, per una nuova te! Kinga è una donna che si rinnova dal lunedì al weekend. C’è una Kinga per ogni giorno della settimana: il lunedì, ecco Kinga-A che cancella dal telefono le app di delivery; il giovedì, una Kinga-D ben lieta di passare le ore a mollo nella vasca da bagno – e nel vino.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+      "trama": "https://www.lafeltrinelli.it/nuova-nuova-me-libro-helen-oyeyemi/e/9788832974874 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -155,9 +211,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+    "trama": "Clara e Francis si amano, ma sono amanti clandestini. Da mesi si sottraggono alle loro vite ufficiali per ritrovarsi in camere d'albergo, in pomeriggi rubati, sempre troppo brevi. Finché, un giorno, si svegliano in una stanza che nessuno dei due riconosce, senza alcun ricordo di come ci siano arrivati.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
-      "titolo_originale": "https://www.lafeltrinelli.it/persempre-libro-sophie-mackintosh/e/9791255751465"
+      "titolo_originale": "https://www.lafeltrinelli.it/persempre-libro-sophie-mackintosh/e/9791255751465",
+      "trama": "https://www.lafeltrinelli.it/persempre-libro-sophie-mackintosh/e/9791255751465 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -172,10 +230,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "In una tranquilla cittadina della Provenza lavora Louis, un giardiniere molto taciturno che vive con il suo gatto. Tutti lo conoscono non solo per quel suo atteggiamento tanto schivo e sfuggente che non passa certo inosservato, ma anche perché è un abile lavoratore che sembra sempre conoscere il modo migliore per potare una rosa, abbassare una siepe, o mettere a dimora un giovane albero.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/gatto-del-giardiniere-libro-thomas-schlesser/e/9788830465060",
-      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: titolo uniforme 'chat du jardinier' (SBN omette l'articolo iniziale)"
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: titolo uniforme 'chat du jardinier' (SBN omette l'articolo iniziale)",
+      "trama": "https://www.lafeltrinelli.it/gatto-del-giardiniere-libro-thomas-schlesser/e/9788830465060 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -190,10 +250,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "Mary Stone aiuta la popolazione di Union Springs, Alabama, offrendo pasti caldi nella sua fattoria di famiglia, e la difende nel suo ruolo di giudice della contea. È amata, rispettata. È in lizza per essere rieletta. Tutto cambia quando nella sua aula di tribunale viene portata la dottoressa Bria Gaines, accusata di aver praticato un aborto su una minorenne vittima di violenza.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/giudice-libro-james-patterson-viola-davis/e/9788830465022",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/giudice-libro-james-patterson-viola-davis/e/9788830465022 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -208,10 +270,12 @@
     "genere": "Young adult",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "trama": "Un virus letale senza precedenti si sta diffondendo in tutto il mondo. Chi sopravvive ha un effetto collaterale: la felicità. Quelli che riescono a riprendersi dalla malattia sperimentano una serenità mai provata prima. Stress, rabbia, avidità e ogni emozione negativa sembrano spariti e sempre più persone si abbandonano a questa leggerezza.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/all-better-now-felicita-pericolosa-libro-neal-shusterman/e/9788807911026",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/all-better-now-felicita-pericolosa-libro-neal-shusterman/e/9788807911026 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -226,10 +290,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "trama": "È il 13 luglio del 1985 e gli abitanti di Delmont Close stanno preparando un barbecue di quartiere per guardare tutti insieme il più grande evento musicale della storia, il Live Aid. Una giornata come nessun'altra, che finirà per raggiungere milioni di persone e cambiare la vita di molti spettatori.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/barbecue-al-numero-9-libro-jennie-godfrey/e/9788833946399",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/barbecue-al-numero-9-libro-jennie-godfrey/e/9788833946399 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -244,8 +310,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+    "trama": "Come si fa a crescere sani di mente con una mamma che si suicida un po’ troppo spesso? Come si fa a credere in una vita stronza e nei servizi sociali che ti sbattono da una famiglia di opportunisti all’altra? Autore di testi rap, megalettore, megalomane, sessista, razzista, convinto di essere un mezzo genio, privo di qualsivoglia empatia per gli altri, la Bestia tenta di sfangarla nei modi più incredibili e terribili.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+      "trama": "https://www.lafeltrinelli.it/bestia-di-mamma-libro-david-goudreault/e/9788892942462 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -260,10 +328,32 @@
     "genere": "Horror",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "trama": "Il soldato semplice Cyril Bagger è riuscito a sopravvivere agli indicibili orrori della Grande Guerra grazie al suo ingegno e all’inganno. Ma il suo istinto di sopravvivenza viene messo definitivamente alla prova quando lui e altri quattro soldati ricevono una missione mortale: avventurarsi nella pericolosa No Man’s Land per praticare l’eutanasia a un commilitone ferito.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/angel-down-libro-daniel-kraus/e/9791282205184",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/angel-down-libro-daniel-kraus/e/9791282205184 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Parla Zarathustra",
+    "autore": "Kader Abdolah",
+    "editore": "Iperborea",
+    "mese": "2026-09",
+    "giorno": 16,
+    "traduttore": "Elisabetta Svaluto Moreolo, Claudia Cozzi",
+    "titolo_originale": "Zarathustra spreekt",
+    "titolo_alternativo": null,
+    "genere": "Romanzo storico",
+    "segnalazioni": [],
+    "link": "https://iperborea.com/",
+    "trama": "C’è chi dice che Zarathustra sia il primo uomo mai nato, chi che fosse già antico di millenni ai tempi di Aristotele, chi ha provato a segnare le sue date di nascita e morte sul calendario della Storia: 25 febbraio 1768 a.C. – 24 gennaio 1691 a.C.",
+    "fonti": {
+      "scoperta": "https://iperborea.com/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/parla-zarathustra-chi-sei-cosa-libro-kader-abdolah/e/9791281724839",
+      "trama": "https://www.lafeltrinelli.it/parla-zarathustra-chi-sei-cosa-libro-kader-abdolah/e/9791281724839 (testo dell'editore, accorciato)",
+      "titolo_originale": "laFeltrinelli"
     }
   },
   {
@@ -278,10 +368,12 @@
     "genere": "Romance",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "trama": "“Ex favilla nos resurgemus.” Una polaroid scattata di nascosto. Una misteriosa frase in latino. E, in un istante, la normalità di Kailani Johnson si spezza per sempre. Studentessa di Legge a Philadelphia, Kailani divide le sue giornate tra lo studio e i turni massacranti come cameriera in uno squallido pub, cercando soltanto di andare avanti.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/ashes-vol-1-libro-eden-myra/e/9791259856241",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/ashes-vol-1-libro-eden-myra/e/9791259856241 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -296,10 +388,12 @@
     "genere": "Ibrido",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
+    "trama": "È ossessionata dall’apparizione di misteriose figure di donne, tutte vestite di verde, ed è anche tormentata dall’impetuosa Garonna che minaccia di tracimare: la narratrice senza nome di questo romanzo non la smette di andare alla loro ricerca, tra Parigi, Marsiglia e l’Africa.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-straniera-14-20-settembre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/autoritratto-in-verde-libro-marie-ndiaye/e/9788831234474",
-      "titolo_originale": "Libreriamo (estratto di ricerca, edizione francese 2005) e OPAC SBN, ricerca del 11/10/2026: solo edizioni francesi, nessuna italiana precedente"
+      "titolo_originale": "Libreriamo (estratto di ricerca, edizione francese 2005) e OPAC SBN, ricerca del 11/10/2026: solo edizioni francesi, nessuna italiana precedente",
+      "trama": "https://www.lafeltrinelli.it/autoritratto-in-verde-libro-marie-ndiaye/e/9788831234474 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -308,14 +402,17 @@
     "editore": "Garzanti",
     "mese": "2026-09",
     "giorno": 22,
-    "traduttore": null,
+    "traduttore": "Enrica Budetta",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
+    "trama": "Nuria non esce mai dalla sua villa alle porte di Madrid. Da anni scrive a penna un manoscritto che non è mai riuscita a finire. Preferisce prendersi cura delle piante piuttosto che stare con il marito Roberto o il figlio Cris, ormai adulto e da tempo all'estero.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
+      "trama": "https://www.lafeltrinelli.it/stanza-delle-verita-libro-clara-sanchez/e/9788811020592 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/stanza-delle-verita-libro-clara-sanchez/e/9788811020592"
     }
   },
   {
@@ -330,10 +427,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "Il capitano Juan Cabrillo e l'equipaggio dell'Oregon vengono incaricati di portare a termine una missione di estrazione in Kenya. Ma quello che sembra un intervento semplice e circoscritto rivela l'esistenza di una minaccia su scala globale.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/tempesta-di-fuoco-libro-mike-maden-clive-cussler/e/9788830465459",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/tempesta-di-fuoco-libro-mike-maden-clive-cussler/e/9788830465459 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -348,10 +447,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+    "trama": "Clara Graysword è sopravvissuta all'inferno di Eclipse City grazie a piccoli furti, un pizzico di fortuna e una dose abbondante di magia illegale. Dopo un lavoro andato male, però, viene condannata all'ergastolo per aver disegnato e usato alcune carte dei tarocchi: un potere rarissimo, che può essere esercitato solo da chi abbia frequentato l'esclusiva Accademia degli Arcani.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
       "scheda_libraio": "https://www.lafeltrinelli.it/arcana-academy-vol-1-libro-elise-kova/e/9788804782445",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/arcana-academy-vol-1-libro-elise-kova/e/9788804782445 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -366,10 +467,52 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
+    "trama": "Tra le vette delle Alpi svizzere, sorge il lussuoso Grand Alpine Hotel. Ci si arriva solo tramite una singola, tortuosa linea ferroviaria, ma offre viste mozzafiato e un accesso esclusivo alle piste innevate. Come ogni anno, la sua clientela è composta da ospiti variegati che arrivano da tutto il mondo: c'è un'attrice famosa; un politico in ascesa con la giovane moglie della buona società e l'amico scapestrato; un astuto medico.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-21-27/",
       "scheda_libraio": "https://www.lafeltrinelli.it/assassinio-al-grand-alpine-hotel-libro-lucy-foley/e/9788804816515",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/assassinio-al-grand-alpine-hotel-libro-lucy-foley/e/9788804816515 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Le cose in natura semplicemente crescono",
+    "autore": "Yiyun Li",
+    "editore": "NN",
+    "mese": "2026-09",
+    "giorno": 22,
+    "traduttore": null,
+    "titolo_originale": "Things in Nature Merely Grow",
+    "titolo_alternativo": null,
+    "genere": "Memoir",
+    "segnalazioni": [],
+    "link": "https://www.nneditore.it/catalogo/novita",
+    "trama": "Yiyun Li e suo marito hanno avuto due figli e li hanno persi entrambi: Vincent nel 2017, a sedici anni, e James nel 2024, a diciannove. Entrambi hanno scelto il suicidio, ed entrambi sono morti non lontano da casa. Di fronte a un dolore che le parole non bastano a esprimere, Le cose in natura semplicemente crescono è un memoir intimo e radicale sul rapporto tra pensiero, lingua e perdita.",
+    "fonti": {
+      "scoperta": "https://www.nneditore.it/catalogo/novita",
+      "scheda_libraio": "https://www.lafeltrinelli.it/cose-in-natura-semplicemente-crescono-libro-li-yiyun/e/9791255751472",
+      "trama": "https://www.lafeltrinelli.it/cose-in-natura-semplicemente-crescono-libro-li-yiyun/e/9791255751472 (testo dell'editore, accorciato), con una frase corretta",
+      "titolo_originale": "laFeltrinelli"
+    }
+  },
+  {
+    "titolo": "Le riforestatrici",
+    "autore": "Gabrielle Filteau-Chiba",
+    "editore": "Iperborea",
+    "mese": "2026-09",
+    "giorno": 23,
+    "traduttore": "Luciana Cisbani",
+    "titolo_originale": "Hexa",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://iperborea.com/",
+    "trama": "Un mondo in cui l’apocalisse climatica è già avvenuta, una dittatura che controlla le nascite, un microchip sottopelle a ogni cittadino: questa è l’unica realtà che la quindicenne Thalie conosce, la vita di città che condivide con il padre.",
+    "fonti": {
+      "scoperta": "https://iperborea.com/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/riforestatrici-libro-gabrielle-filteau-chiba/e/9791281724846",
+      "trama": "https://www.lafeltrinelli.it/riforestatrici-libro-gabrielle-filteau-chiba/e/9791281724846 (testo dell'editore, accorciato)",
+      "titolo_originale": "laFeltrinelli"
     }
   },
   {
@@ -384,8 +527,10 @@
     "genere": "Ibrido",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+    "trama": "Un romanzo che abbraccia quasi un secolo di storia e due continenti: dalla Parigi della Prima guerra mondiale a quella degli anni ’80, dalla Guerra civile spagnola alla dittatura peronista in Argentina. Le vicende narrate ruotano attorno a Raymond Molinier, un trockista francese che mise la sua grande audacia a sostegno della causa.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+      "trama": "https://www.lafeltrinelli.it/bellezza-terribile-libro-jose-ovejero-edurne-portela/e/9788862436397 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -400,8 +545,10 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+    "trama": "Parigi, 1773. Una ragazza di quindici anni entra in una caserma chiedendo di poter comprare un cadavere. È Marie Bihéron, destinata a diventare la prima donna anatomista, creatrice di celebri modelli in cera del corpo umano.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+      "trama": "https://www.lafeltrinelli.it/cera-libro-christine-wunnicke/e/9791254761724 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -411,13 +558,16 @@
     "mese": "2026-09",
     "giorno": 25,
     "traduttore": "Maddalena Mendolicchio",
-    "titolo_originale": null,
+    "titolo_originale": "An evil heart",
     "titolo_alternativo": null,
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+    "trama": "Kate Burkholder, capo della polizia di Painters Mill, indaga sulla morte brutale di un giovane amish. È il nuovo capitolo della serie di Linda Castillo ambientata tra le comunità amish dell'Ohio.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+      "trama": "https://www.lafeltrinelli.it/cuore-malvagio-libro-linda-castillo/e/9788866887423 (testo dell'editore, corretto a mano)",
+      "titolo_originale": "https://www.lafeltrinelli.it/cuore-malvagio-libro-linda-castillo/e/9788866887423"
     }
   },
   {
@@ -432,9 +582,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.ibs.it/libri/editori/mercurio-books",
+    "trama": "Rowena ha diciassette anni, un carattere indomabile e una maledizione nel sangue. Fin da bambina, sua madre le ha insegnato a riconoscerne i segni: stormi di uccelli che cadono dal cielo, disgrazie che si abbattono sulle persone care, ombre che la tormentano.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/editori/mercurio-books",
-      "traduttore": "https://www.lafeltrinelli.it/solstizio-libro-nadia-attia/e/9791281656710"
+      "traduttore": "https://www.lafeltrinelli.it/solstizio-libro-nadia-attia/e/9791281656710",
+      "trama": "https://www.lafeltrinelli.it/solstizio-libro-nadia-attia/e/9791281656710 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -449,8 +601,10 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+    "trama": "Il Regno dei Ladri si cela nelle profondità del mondo di Aadilor. La sua esistenza sopravvive in voci e sussurri, perché in pochissimi sono riusciti a trovare questo regno leggendario, dove piacere e magia prosperano sotto il dominio del Re dei Ladri.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+      "trama": "https://www.lafeltrinelli.it/canzone-della-pioggia-eterna-libro-e-j-mellow/e/9791255172130 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -465,8 +619,10 @@
     "genere": "Young adult",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+    "trama": "Quattro mostri e una promessa, un castello che ha fame di segreti. Dopo l’estate a Villa Diodati, Eve, Hal, Griffin e Ren non possono più fingere di essere soltanto giovani scrittori scelti per reinventare il gotico. Qualcosa in loro si è risvegliato, qualcosa di antico e terribile, e ora un nuovo invito li richiama là dove ogni leggenda sembra avere avuto origine: in Transilvania, oltre la foresta, tra le mura del Castello di Bran.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/5-libri-settembre-ottobre-novita/",
+      "trama": "https://www.lafeltrinelli.it/children-of-the-night-misteri-libro-ma-bennett/e/9791221216165 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -481,9 +637,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
+    "trama": "Mestra, figlia del re di Tessaglia, assiste impotente al declino del padre, colpito da una fame insaziabile che divora ogni ricchezza, ogni affetto, ogni traccia di umanità. E quando ormai non resta più nulla, Erisittone arriva a vendere anche Mestra.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.centrolibri.it/libri-in-uscita-a-settembre-e-ottobre-2026/",
-      "traduttore": "https://www.lafeltrinelli.it/mestra-libro-madeline-miller/e/9788845428494"
+      "traduttore": "https://www.lafeltrinelli.it/mestra-libro-madeline-miller/e/9788845428494",
+      "trama": "https://www.lafeltrinelli.it/mestra-libro-madeline-miller/e/9788845428494 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -498,8 +656,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.adelphi.it/libro/9788845941412",
+    "trama": "Ad attrarre come una calamita Pinkhas Fradkin, un diciottenne senza un soldo in tasca che ha lasciato lo shtetl natio per andare a Odessa, dove vivacchia dando lezioni di ebraico, è il porto: perché è da quei moli che salpano le navi, rumene, greche, turche, e lui sogna di imbarcarsi per Istanbul e da lì raggiungere la Terra di Israele.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941412"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941412",
+      "trama": "https://www.lafeltrinelli.it/sulle-rive-del-mar-nero-libro-israel-joshua-singer/e/9788845941412 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -508,14 +668,18 @@
     "editore": "Mondadori",
     "mese": "2026-09",
     "giorno": 29,
-    "traduttore": null,
-    "titolo_originale": null,
+    "traduttore": "Luca Fusari, Sara Prencipe",
+    "titolo_originale": "The French Illusion",
     "titolo_alternativo": null,
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/linganno-francese-john-grisham/",
+    "trama": "Dopo un matrimonio da favola, Paul e Chelsea Tanner partono per la loro tanto attesa e romantica luna di miele a Parigi. Chelsea non perde occasione di documentare ogni singolo momento nella capitale francese pubblicando innumerevoli post sui social, finché improvvisamente il flusso di foto e aggiornamenti a familiari e amici si interrompe.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/linganno-francese-john-grisham/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/linganno-francese-john-grisham/",
+      "trama": "https://www.lafeltrinelli.it/inganno-francese-libro-john-grisham/e/9788804815921 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/inganno-francese-libro-john-grisham/e/9788804815921",
+      "titolo_originale": "https://www.lafeltrinelli.it/inganno-francese-libro-john-grisham/e/9788804815921"
     }
   },
   {
@@ -530,10 +694,12 @@
     "genere": "Fantascienza",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "Gagarin's Start, Baikonur, Kazakistan. La comandante Alyssa Wright è pronta a guidare il suo equipaggio a bordo della navicella Argo, in una missione senza possibilità di ritorno verso Marte, però non è affatto pronta a vedere la più ambiziosa delle imprese spaziali – colonizzare il Pianeta Rosso – diventare un reality show per il pubblico di tutto il mondo.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/mars-one-libro-charlotte-robinson/e/9788830464544",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/mars-one-libro-charlotte-robinson/e/9788830464544 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -548,10 +714,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/libri/philip-pullman-il-libro-della-polvere-il-campo-delle-rose-9788831028806/",
+    "trama": "Alla fine del Regno Segreto, la ventenne Lyra era sola tra le rovine di una città deserta, dopo aver perduto il suo daimon Pan, fuggito per ritrovare la sua immaginazione. Ma la ricerca non è che all'inizio: l'attende un viaggio per l'Asia Centrale in compagnia della guida e interprete Abdel Ionides, uomo dalle mille risorse e suo autodesignato ‘mago personale'.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/campo-delle-rose-libro-della-libro-philip-pullman/e/9788831028806",
-      "titolo_originale": "solo estratto: risultato di ricerca web (cinefatti.it) che cita l'originale The Rose Field, uscito nel Regno Unito il 23/10/2025"
+      "titolo_originale": "solo estratto: risultato di ricerca web (cinefatti.it) che cita l'originale The Rose Field, uscito nel Regno Unito il 23/10/2025",
+      "trama": "https://www.lafeltrinelli.it/campo-delle-rose-libro-della-libro-philip-pullman/e/9788831028806 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -566,10 +734,51 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Il giorno della Trebbiatura sta arrivando... Tredici storie indimenticabili. Un giorno leggendario. Il legame che cambia tutto. Tredici storie dall'Accademia di Basgiath. Ogni cavaliere ricorda il giorno in cui è stato scelto.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/threshing-day-ediz-italiana-libro-rebecca-yarros/e/9788820086626",
-      "titolo_originale": "titolo inglese mantenuto in italiano: non basta a confermare l'originale (11/10/2026)"
+      "titolo_originale": "titolo inglese mantenuto in italiano: non basta a confermare l'originale (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/threshing-day-ediz-italiana-libro-rebecca-yarros/e/9788820086626 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Le bambine dell'aranceto",
+    "autore": "Gabriela Cabezón Cámara",
+    "editore": "Sellerio",
+    "mese": "2026-09",
+    "giorno": 29,
+    "traduttore": "Giulia Zavagna",
+    "titolo_originale": "Las niñas del naranjel",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://sellerio.it/it/novita/?per=2026-10",
+    "trama": "Le bambine dell’aranceto immagina in chiave radicale la vita di un personaggio storico e quasi leggendario: Antonio de Erauso (1592-1650), un’anima nata «Catalina», donna in un convento basco, costretta a una vita da novizia, che fuggirà da un destino soffocante per raggiungere il Nuovo Mondo come uomo.",
+    "fonti": {
+      "scoperta": "https://sellerio.it/it/novita/?per=2026-10",
+      "scheda_libraio": "https://www.lafeltrinelli.it/bambine-dell-aranceto-libro-gabriela-cabezon-camara/e/9788838950421",
+      "trama": "https://www.lafeltrinelli.it/bambine-dell-aranceto-libro-gabriela-cabezon-camara/e/9788838950421 (testo dell'editore, accorciato)",
+      "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: edizione spagnola 2023, titolo dell'opera 'ninas del naranjel'"
+    }
+  },
+  {
+    "titolo": "La donna che amava Borges",
+    "autore": "Florencia Etcheves",
+    "editore": "Salani",
+    "mese": "2026-09",
+    "giorno": 29,
+    "traduttore": null,
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/libri/florencia-etcheves-la-donna-che-amava-borges-9788831024938/",
+    "trama": "Nel retrobottega affollato di una libreria di Buenos Aires, una ragazza dai tratti orientali, nascosta in un cappotto blu, si schiaccia contro il muro per non farsi notare. María è una liceale timida, non appartiene a quel mondo, ma è curiosa di sentir parlare lo scrittore che da bambina l'ha stregata con un racconto.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/florencia-etcheves-la-donna-che-amava-borges-9788831024938/",
+      "trama": "https://www.lafeltrinelli.it/donna-che-amava-borges-libro-florencia-etcheves/e/9788831024938 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/donna-che-amava-borges-libro-florencia-etcheves/e/9788831024938"
     }
   },
   {
@@ -586,8 +795,10 @@
       "Esordio"
     ],
     "link": "https://libreriamo.it/libri/10-libri-uscita-settembre-2026/",
+    "trama": "Splendore e declino di una grande famiglia sulle rive del Danubio. All'alba del Novecento, nel loro castello nel sud dell'Ungheria, i Lázár accolgono l'ultimo nato, al tempo stesso miracolo e maledizione. Il piccolo Lajos von Lázár non assomiglia ai genitori: pelle quasi trasparente e occhi azzurri come l'acqua, viene subito considerato estraneo, inquietante, di cattivo auspicio.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-uscita-settembre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-uscita-settembre-2026/",
+      "trama": "https://www.lafeltrinelli.it/lazar-libro-nelio-biedermann/e/9788823536104 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -602,9 +813,11 @@
     "genere": "Memoir",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Un racconto elettrizzante, sporco e straordinariamente lucido di vent’anni trascorsi a raccogliere i rifiuti di Montréal. Simon Paré-Poupart firma un memoir privo di retorica che è al tempo stesso un'indagine sociologica sulla civiltà dei consumi e un manifesto d'amore per il lavoro manuale.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "https://www.lafeltrinelli.it/spazzatura-memoir-di-netturbino-libro-simon-pare-poupart/e/9791255600817"
+      "data": "https://www.lafeltrinelli.it/spazzatura-memoir-di-netturbino-libro-simon-pare-poupart/e/9791255600817",
+      "trama": "https://www.lafeltrinelli.it/spazzatura-memoir-di-netturbino-libro-simon-pare-poupart/e/9791255600817 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -621,10 +834,33 @@
       "Esordio"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Una piccola città rurale del Colorado si trova in stato di crisi nel pieno dell’inverno. Tom Horak ha appena ucciso il suo migliore amico, Rust Hawkins. Morris Green, il pastore luterano della città, sta attraversando una profonda crisi di fede, mettendo in discussione persino l’esistenza di Dio.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/salvezza-libro-c-william-langsfeld/e/9791282325110",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/salvezza-libro-c-william-langsfeld/e/9791282325110 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Le lacrime del Nilo",
+    "autore": "Reem Gaafar",
+    "editore": "astoria",
+    "mese": "2026-10",
+    "giorno": 2,
+    "traduttore": "Cecilia Vallardi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [
+      "Esordio"
+    ],
+    "link": "https://www.illibraio.it/libri/reem-gaafar-le-lacrime-del-nilo-9788833213262/",
+    "trama": "Un Paese incerto tra passato e futuro. Un destino segnato dalla volontà degli uomini. Una verità che solo le donne possono scoprire. Qualcosa di terribile incombe sugli abitanti di un villaggio del Sudan, sulle rive del Nilo: nel giro di pochi giorni, un bambino, Mohamed, scompare nel fiume, centinaia di animali muoiono e le piantagioni di datteri vengono consumate da un incendio.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/reem-gaafar-le-lacrime-del-nilo-9788833213262/",
+      "trama": "https://www.lafeltrinelli.it/lacrime-del-nilo-libro-reem-gaafar/e/9788833213262 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/lacrime-del-nilo-libro-reem-gaafar/e/9788833213262"
     }
   },
   {
@@ -633,14 +869,17 @@
     "editore": "Mondadori",
     "mese": "2026-10",
     "giorno": 6,
-    "traduttore": null,
+    "traduttore": "Katia Bagnoli",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/il-disordine-del-tempo-audrey-niffenegger/",
+    "trama": "Alba De Tamble è una viaggiatrice del tempo. A causa di una rara anomalia genetica, scivola in modo imprevedibile attraverso i decenni proprio come suo padre Henry prima di lei. Eppure si sforza di mantenere una vita normale: violinista di talento, Alba trova rifugio nella musica e nella sua affiatata comunità di artisti e attivisti che si prendono cura l'uno dell'altro in un mondo sempre più instabile.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/il-disordine-del-tempo-audrey-niffenegger/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/il-disordine-del-tempo-audrey-niffenegger/",
+      "trama": "https://www.lafeltrinelli.it/disordine-del-tempo-libro-audrey-niffenegger/e/9788804814771 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/disordine-del-tempo-libro-audrey-niffenegger/e/9788804814771"
     }
   },
   {
@@ -655,9 +894,11 @@
     "genere": "Romance",
     "segnalazioni": [],
     "link": "https://www.oscarmondadori.it/",
+    "trama": "Nico Junior Trocci sa che Lauren Marchetti è off-limits: lei è zucchero e miele, mentre lui vive in un mondo di violenza e depravazione. I malavitosi come lui non si mettono con le brave ragazze come lei. Per questo è dai tempi del liceo che la tiene a distanza.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.oscarmondadori.it/",
-      "traduttore": "https://www.lafeltrinelli.it/caught-up-into-darkness-ediz-libro-navessa-allen/e/9788804800934"
+      "traduttore": "https://www.lafeltrinelli.it/caught-up-into-darkness-ediz-libro-navessa-allen/e/9788804800934",
+      "trama": "https://www.lafeltrinelli.it/caught-up-into-darkness-ediz-libro-navessa-allen/e/9788804800934 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -666,14 +907,17 @@
     "editore": "Il Castoro",
     "mese": "2026-10",
     "giorno": 6,
-    "traduttore": null,
+    "traduttore": "Laura Bortoluzzi",
     "titolo_originale": "The Rebel and the Rose",
     "titolo_alternativo": null,
     "genere": "Young adult",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/in-prenotazione",
+    "trama": "Seraphine Marchant e l’Ordine delle Fiamme tramano per estirpare la Tenebra attraverso il Fuoco di Luce lontano da Fantome, in un rifugio arroccato sulle montagne. Ma mentre Sera fatica a dominare i suoi rigogliosi poteri, il destino la riporta in città, e all’assassino che tormenta i suoi sogni.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione",
+      "trama": "https://www.lafeltrinelli.it/ribelle-rosa-the-rebel-and-libro-catherine-doyle/e/9791255335580 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/ribelle-rosa-the-rebel-and-libro-catherine-doyle/e/9791255335580"
     }
   },
   {
@@ -688,9 +932,11 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/",
+    "trama": "Irlanda, 1865. In un Paese ancora segnato dalla Grande Carestia e dall'emigrazione di massa, Tomás e suo figlio Liam lavorano all'ambizioso progetto dell'Ordnance Survey britannico: mappare l'intera isola, fissarne i nomi, i luoghi, i confini.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/maggie-ofarrell-land-9788823536968/",
-      "data": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/"
+      "data": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+      "trama": "https://www.lafeltrinelli.it/land-storia-irlandese-libro-maggie-o-farrell/e/9788823536968 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -705,9 +951,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Un balcone al quinto piano ricoperto di buganvillee in fiore, da qualche parte a Tel Aviv. Suo marito Yuval ha avuto una pessima idea a metterla davanti al fatto compiuto: era prevedibile che Naomi, di ritorno dai giardini col piccolo Uri, non sarebbe stata entusiasta di trovarsi sola in casa con un muratore arabo che sta intonacando il parapetto del loro balcone.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/ e https://www.lafeltrinelli.it/ospiti-libro-ayelet-gundar-goshen/e/9788854534216"
+      "data": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/ e https://www.lafeltrinelli.it/ospiti-libro-ayelet-gundar-goshen/e/9788854534216",
+      "trama": "https://www.lafeltrinelli.it/ospiti-libro-ayelet-gundar-goshen/e/9788854534216 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -722,9 +970,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "In una Calcutta afflitta da alluvioni e carestie, eppure ancora palpitante di suoni, profumi e colori, Ma, la sua bambina di due anni e il padre anziano stanno preparando le valigie prima di andare a letto: hanno ottenuto i visti tanto attesi dal consolato e tra sette giorni potranno raggiungere il marito di Ma in America.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "https://www.lafeltrinelli.it/sette-giorni-libro-megha-majumdar/e/9788829795970"
+      "data": "https://www.lafeltrinelli.it/sette-giorni-libro-megha-majumdar/e/9788829795970",
+      "trama": "https://www.lafeltrinelli.it/sette-giorni-libro-megha-majumdar/e/9788829795970 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -739,10 +989,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "trama": "Lo chalet degli Holloway, sul lago Skaneateles, sembra un rifugio da cartolina: legno vecchio, odore di resina, il buio che sale dal bosco come una marea. Ma per Constance, sceneggiatrice di successo in fuga da Brooklyn, è il luogo in cui ha deciso di capire se vuole ancora vivere.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/artiglio-libro-maxime-chattam/e/9788831030663",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/artiglio-libro-maxime-chattam/e/9788831030663 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -757,10 +1009,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "trama": "Parigi, anni Trenta. Félix, giovane manovale nelle officine meccaniche, non trova mai le parole per dire quello che sente: con il lavoro, con la famiglia, con la moglie Paulette. Il loro amore si guasta finché l'incapacità di comunicare diventa violenza. È il romanzo d'esordio di Jean Meckert, apprezzato da Gide e Queneau.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
       "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: Les coups, Gallimard 1941; Libreriamo lo indica come romanzo d'esordio dell'autore",
-      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata"
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata",
+      "trama": "https://www.lafeltrinelli.it/botte-libro-jean-meckert/e/9788806268435 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -775,10 +1029,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://libreriamo.it/?p=372707",
+    "trama": "Con gli occidentali e i loro alleati che premono da ogni parte, l'impero del Grande Liang si appresta a vivere la sua ora più buia. In questa disperata situazione, Gu Yun guida l'Armata del Ferro Oscuro nel tentativo di difendere i confini, mentre Changgeng agisce dall'interno della corte, spazzando via i funzionari corrotti con l'obiettivo di stabilizzare la nazione prima che sia troppo tardi.",
     "fonti": {
       "scoperta": "https://libreriamo.it/?p=372707",
       "scheda_libraio": "https://www.lafeltrinelli.it/assedio-infuria-tre-stelle-del-libro-priest/e/9788804773313",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/assedio-infuria-tre-stelle-del-libro-priest/e/9788804773313 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -795,11 +1051,13 @@
       "Prima edizione italiana"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Sono freddi al tatto e affascinanti nella loro eterna giovinezza. Il loro riso seduce, la loro intelligenza ammalia. Le risposte ai misteri della vita e della morte giacciono nel loro sapere infinitamente superiore. Sono i vampiri.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/delicata-dipendenza-libro-michael-talbot/e/9791281631922",
       "titolo_originale": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "prima_edizione": "ilLibraio: 'arriva finalmente in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato"
+      "prima_edizione": "ilLibraio: 'arriva finalmente in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato",
+      "trama": "https://www.lafeltrinelli.it/delicata-dipendenza-libro-michael-talbot/e/9791281631922 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -816,10 +1074,12 @@
       "Esordio"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Veda Thorne ha smesso da tempo di sperare. Dopo aver cercato invano un rimedio alla maledizione mortale che porta dentro di sé, ha accettato il proprio destino e si è chiusa al mondo. Ma quell'isolamento comincia a sgretolarsi quando le viene affidato Antaris, un bambino segnato da un dolore che rispecchia il suo, e che lei non riesce a ignorare.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/sight-unseen-sotto-stesso-incantesimo-libro-alexis-marie/e/9788842937678",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/sight-unseen-sotto-stesso-incantesimo-libro-alexis-marie/e/9788842937678 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -834,10 +1094,31 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Hannah, trent'anni, lasciata dal suo ragazzo e trascurata dalla sua migliore amica impegnata nei preparativi di nozze, riempie la solitudine frequentando un forum online dedicato al true crime, che si è prefissato l'obiettivo di risolvere gli omicidi di quattro donne ad Atlanta, probabilmente vittime di un serial killer.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/lettere-d-amore-a-serial-libro-tasha-coryell/e/9788833942377",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/lettere-d-amore-a-serial-libro-tasha-coryell/e/9788833942377 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "L'ultimo viaggio di mio fratello Wolf",
+    "autore": "Lara Taveirne",
+    "editore": "Ponte alle Grazie",
+    "mese": "2026-10",
+    "giorno": 6,
+    "traduttore": "Claudia Cozzi, Chiara Nardo",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Ibrido",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/",
+    "trama": "Wolf ha diciott'anni quando sparisce. Abbandona la sua stanza di studente e parte, senza lasciare detto niente a nessuno. Solo dopo molti mesi, dopo inutili ricerche, inutili messaggi, inutili email, il suo corpo sarà ritrovato, lontano, nelle foreste del nord della Svezia.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/",
+      "trama": "https://www.lafeltrinelli.it/ultimo-viaggio-di-mio-fratello-libro-lara-taveirne/e/9791255823223 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/ultimo-viaggio-di-mio-fratello-libro-lara-taveirne/e/9791255823223"
     }
   },
   {
@@ -852,8 +1133,10 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/libri/kate-foster-la-collana-di-corda-9788833212975/",
+    "trama": "Edimburgo, 1724. Maggie Dickson è una giovane pescivendola, e passa le sue giornate a preparare esche, a riparare reti e a vendere il pesce, prigioniera di un mondo in cui il destino delle donne è segnato: fatica, obbedienza, silenzio.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/kate-foster-la-collana-di-corda-9788833212975/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/kate-foster-la-collana-di-corda-9788833212975/",
+      "trama": "https://www.lafeltrinelli.it/collana-di-corda-libro-kate-foster/e/9788833212975 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -868,10 +1151,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
+    "trama": "In una città portuale senza nome, durante il primo lockdown globale, il tempo si arresta. Le strade si svuotano, i teatri chiudono, le case diventano rifugi e prigioni. Ed è allora che accade l’impossibile: Aureliano Buendía esce dalle pagine di una copia di Cent’anni di solitudine custodita in biblioteca e comincia a vagare nella città deserta.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-ottobre/",
       "scheda_libraio": "https://www.lafeltrinelli.it/anno-di-solitudine-libro-eman-alyousuf/e/9791281852280",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/anno-di-solitudine-libro-eman-alyousuf/e/9791281852280 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -886,11 +1171,13 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Scozia, 1933. Un’automobile percorre la strada che costeggia il Loch Ness. A bordo, una coppia: il signor e la signora MacKay. La donna guarda fuori dal finestrino e all’improvviso scorge qualcosa muoversi sulla superficie del lago, una grande gobba che si allontana.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/c-mostro-nel-lago-libro-laura-fernandez/e/9788895492858",
       "data": "laFeltrinelli",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/c-mostro-nel-lago-libro-laura-fernandez/e/9788895492858 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -907,10 +1194,12 @@
       "Data da confermare"
     ],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "trama": "Anna, scrittrice londinese bloccata, con la madre consumata dalla demenza e un trauma recente che non la lascia, accetta un ritiro per scrittori nelle paludi dell'Inghilterra orientale. Lì il fango restituisce il corpo perfettamente conservato di una donna vissuta migliaia di anni prima, in cui Anna stranamente si riconosce.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "data": "Nerdgames, novità Neri Pozza di ottobre: 9 ottobre; stesso sito, novità di novembre: 3 novembre",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/ e ilLibraio, rielaborato"
     }
   },
   {
@@ -925,10 +1214,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "trama": "Douglas Raymer, capo della polizia di North Bath, Stato di New York, sta ingrassando. Sarà forse perché ormai in centrale scalda la sedia: compila moduli, riferisce alle autorità locali, fa quadrare i budget. Non gli piace più il suo lavoro: del resto Douglas non piace più nemmeno a Douglas.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/vita-nel-frattempo-libro-richard-russo/e/9788854529298",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/vita-nel-frattempo-libro-richard-russo/e/9788854529298 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -943,8 +1234,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Artie Dam è l'insegnante che tutti vorrebbero: accogliente, gioviale, devoto ai suoi ragazzi. Eppure, dietro una vita scandita dalle lezioni, le gite in barca a vela e le serate ad ammirare la baia del Massachusetts, si nasconde un'ombra insondabile.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/cose-che-non-diciamo-libro-elizabeth-strout/e/9788806274528 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -953,7 +1246,7 @@
     "editore": "Rizzoli",
     "mese": "2026-10",
     "giorno": 13,
-    "traduttore": null,
+    "traduttore": "Rosa Prencipe",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Thriller",
@@ -961,8 +1254,11 @@
       "Data da confermare"
     ],
     "link": "https://www.ibs.it/libri/in-prenotazione",
+    "trama": "Un edificio abbandonato di Spanish Harlem, uno dei tanti relitti dimenticati ai margini di New York, viene divorato dalle fiamme in una torrida giornata d'estate. Quando il fumo si dirada, qualcosa tra le macerie esclude subito l'ipotesi dell'incidente.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/in-prenotazione"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/in-prenotazione",
+      "trama": "https://www.lafeltrinelli.it/cuore-arma-libro-jeffery-deaver/e/9788817199995 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/cuore-arma-libro-jeffery-deaver/e/9788817199995"
     }
   },
   {
@@ -977,8 +1273,10 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+    "trama": "Lipsia, anno 1681. La quindicenne Anna Voigt si trova ad affrontare una grave accusa: avrebbe ucciso la sua bambina appena nata. Rimasta incinta di un garzone, la ragazza ha portato avanti la gravidanza in segreto e subito dopo il parto ha sepolto il corpicino nell'orto.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+      "trama": "https://www.lafeltrinelli.it/accusa-libro-tore-renberg/e/9791259675835 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -996,9 +1294,11 @@
       "Data da confermare"
     ],
     "link": "https://www.adelphi.it/libro/9788845941443",
+    "trama": "Texas, 1907. Una piccola città portuale ai margini del profondo sud americano diventa teatro di uno dei capitoli più improbabili e misconosciuti della storia moderna, un disegno così surreale che sembra partorito dalla mente del balordo alter ego di Philip Roth in Operazione Shylock – invece stava per succedere davvero.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.adelphi.it/libro/9788845941443",
-      "data": "scheda Adelphi (import): 13 ottobre; laFeltrinelli: 16 ottobre"
+      "data": "scheda Adelphi (import): 13 ottobre; laFeltrinelli: 16 ottobre",
+      "trama": "https://www.lafeltrinelli.it/sion-texas-alla-ricerca-di-libro-rachel-cockerell/e/9788845941443 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1015,8 +1315,10 @@
       "Esordio"
     ],
     "link": "https://www.illibraio.it/libri/seamas-oreilly-una-star-a-derry-9788823536500/",
+    "trama": "A Derry c'è fermento: la celebre attrice americana Monica Logue è in città per recitare in una nuova serie televisiva ambientata durante i Troubles, gli anni del conflitto in Irlanda del Nord. Pochi giorni dopo il suo arrivo, però, la donna scompare senza lasciare traccia.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/seamas-oreilly-una-star-a-derry-9788823536500/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/seamas-oreilly-una-star-a-derry-9788823536500/",
+      "trama": "https://www.lafeltrinelli.it/star-a-derry-libro-seamas-o-reilly/e/9788823536500 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1031,8 +1333,10 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/libri/glenn-cooper-la-porta-dei-destini-9788842937883/",
+    "trama": "Ninive, VII secolo a.C. Sembrava una ferita innocua, e invece adesso la concubina prediletta del sovrano sta morendo, vittima di un male che nessun rimedio riesce a curare. Mannu-ki-Aššur, il guaritore di corte, ha ormai capito che le sue conoscenze sono inutili, eppure è disposto a tutto pur di salvare quella donna, il suo inconfessabile amore segreto.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/glenn-cooper-la-porta-dei-destini-9788842937883/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/glenn-cooper-la-porta-dei-destini-9788842937883/",
+      "trama": "https://www.lafeltrinelli.it/porta-dei-destini-libro-glenn-cooper/e/9788842937883 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1047,8 +1351,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/in-prenotazione",
+    "trama": "Molti anni dopo Il Talismano e La casa del buio, Jack Sawyer viene richiamato verso Riven e la Gola, un luogo che minaccia l'equilibrio tra i mondi. E forse dovrà ripetere le imprese di Roland di Gilead, il pistolero della Torre Nera.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione",
+      "trama": "https://libreriamo.it/?p=372707, rielaborato"
     }
   },
   {
@@ -1063,10 +1369,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/tempest-victoria-aveyard/",
+    "trama": "Cat Rose sa bene cosa significhi vivere in due mondi diversi. Nella sua esistenza, infatti, c'è stato un prima in cui lei era Lady Catrine Rose dell'impero meridiano, legata suo malgrado a un lord spregevole ormai al tramonto.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/tempest-victoria-aveyard/",
       "data": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096",
-      "traduttore": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096"
+      "traduttore": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096",
+      "trama": "https://www.lafeltrinelli.it/tempest-ediz-italiana-libro-victoria-aveyard/e/9788804816096 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1081,9 +1389,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Non vi è forse oggi scrittore che più di Mathieu Belezi costruisca pazientemente la sua narrativa come una delle opere più singolari e creative del nostro tempo. Cantico del caos, il suo ultimo romanzo accolto dall'entusiasmo della critica al suo apparire in Francia, narra, come indica il titolo, di un mondo in preda al caos spalancato dall'avidità e dalla crudeltà umane, in cui, però, è ancora possibile intonare un inno solenne, un cantico alla gioia selvaggia della vita.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "https://www.lafeltrinelli.it/cantico-del-caos-libro-mathieu-belezi/e/9791256240807"
+      "data": "https://www.lafeltrinelli.it/cantico-del-caos-libro-mathieu-belezi/e/9791256240807",
+      "trama": "https://www.lafeltrinelli.it/cantico-del-caos-libro-mathieu-belezi/e/9791256240807 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1092,15 +1402,18 @@
     "editore": "Newton Compton",
     "mese": "2026-10",
     "giorno": 13,
-    "traduttore": null,
+    "traduttore": "Sara Meddi",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://libreriamo.it/?p=372707",
+    "trama": "La terapeuta Helena Salve sa bene che mantenere il segreto professionale è la regola più importante e inviolabile del suo lavoro. Ma i continui racconti di manipolazioni e minacce che ascolta dalla sua paziente Belle riguardo al marito la stanno logorando.",
     "fonti": {
       "scoperta": "https://libreriamo.it/?p=372707",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/bestseller-libro-jenny-knightsby/e/9791224203421 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/bestseller-libro-jenny-knightsby/e/9791224203421"
     }
   },
   {
@@ -1115,10 +1428,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+    "trama": "Meg Macintosh discende da una lunga stirpe di streghe della cucina, donne capaci di compiere miracoli con un pizzico di farina e il giusto chiaro di luna. Ma lei non ci è mai riuscita. Così, quando il suo matrimonio va in pezzi, non le resta altra scelta che buttarsi a capofitto in una nuova sfida: aprire un piccolo caffè.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
       "scheda_libraio": "https://www.lafeltrinelli.it/caffe-delle-piccole-magie-libro-jessica-rosenberg/e/9791223256664",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/caffe-delle-piccole-magie-libro-jessica-rosenberg/e/9791223256664 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1133,10 +1448,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Quando Emma accetta l'offerta di Éric Martel sa che non si tratta solo di un nuovo lavoro. Sa che sta per superare un confine da cui non potrà più tornare indietro. I servizi segreti funzionano così. Emma quindi lascia tutto: la sua vita, il suo passato e persino il suo nome.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/evasione-libro-jean-reno/e/9788830462830",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/evasione-libro-jean-reno/e/9788830462830 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1153,11 +1470,94 @@
       "Possibile riedizione"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Dopo la fortunata accoglienza di La lunga ombra, torna in libreria Celia Fremlin con Le ore prima dell’alba, ritratto feroce della maternità travestito da giallo. Con questo romanzo la Fremlin è stata la prima donna a vincere l’Edgar Award.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/ore-prima-dell-alba-libro-celia-fremlin/e/9788838950407",
       "titolo_originale": "trama di ilLibraio (Louise, la mansarda affittata a Vera) coincide con The Hours Before Dawn (1958); fonte: Wikipedia, ricerca del 11/10/2026",
-      "riedizione": "OPAC SBN, ricerca del 11/10/2026: Fremlin pubblicata nel Giallo Mondadori dal 1961; questo titolo non verificato"
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: Fremlin pubblicata nel Giallo Mondadori dal 1961; questo titolo non verificato",
+      "trama": "https://www.lafeltrinelli.it/ore-prima-dell-alba-libro-celia-fremlin/e/9788838950407 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "I giorni oscuri",
+    "autore": "Thomas Olde Heuvelt",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Paolo Falcone",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Horror",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/oscar/in-arrivo/",
+    "trama": "A Lock Haven, una tranquilla cittadina nello Stato di Washington, c'è una strada molto speciale, Bird Street. Gli abitanti sono tutte persone ricche, felici e realizzate. E i loro figli sono tutti straordinariamente in forma, brillanti e di successo.",
+    "fonti": {
+      "scoperta": "https://www.mondadori.it/oscar/in-arrivo/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/giorni-oscuri-libro-thomas-olde-heuvelt/e/9788804804345",
+      "trama": "https://www.lafeltrinelli.it/giorni-oscuri-libro-thomas-olde-heuvelt/e/9788804804345 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: di Olde Heuvelt solo Hex (TRE60, 2017)"
+    }
+  },
+  {
+    "titolo": "I nostri doni crudeli",
+    "autore": "Kathryn Foxfield",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Chiara Reali",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Young adult",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/libri/i-nostri-doni-crudeli-kathryn-foxfield/",
+    "trama": "Quanto saresti disposto a sacrificare per amore? E per proteggere la tua famiglia? Ma soprattutto: a cosa saresti disposto a rinunciare per il potere? I Winter possiedono tutto: soldi, bellezza e potere. Ma il loro impero ha origine da un patto siglato con il Diavolo.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/i-nostri-doni-crudeli-kathryn-foxfield/",
+      "trama": "https://www.lafeltrinelli.it/nostri-doni-crudeli-libro-kathryn-foxfield/e/9788804810025 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/nostri-doni-crudeli-libro-kathryn-foxfield/e/9788804810025",
+      "data": "https://www.lafeltrinelli.it/nostri-doni-crudeli-libro-kathryn-foxfield/e/9788804810025"
+    }
+  },
+  {
+    "titolo": "Una vita lontana",
+    "autore": "M.L. Stedman",
+    "editore": "Garzanti",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Maria Giulia Castagnone",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/libri/m-l-stedman-una-vita-lontana-9788811019404/",
+    "trama": "L'Australia Occidentale è una terra di estremi: polvere rossa contro il blu profondo del cielo. La famiglia di allevatori MacBride lo sa bene. Per loro la terra è insieme casa e condanna. Per generazioni hanno vissuto nella polvere, lottando contro i temporali improvvisi e la natura selvaggia che li minaccia.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/m-l-stedman-una-vita-lontana-9788811019404/",
+      "trama": "https://www.lafeltrinelli.it/vita-lontana-libro-ml-stedman/e/9788811019404 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/vita-lontana-libro-ml-stedman/e/9788811019404"
+    }
+  },
+  {
+    "titolo": "L'occupazione",
+    "autore": "Annie Ernaux",
+    "editore": "L'orma",
+    "mese": "2026-10",
+    "giorno": 13,
+    "traduttore": "Lorenzo Flabbi",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Ibrido",
+    "segnalazioni": [
+      "Possibile riedizione"
+    ],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Dopo aver posto fine a una relazione durata sei anni, Annie Ernaux apprende che l’uomo che ha lasciato andrà a vivere con un’altra. La notizia insedia al centro della sua esistenza una donna di cui ignora tutto e alla quale tutto riconduce.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/occupazione-libro-annie-ernaux/e/9791254761748 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/occupazione-libro-annie-ernaux/e/9791254761748"
     }
   },
   {
@@ -1172,9 +1572,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "A Oaxaca, in Messico, Tor Sima ha creato un museo dedicato al colore, in poco tempo diventato famoso in tutto il mondo. A Edimburgo, Vica Luft è una madre single che lavora come segretaria e vede con stupore la figlia affacciarsi sull’adolescenza.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "titolo_originale": "https://www.lafeltrinelli.it/wishbone-libro-laia-jufresa/e/9788869985058"
+      "titolo_originale": "https://www.lafeltrinelli.it/wishbone-libro-laia-jufresa/e/9788869985058",
+      "trama": "https://www.lafeltrinelli.it/wishbone-libro-laia-jufresa/e/9788869985058 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1189,11 +1591,13 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "trama": "Tokyo, 1979. Shindō Yoriko, una lavoratrice instancabile e con una vita vissuta ai margini, viene rapita e trascinata nella base della famiglia Naiki, una fazione della yakuza. Nel tentativo di fuggire si libera di un’intera banda di scagnozzi, e il clan capisce che è un talento da non lasciarsi scappare.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
       "scheda_libraio": "https://www.lafeltrinelli.it/brave-streghe-non-scappano-libro-otani-akira/e/9791257780326",
       "data": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
-      "titolo_originale": "ricerca web (11/10/2026): la trama italiana (Shindō guardia del corpo di Shōko, figlia del boss) coincide con The Night of Baba Yaga, Soho Press 2024; originale giapponese Babayaga no yoru (Wikipedia). Grafia giapponese non verificata"
+      "titolo_originale": "ricerca web (11/10/2026): la trama italiana (Shindō guardia del corpo di Shōko, figlia del boss) coincide con The Night of Baba Yaga, Soho Press 2024; originale giapponese Babayaga no yoru (Wikipedia). Grafia giapponese non verificata",
+      "trama": "https://www.lafeltrinelli.it/brave-streghe-non-scappano-libro-otani-akira/e/9791257780326 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1210,12 +1614,14 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Giorno dell'Armistizio, 1918. Due bambini nascono a poche ore di distanza, ma in mondi completamente opposti. Adam, umile figlio di un pastore, ed Eve, privilegiata figlia di un conte, crescono ai lati opposti di una rigida barriera sociale.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/adam-eve-libro-jeffrey-archer/e/9791259856227",
       "data": "laFeltrinelli: 14 ottobre; ilLibraio: 27 ottobre",
       "traduttore": "laFeltrinelli: Seba Pezzani; ilLibraio scrive Seba Pizzani",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/adam-eve-libro-jeffrey-archer/e/9791259856227 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1230,9 +1636,11 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/editori/mercurio-books",
+    "trama": "Nella Francia del 1348 la peste si abbatte come il più cupo dei castighi: malattia e violenza fanno a pezzi il mondo e la fede si spegne insieme alle vite. Dio sembra aver abbandonato gli uomini al loro destino. Thomas, un cavaliere caduto in disgrazia che ha smarrito ogni speranza di salvezza, vaga attraverso un Paese devastato, quando incontra sul suo cammino Delphine, una bambina misteriosa che sostiene di essere guidata dagli angeli.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books",
-      "traduttore": "https://www.lafeltrinelli.it/tra-due-fuochi-libro-christopher-buehlman/e/9791281656697"
+      "traduttore": "https://www.lafeltrinelli.it/tra-due-fuochi-libro-christopher-buehlman/e/9791281656697",
+      "trama": "https://www.lafeltrinelli.it/tra-due-fuochi-libro-christopher-buehlman/e/9791281656697 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1247,8 +1655,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
+    "trama": "A Liberty House, sontuosa dimora nel Sud della Francia sottratta al controllo della tecnologia, sotto la guida di Arcady – guru carismatico e pansessuale che predica l’antispecismo e l’amore libero – vive una singolare comunità di gente fuori dagli schemi: elettrosensibili, disadattati e fieri naturisti.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
+      "trama": "https://www.lafeltrinelli.it/arcadia-libro-emmanuelle-bayamack-tam/e/9788832975109 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1263,10 +1673,12 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
+    "trama": "Nell’autunno del 1863, in piena Guerra Civile americana, l’esercito dell’Unione controlla il fiume Mississippi. Gran parte della Louisiana è occupata. L’esercito confederato si ritira verso il Texas, sostituito dai Red Legs, irregolari guidati da una figura delirante, mentre uomini e donne schiavizzati iniziano a intravedere la libertà.",
     "fonti": {
       "scoperta": "https://libreriamo.it/libri/5-libri-narrativa-straniera-12-18/",
       "scheda_libraio": "https://www.lafeltrinelli.it/bandiere-sul-bayou-libro-james-lee-burke/e/9791282325127",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/bandiere-sul-bayou-libro-james-lee-burke/e/9791282325127 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1283,11 +1695,13 @@
       "Possibile riedizione"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Manhattan, oggi. Dopo un grave infortunio al ginocchio, Myron Bolitar ha chiuso con il basket. O almeno così credeva. Oggi è un agente sportivo, ma Clip Arnstein, proprietario dei New Jersey Dragons, riapre una porta che credeva chiusa per sempre, offrendogli un'ultima occasione per tornare sul campo da gioco.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/mossa-fatale-libro-harlan-coben/e/9788867028979",
       "riedizione": "terzo romanzo della serie Myron Bolitar (Fade Away, 1996); OPAC SBN, ricerca del 11/10/2026 trova solo l'edizione inglese, ma un'edizione italiana precedente con altro titolo non è esclusa",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/mossa-fatale-libro-harlan-coben/e/9788867028979 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1302,9 +1716,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Una scrittrice valenciana in crisi, nella vita e nel lavoro, scopre le 865 lettere che Albert Camus e l'attrice María Casarès si scrissero dal 1944, durante l'occupazione nazista di Parigi, e attraverso il loro amore rilegge il proprio.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -1322,10 +1738,12 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Londra, oggi: per le strade sempre più persone si raccolgono tra tende e bivacchi improvvisati denunciando al mondo che i fantasmi sono scomparsi. Intanto, a un anno dalla sparizione improvvisa della loro migliore amica Annie, Kieran e Harlow si ritrovano per una commemorazione in suo onore.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "traduttore": "https://www.lafeltrinelli.it/nessun-fantasma-libro-max-lury/e/9791256420353",
-      "data": "ilLibraio: 19 ottobre; laFeltrinelli: 21 ottobre"
+      "data": "ilLibraio: 19 ottobre; laFeltrinelli: 21 ottobre",
+      "trama": "https://www.lafeltrinelli.it/nessun-fantasma-libro-max-lury/e/9791256420353 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1334,16 +1752,20 @@
     "editore": "Fazi",
     "mese": "2026-10",
     "giorno": 20,
-    "traduttore": null,
-    "titolo_originale": null,
+    "traduttore": "Lorenza Gambini",
+    "titolo_originale": "In the Veins of the Drowning",
     "titolo_alternativo": null,
     "genere": "Fantasy",
     "segnalazioni": [
       "Esordio"
     ],
     "link": "https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+    "trama": "Imogen vive nell'ombra. Si nasconde in un regno crudele dove le sirene, creature alate figlie della dea marina Ligea, sono considerate mostri assetati di sangue. Fugge anche dalle proprie abilità, tenendosi sempre lontana dal mare per acquietare la fame e le ali nere celate sotto la pelle.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+      "trama": "https://www.lafeltrinelli.it/canto-degli-abissi-libro-kalie-cassidy/e/9791259679222 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/canto-degli-abissi-libro-kalie-cassidy/e/9791259679222",
+      "titolo_originale": "https://www.lafeltrinelli.it/canto-degli-abissi-libro-kalie-cassidy/e/9791259679222"
     }
   },
   {
@@ -1358,8 +1780,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/libri/juan-tallon-mille-cose-9788823536999/",
+    "trama": "Il termometro della sua vecchia automobile segna trentasei gradi alle dieci di sera. Fa un caldo infernale. Domani sarà l'ultimo giorno di lavoro prima delle agognate ferie, ma adesso Travis deve assolutamente trovare una farmacia aperta, perché a Iván servono i pannolini e né lui né Anne si erano accorti di averli finiti.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/juan-tallon-mille-cose-9788823536999/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/juan-tallon-mille-cose-9788823536999/",
+      "trama": "https://www.lafeltrinelli.it/mille-cose-libro-juan-tallon/e/9788823536999 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1374,8 +1798,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "1997, Jay ha sedici anni e vive a Kuala Lumpur con il padre, la madre e due sorelle. Il paese sta vivendo un momento non facile, tra crisi economica e una lenta modernizzazione che sta cambiando la società. Per le vacanze scolastiche la famiglia di Jay si reca al Sud.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/sud-libro-tash-aw/e/9788834624852 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1390,10 +1816,12 @@
     "genere": "Young adult",
     "segnalazioni": [],
     "link": "https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
+    "trama": "Tre giorni. Tre casinò. Tre corpi. È questa preoccupante sequenza di omicidi che porta Cassie Hobbes e i Naturals – giovani dal talento investigativo eccezionale, ingaggiati dall'FBI per risolvere casi impossibili – fino a Las Vegas.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://libreriamo.it/libri/10-libri-in-uscita-ottobre-2026/",
       "titolo": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 e https://libreriamo.it/?p=372707",
-      "titolo_alternativo": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 e https://libreriamo.it/?p=372707"
+      "titolo_alternativo": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 e https://libreriamo.it/?p=372707",
+      "trama": "https://www.lafeltrinelli.it/all-in-menti-pericolose-libro-jennifer-lynn-barnes/e/9788842937647 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1408,10 +1836,12 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "È la Vigilia di Natale del 1932, ti trovi a Londra e sei il famoso dottor Kim Tenor, medico legale che lavora sulle più complesse scene del crimine di Scotland Yard. I giornali ti celebrano, ma i tuoi colleghi della polizia, costretti a chiamarti quando brancolano nel buio, mal sopportano il tuo talento.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/enigma-di-hurley-court-libro-gareth-rubin/e/9788830465077",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/enigma-di-hurley-court-libro-gareth-rubin/e/9788830465077 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1426,11 +1856,13 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
+    "trama": "Una città. Due famiglie. Un segreto destinato a cambiare tutto. A Bonhomie, Ohio, nell’euforia luminosa che segue la fine della Seconda guerra mondiale un fugace momento di passione lega per sempre Cal Jenkins e Margaret Salt, entrambi sposati.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/vite-nascoste-libro-patrick-ryan/e/9788854534674",
       "data": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-ottobre-2026/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/vite-nascoste-libro-patrick-ryan/e/9788854534674 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1447,11 +1879,13 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Arrivata a Parigi per scrivere un saggio su Gertrude Stein, una scrittrice si immerge nel flusso incessante della città, dove incontra Eva, artista intrappolata in un matrimonio a distanza, e Fanny, donna della finanza dalla vita sessuale avventurosa; insieme cucinano, camminano, leggono e discutono fino a notte fonda.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/mio-anno-a-parigi-con-libro-deborah-levy/e/9791255751502",
       "data": "ilLibraio: 20 ottobre; laFeltrinelli: 23 ottobre",
-      "titolo_originale": "recensione NPR del 03/06/2026 (Farrar, Straus and Giroux); trama coincidente"
+      "titolo_originale": "recensione NPR del 03/06/2026 (Farrar, Straus and Giroux); trama coincidente",
+      "trama": "https://www.lafeltrinelli.it/mio-anno-a-parigi-con-libro-deborah-levy/e/9791255751502 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -1466,11 +1900,91 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+    "trama": "Nel 1960, in una località isolata nella campagna svedese, due ragazzini stringono un macabro patto di fratellanza, un patto che avrà ripercussioni inquietanti anche nel futuro. Sessantacinque anni dopo, in una casa di riposo sull'isola di Gotland, l'ex commissario Asunander si trova solo, con molto tempo per pensare ai vecchi casi.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/rete-a-maglie-strette-libro-hakan-nesser/e/9788823536494",
       "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessun risultato",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/rete-a-maglie-strette-libro-hakan-nesser/e/9788823536494 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Bonds of Hercules",
+    "autore": "Jasmine Mas",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Veronica Battistoni",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/oscar/in-arrivo/",
+    "trama": "Ogni eroe ha i suoi mostri. E Alexis è fatalmente legata ai suoi, tramite un eterno vincolo di matrimonio che ha scosso le fondamenta stesse dell'Olimpo, e tutto ciò in cui Alexis ha sempre creduto. Ma ora è arrivato il momento di reagire.",
+    "fonti": {
+      "scoperta": "https://www.mondadori.it/oscar/in-arrivo/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/bonds-of-hercules-ediz-italiana-libro-jasmine-mas/e/9788804801436",
+      "trama": "https://www.lafeltrinelli.it/bonds-of-hercules-ediz-italiana-libro-jasmine-mas/e/9788804801436 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Bruciammo di luce fortissima",
+    "autore": "TJ Klune",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Benedetta Gallo",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantascienza",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/oscar/in-arrivo/",
+    "trama": "Don e Rodney hanno avuto una vita felice: hanno sperimentato le grandi gioie dell'amore e della famiglia, ma anche sofferenze così profonde da sembrare la fine del mondo. Ora, però, il mondo sta per finire davvero. Un buco nero errante si sta dirigendo verso la Terra e, tra un mese, tutto e tutti quelli che conoscono scompariranno.",
+    "fonti": {
+      "scoperta": "https://www.mondadori.it/oscar/in-arrivo/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/bruciammo-di-luce-fortissima-libro-tj-klune/e/9788804817727",
+      "trama": "https://www.lafeltrinelli.it/bruciammo-di-luce-fortissima-libro-tj-klune/e/9788804817727 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Il caso ombra",
+    "autore": "Thomas Pynchon",
+    "editore": "Einaudi",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Gianni Pannofino",
+    "titolo_originale": "Shadow Ticket",
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Milwaukee, 1932. Mentre infuria la Grande Depressione e Al Capone marcisce in una cella, Hicks McTaggart si trova per le mani un caso di cui non ha voglia di occuparsi: riportare a casa una giovane ereditiera scomparsa nel nulla.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/caso-ombra-libro-thomas-pynchon/e/9788806270988 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/caso-ombra-libro-thomas-pynchon/e/9788806270988"
+    }
+  },
+  {
+    "titolo": "Le forze",
+    "autore": "Laura Vazquez",
+    "editore": "Crocetti",
+    "mese": "2026-10",
+    "giorno": 20,
+    "traduttore": "Paolo Bellomo, Luca Bondioli",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Questa è la storia di una giovane donna che rifiuta l'ordine sociale. Perché l'unico scopo della vita dovrebbe essere vivere nel mondo come lo conosciamo? C'è una via d'uscita? Imbarcandosi in un viaggio iniziatico dal sapore dantesco, attraverso quattro luoghi e tre tappe – un bar per sole donne, la casa dei morti, un palazzo in cui convivono varie sette, una montagna –, la narratrice arriverà a scoprire, accettare e agire la propria vocazione.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/forze-libro-laura-vazquez/e/9788883065392 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/forze-libro-laura-vazquez/e/9788883065392"
     }
   },
   {
@@ -1485,10 +1999,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Lo stavano cercando da anni, e infine l'hanno trovato. Sono figli del popolo, curiosi, tenaci, benintenzionati e fastidiosi; e lui, lo zio Józsi, è solo un ometto solitario che tutti chiamano per dileggio Signor Arzillo, un vecchio che vive di poco, il suo fornellino, le sue patate.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "data": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595",
-      "traduttore": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595 (ilLibraio scriveva Dora Várna)"
+      "traduttore": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595 (ilLibraio scriveva Dora Várna)",
+      "trama": "https://www.lafeltrinelli.it/pagnotta-non-c-piu-libro-laszlo-krasznahorkai/e/9788830152595 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1503,10 +2019,12 @@
     "genere": "Memoir",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Pieno di rabbia e di poesia, Il viaggio inutile è il racconto di una vita, di una famiglia e dell’incontro con la letteratura. In queste pagine Camila Sosa Villada ripercorre le proprie origini, l’infanzia dolorosa – un corpo femminile clandestino flagellato dalla furia alcolica del padre –, l’esperienza di donna trans che conosce la prostituzione e insieme il successo in teatro.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/viaggio-inutile-corpo-scrittura-libro-camila-sosa-villada/e/9788869985041",
-      "titolo_originale": "laFeltrinelli"
+      "titolo_originale": "laFeltrinelli",
+      "trama": "https://www.lafeltrinelli.it/viaggio-inutile-corpo-scrittura-libro-camila-sosa-villada/e/9788869985041 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1523,11 +2041,13 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Wera, parrucchiera dalla lingua tagliente, deve organizzare il funerale del marito, un ex fantino. Ma al morto mancano le scarpe: per trovare i soldi Wera va a bussare alla porta di vecchie clienti ed ex amanti. Con questo romanzo Rudzka ha vinto il premio Nike in Polonia.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/ride-bene-chi-ha-denti-libro-zyta-rudzka/e/9788892942615",
       "data": "ilLibraio: 21 ottobre; laFeltrinelli: 28 ottobre",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -1542,11 +2062,13 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Una bambina perde la madre a causa di un blocco di ghiaccio caduto dal cielo. Una donna vince il jackpot della lotteria due volte. Un uomo viene colpito da un fulmine per quattro volte. Eventi improbabili, quasi impossibili, eppure reali.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/cose-che-cadono-dal-cielo-libro-selja-ahava/e/9788898462742",
       "riedizione": "OPAC SBN, ricerca del 11/10/2026: di Ahava solo un altro titolo (Elliot, 2022)",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/cose-che-cadono-dal-cielo-libro-selja-ahava/e/9788898462742 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1561,10 +2083,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "In un futuro vicino, il Portogallo è collassato. Lo Stato non esiste più, l’acqua è diventata una risorsa contesa e l’Europa del Nord ha chiuso le frontiere, abbandonando i paesi meridionali a guerre, siccità e pandemie.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/quaderni-dell-acqua-libro-joao-reis/e/9788898462704",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/quaderni-dell-acqua-libro-joao-reis/e/9788898462704 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1579,27 +2103,30 @@
     "genere": "Romanzo storico",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/agrippa-robert-harris/",
+    "trama": "Pochi giorni dopo l'assassinio di Giulio Cesare in Senato, alle idi di marzo, lontano da Roma due giovani apprendono la notizia che cambierà la loro vita per sempre. Uno è il pronipote di Cesare, Ottavio: ha solo diciotto anni ma, nello stupore generale, il condottiero lo ha nominato suo erede.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/agrippa-robert-harris/",
-      "traduttore": "https://www.lafeltrinelli.it/agrippa-libro-robert-harris/e/9788804811190"
+      "traduttore": "https://www.lafeltrinelli.it/agrippa-libro-robert-harris/e/9788804811190",
+      "trama": "https://www.lafeltrinelli.it/agrippa-libro-robert-harris/e/9788804811190 (testo dell'editore, accorciato)"
     }
   },
   {
-    "titolo": "A Court of Thorns and Roses, vol. 6",
+    "titolo": "Una corte di armonia infranta",
     "autore": "Sarah J. Maas",
     "editore": "Mondadori",
     "mese": "2026-10",
     "giorno": 27,
     "traduttore": "Alessandra Roccato",
     "titolo_originale": null,
-    "titolo_alternativo": null,
+    "titolo_alternativo": "A Court of Thorns and Roses, vol. 6",
     "genere": "Fantasy",
-    "segnalazioni": [
-      "Titolo italiano da confermare"
-    ],
+    "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Ciò che è stato spezzato verrà ricreato. Nel cuore profondo del continente, Koschei il Senzamorte sta per risvegliarsi, dopo essere rimasto imprigionato in un lago per millenni. La minaccia insidiosa del suo ritorno si propaga rapidamente nei territori dei Fae, attirando alleati potenti, determinati a reclamare a ogni costo ciò che un tempo era loro: le terre degli umani.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "titolo": "https://www.mondadori.it/libri-prossime-uscite/ e https://www.lafeltrinelli.it/corte-di-armonia-infranta-ciclo-libro-sarah-j-maas/e/9788804819967",
+      "trama": "https://www.lafeltrinelli.it/corte-di-armonia-infranta-ciclo-libro-sarah-j-maas/e/9788804819967 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1616,10 +2143,12 @@
       "Esordio"
     ],
     "link": "https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
+    "trama": "Un passo sulle scale. Un attimo per reagire. La prossima mossa sarà decisiva. È notte, e una donna è sola in casa con i suoi due bambini mentre fuori c’è una bufera. Vivono in una grande casa isolata al limitare del bosco.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://rumors.it/2026/09/20/lautunno-secondo-fazi-sei-libri-da-leggere-a-ottobre/",
       "traduttore": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962",
-      "titolo_originale": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962"
+      "titolo_originale": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962",
+      "trama": "https://www.lafeltrinelli.it/nell-ombra-libro-tracy-sierra/e/9791259676962 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1628,14 +2157,17 @@
     "editore": "Mercurio Books",
     "mese": "2026-10",
     "giorno": 27,
-    "traduttore": null,
+    "traduttore": "Marta Olivi",
     "titolo_originale": null,
     "titolo_alternativo": null,
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.ibs.it/libri/editori/mercurio-books",
+    "trama": "Una fortezza sospesa nel cielo e popolata da gnomi guerrieri; un bastione di sabbia che cela insidie mortali; un sottomarino alla deriva, pattugliato da macchine fuori controllo; una cripta infestata, protetta da trappole letali.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/editori/mercurio-books"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.ibs.it/libri/editori/mercurio-books",
+      "trama": "https://www.lafeltrinelli.it/varco-degli-dei-selvaggi-dungeon-libro-matt-dinniman/e/9791281656703 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/varco-degli-dei-selvaggi-dungeon-libro-matt-dinniman/e/9791281656703"
     }
   },
   {
@@ -1650,8 +2182,10 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Il finale inatteso di “La donna che fugge” aveva lasciato tutti senza fiato, e specialmente Petra. L’ispettrice della Policía Nacional di Barcellona è ora costretta a fare i conti con un dolore inimmaginabile, un lutto che ha lasciato un vuoto enorme nella sua vita.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/sotto-cielo-infernale-libro-alicia-gimenez-bartlett/e/9788838950322 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1669,9 +2203,11 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Austin, Texas. Nell'estate 1998, il giovane Nathaniel compare per la prima volta nella palestra di Terry Tucker. È il nipote di Bob, un frequentatore abituale, ha sedici anni e non si è mai sentito a suo agio nel mondo. Sotto la guida del carismatico David Dalice, ex pugile haitiano e infermiere in una RSA per anziani, il ragazzo diventa più sicuro di sé.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "ilLibraio: 27 ottobre; laFeltrinelli: 30 ottobre"
+      "data": "ilLibraio: 27 ottobre; laFeltrinelli: 30 ottobre",
+      "trama": "https://www.lafeltrinelli.it/passo-falso-libro-lucas-schaefer/e/9791255751496 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1686,8 +2222,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Osaka. Azami Oketani ha diciassette anni e la sua band si è appena sciolta. Tra amicizie instabili e delusioni d'amore, cresce al ritmo di una playlist indie rock in un romanzo di formazione della vincitrice dei premi Akutagawa e Noma.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -1702,9 +2240,11 @@
     "genere": "Racconti",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Racconti usciti su varie riviste tra il 1956 e il 1958, in cui Matsumoto Seichō, il \"Simenon giapponese\", usa gli strumenti del noir per scavare nell'animo dei suoi personaggi.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -1719,10 +2259,53 @@
     "genere": "Horror",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Atlanta. Quando sul terreno accanto alla loro casa sorge una villa moderna, i coniugi Kennedy temono di perdere la privacy. Ma chi ci va ad abitare comincia a cambiare, e non in meglio. Il solo romanzo horror di Anne Rivers Siddons, che Stephen King paragonò a L'incubo di Hill House.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "titolo_originale": "trama di ilLibraio (i Kennedy, Atlanta, il terreno accanto) coincide con The House Next Door (1978); ricerca web del 11/10/2026",
-      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana di The House Next Door trovata"
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana di The House Next Door trovata",
+      "trama": "ilLibraio e ricerca web, rielaborato"
+    }
+  },
+  {
+    "titolo": "Brigands & Breadknives",
+    "autore": "Travis Baldree",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 27,
+    "traduttore": "Elena M. Battista",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/oscar/in-arrivo/",
+    "trama": "Felicetta ha dedicato venticinque anni della sua vita alla piccola, malandata libreria Il Cardoriccio, nella sonnolenta località costiera di Murk, ma ora ha bisogno di cambiare. Non sa più cosa vuole, non sa chi è; per superare il momento di crisi decide di trasferirsi nella città di Thune e aprire una nuova attività accanto al caffè di una vecchia amica, l'orchessa Viv, che non vede da tempo.",
+    "fonti": {
+      "scoperta": "https://www.mondadori.it/oscar/in-arrivo/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/brigands-breadknives-ediz-italiana-libro-travis-baldree/e/9788804810537",
+      "trama": "https://www.lafeltrinelli.it/brigands-breadknives-ediz-italiana-libro-travis-baldree/e/9788804810537 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)"
+    }
+  },
+  {
+    "titolo": "Il libro delle foglie cadute",
+    "autore": "A.S. Tamaki",
+    "editore": "Mondadori",
+    "mese": "2026-10",
+    "giorno": 27,
+    "traduttore": "Stefano Giorgianni",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Fantasy",
+    "segnalazioni": [],
+    "link": "https://www.mondadori.it/oscar/in-arrivo/",
+    "trama": "Sen Hoshiakari ha perso tutto. Figlio di un principe ribelle, ha assistito impotente allo sterminio della propria famiglia. E sarebbe morto anche lui, se non fosse stato per il poeta Yora, che ha tratto in salvo lui e Rui, una piccola popolana.",
+    "fonti": {
+      "scoperta": "https://www.mondadori.it/oscar/in-arrivo/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/libro-delle-foglie-cadute-libro-as-tamaki/e/9788804801139",
+      "trama": "https://www.lafeltrinelli.it/libro-delle-foglie-cadute-libro-as-tamaki/e/9788804801139 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessun risultato"
     }
   },
   {
@@ -1740,9 +2323,11 @@
       "Data da confermare"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Giverny, inizio Novecento, una radiosa mattina d’estate. Mentre il sole sorge sulla campagna francese, il pittore Claude Monet insegue la sua eterna ossessione: fissare su tela l’effimera meraviglia della luce.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "ilLibraio: 28 ottobre; laFeltrinelli: 14 ottobre"
+      "data": "ilLibraio: 28 ottobre; laFeltrinelli: 14 ottobre",
+      "trama": "https://www.lafeltrinelli.it/luce-libro-eva-figes/e/9791256420360 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1759,9 +2344,11 @@
       "Possibile riedizione"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Il 27 gennaio 1981, Jeroen Brouwers è avvisato della morte della madre. Non le vuole bene, non parla con lei da anni e non andrà al funerale, ma la notizia gli impone di consegnare alla scrittura la dolorosa rievocazione dei tempi in cui la conobbe davvero, quelli della Guerra del Pacifico, quando da bambino fu internato con lei, la nonna e la sorella in un campo di prigionia giapponese nelle Indie orientali olandesi.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "titolo_originale": "https://www.lafeltrinelli.it/rosso-decantato-libro-jeroen-brouwers/e/9791257800284"
+      "titolo_originale": "https://www.lafeltrinelli.it/rosso-decantato-libro-jeroen-brouwers/e/9791257800284",
+      "trama": "https://www.lafeltrinelli.it/rosso-decantato-libro-jeroen-brouwers/e/9791257800284 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1776,8 +2363,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "trama": "Quando torna nella cittadina ceca in cui è cresciuta per salutare per l’ultima volta Roman, l’amico di sempre, la protagonista ripercorre il legame che ha segnato tutta la sua vita. Fin dalla nascita, la sua vita e quella di Roman sono state indissolubilmente intrecciate: lei luminosa, impulsiva e desiderosa di fuggire; lui schivo, fragile e incapace di sottrarsi all’ombra che grava sulla sua esistenza.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+      "trama": "https://www.lafeltrinelli.it/ragazzo-con-testa-di-pesce-libro-eliska-beranova/e/9791257780425 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1792,8 +2381,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Del momento in cui la sorellina Julieta è sparita nel mare di Formentera, Greta conserva solo un vago ricordo, che tuttavia pianta gli artigli così a fondo nella sua anima da impedirle di tornare sull'isola, anche se ormai sono passati vent'anni dalla tragedia.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/tutti-nostri-mari-libro-laia-aguilar/e/9788833212906 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1810,8 +2401,10 @@
       "Prima edizione italiana"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Odiato, criticato da maestri come Juan Rulfo, che attaccò il libro senza averlo letto e raccomandò di venderlo in sacchetti di plastica per la sua natura “pornografica”, causa di scandalo e perfino di censura al momento della sua pubblicazione nel 1979, Il vampiro della colonia Roma è oggi un romanzo di culto.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/vampiro-della-colonia-roma-libro-luis-zapata/e/9791256362158 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1826,11 +2419,13 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Un uomo subisce un interrogatorio. Ha ucciso. Deve spiegare il perché. Tra le mura della prigione si racconta ai suoi interlocutori, passando dall’avvocato al giudice, dallo psichiatra all’infermiere. Alle loro domande, però, finisce per rispondere con altri interrogativi.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/potenza-delle-mosche-libro-lydie-salvayre/e/9788831234498",
       "titolo_originale": "OPAC SBN, ricerca del 11/10/2026: La puissance des mouches, Seuil 1995",
-      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata"
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessuna edizione italiana trovata",
+      "trama": "https://www.lafeltrinelli.it/potenza-delle-mosche-libro-lydie-salvayre/e/9788831234498 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1839,14 +2434,17 @@
     "editore": "Mondadori",
     "mese": "2026-10",
     "giorno": null,
-    "traduttore": null,
+    "traduttore": "Silvia Pareschi",
     "titolo_originale": "Cool Machine",
     "titolo_alternativo": null,
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "1981. New York sta lentamente riemergendo dalla rovina finanziaria e dal declino grazie a uno sviluppo immobiliare sfrenato e al capitalismo predatorio dell'era Reagan, che domina Wall Street. A Harlem, Ray Carney - stimato negoziante nonché abile ricettatore - è appena stato nominato Rivenditore del Mese della Sterling Furniture Co.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/freddo-come-macchina-libro-colson-whitehead/e/9788804816546 (testo dell'editore, accorciato)",
+      "traduttore": "https://www.lafeltrinelli.it/freddo-come-macchina-libro-colson-whitehead/e/9788804816546"
     }
   },
   {
@@ -1863,8 +2461,10 @@
       "Titolo italiano da confermare"
     ],
     "link": "https://iperborea.com/titoli/",
+    "trama": "Un cucciolo si perde nel bosco durante una nevicata e deve imparare da solo a sopravvivere al freddo e ai pericoli, mentre il ricordo della madre e del padrone sbiadisce. Ormai adulto, incontra un cacciatore che risveglia in lui sensazioni dimenticate: una storia di fiducia e amicizia nelle terre del Nord.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://iperborea.com/titoli/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://iperborea.com/titoli/",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -1881,8 +2481,10 @@
       "Possibile riedizione"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Highlands scozzesi, 1779. Costretto a lasciare la sua terra, Calum MacDonald salpa con la numerosa famiglia verso il Nuovo Mondo. Dopo un lungo viaggio, approdano in quella che chiamano “la terra degli alberi”: la Nova Scotia.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/terra-degli-alberi-libro-alistair-macleod/e/9788883735240 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1899,8 +2501,10 @@
       "Prima edizione italiana"
     ],
     "link": "https://www.pennadicorvo.it/add-editore-le-novita-editoriali-di-settembre-e-ottobre-2026/",
+    "trama": "Dopo un devastante incendio che le porta via la figlia, una madre si aggrappa disperatamente alla speranza di ritrovarla. Ma mentre la sua ossessione cresce, si rende conto di non ricordare niente di lei: il suo volto si fa sempre più indistinto, irriconoscibile persino nelle fotografie.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.pennadicorvo.it/add-editore-le-novita-editoriali-di-settembre-e-ottobre-2026/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.pennadicorvo.it/add-editore-le-novita-editoriali-di-settembre-e-ottobre-2026/",
+      "trama": "https://www.lafeltrinelli.it/prima-moglie-di-barbablu-libro-seong-nan-ha/e/9788867835928 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1915,12 +2519,14 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/dead-beat-leigh-bardugo/",
+    "trama": "Alex Stern è andata e tornata dall'inferno più volte, ma dopo l'ultimo viaggio il portale è rimasto aperto e ora i demoni infestano le strade di New Haven e il campus di Yale, nutrendosi delle anime dei vivi e terrorizzando i morti.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/dead-beat-leigh-bardugo/",
       "data": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
       "traduttore": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
       "titolo_originale": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
-      "titolo_alternativo": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413"
+      "titolo_alternativo": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413",
+      "trama": "https://www.lafeltrinelli.it/dead-beat-ultimo-rintocco-libro-leigh-bardugo/e/9788804820413 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1935,11 +2541,13 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
+    "trama": "Inverno 1899. Una coppia di novelli sposi decide di trascorrere in Italia il viaggio di nozze a lungo rimandato. La meta prescelta è Venezia, dove Evelyn Dolman, scrittore inglese mediocre ma ambizioso, e Laura Rensselaer, ricca ereditiera americana, si stabiliscono a Palazzo Dioscuri.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/vespri-veneziani-libro-john-banville/e/9788823535732",
       "data": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/",
-      "titolo_originale": "ricerca web (11/10/2026): Venetian Vespers (Faber/Knopf 2025), Venezia 1899, Dolman e Laura Rensselaer; trama coincidente"
+      "titolo_originale": "ricerca web (11/10/2026): Venetian Vespers (Faber/Knopf 2025), Venezia 1899, Dolman e Laura Rensselaer; trama coincidente",
+      "trama": "https://www.lafeltrinelli.it/vespri-veneziani-libro-john-banville/e/9788823535732 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1956,11 +2564,32 @@
       "Prima edizione italiana"
     ],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Quando i suoi genitori si separano, Daley Amory, undici anni, si ritrova catapultata in un mondo fatto di rivalità, eccessi e manipolazioni. Incapace di scegliere da che parte stare, si muove con cautela lungo la linea che separa due stili di vita ormai incompatibili: tanto la madre è generosa, liberale e socialmente impegnata, quanto il padre è irascibile, conservatore e attratto dall'alcol.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/padre-della-pioggia-libro-lily-king/e/9791259679321",
       "titolo_originale": "laFeltrinelli",
-      "prima_edizione": "scheda: 'terzo romanzo di Lily King finora inedito in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato"
+      "prima_edizione": "scheda: 'terzo romanzo di Lily King finora inedito in Italia'; OPAC SBN, ricerca del 11/10/2026: nessun risultato",
+      "trama": "https://www.lafeltrinelli.it/padre-della-pioggia-libro-lily-king/e/9791259679321 (testo dell'editore, accorciato)"
+    }
+  },
+  {
+    "titolo": "Le fredde notti dell'infanzia",
+    "autore": "Tezer Özlü",
+    "editore": "Crocetti",
+    "mese": "2026-11",
+    "giorno": 3,
+    "traduttore": "Massimiliano Calvia",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Romanzo",
+    "segnalazioni": [],
+    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "La voce narrante del romanzo di Tezer Özlü si trova in una fase di transizione tra una relazione amorosa e l'altra. Entra ed esce da reparti psichiatrici dove è costretta a subire l'elettroshock. Oscilla tra Berlino e Parigi.",
+    "fonti": {
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/fredde-notti-dell-infanzia-libro-tezer-ozlu/e/9788883064739 (testo dell'editore, accorciato)",
+      "data": "https://www.lafeltrinelli.it/fredde-notti-dell-infanzia-libro-tezer-ozlu/e/9788883064739"
     }
   },
   {
@@ -1975,10 +2604,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "trama": "Svizzera, anni ‘50: una serie di morti inspiegabili, statue di divinità greche che di notte prendono vita e un ritratto che sembra invecchiare al posto del suo modello. In uno scenario idilliaco, tra le sponde del lago Lemano e le vette alpine il passato può ancora uccidere?",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/che-morte-ci-sfiori-libro-michel-bussi/e/9791257780357",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/che-morte-ci-sfiori-libro-michel-bussi/e/9791257780357 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -1993,10 +2624,12 @@
     "genere": "Fantasy",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
+    "trama": "L’irriverente Lady Jing è pronta a lasciare l’Inferno per una tranquilla missione a Parigi. Ma quando l’Immortal Express viene dirottato dai vampiri, il viaggio si trasforma in una corsa contro il tempo. Per salvare chi ama, Jing dovrà affrontare il segreto più pericoloso di tutti: il proprio.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/edizioni-eo-libri-uscita-ottobre-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/paris-celestial-libro-ay-chao/e/9791257780371",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/paris-celestial-libro-ay-chao/e/9791257780371 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -2013,11 +2646,13 @@
       "Data da confermare"
     ],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "trama": "Norvegia, 1793. Due sorelle lasciano la casa paterna per Christiania, dove sposeranno due fratelli: la loro dote salverà una tenuta nobiliare, in cambio di un titolo per una famiglia arricchita da poco. La maggiore accetta il destino con rassegnazione, la minore no.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/nozze-norvegesi-libro-karen-forberg/e/9788854534421",
       "data": "Nerdgames: 6 novembre; laFeltrinelli: 27 ottobre",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/, rielaborato"
     }
   },
   {
@@ -2034,8 +2669,10 @@
       "Esordio"
     ],
     "link": "https://www.lafeltrinelli.it/libri/in-prenotazione",
+    "trama": "Natalie Mills è una tradwife da milioni di follower: un marito cowboy, un ranch disordinato ad arte, pagnotte di pasta madre fatte in casa. Dietro le quinte ci sono tate, produttori e forni professionali. Una mattina si sveglia in una versione strana della sua vita, senza elettricità e con una famiglia familiare ma diversa, e deve capire se è uno scherzo o una prova.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/in-prenotazione",
+      "trama": "https://www.lafeltrinelli.it/yesteryear-libro-inglese-caro-claire-burke/e/9780008742768 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -2050,9 +2687,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "San Sebastián, luglio del 1997. Maite è felice di rivedere dopo tanti anni la sorella maggiore, Elene, che ormai ha una sua famiglia negli Stati Uniti ed è tornata in città per stare al fianco della madre, che si sta riprendendo da un ictus.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "traduttore": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/ e https://www.lafeltrinelli.it/maite-libro-fernando-aramburu/e/9788823537286"
+      "traduttore": "https://www.nerdgames.it/fumetti-libri/guanda-novita-ottobre-novembre-2026/ e https://www.lafeltrinelli.it/maite-libro-fernando-aramburu/e/9788823537286",
+      "trama": "https://www.lafeltrinelli.it/maite-libro-fernando-aramburu/e/9788823537286 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -2067,9 +2706,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "trama": "New York, alba del Novecento. Isabelle Bishop, vedova e impoverita, ha perso quasi tutta la famiglia nel naufragio del Morrigan e cerca un modo per mantenere la madre e la figlia Mariah, mentre la città si lascia travolgere dalle meraviglie del nuovo secolo.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/, rielaborato"
     }
   },
   {
@@ -2084,9 +2725,32 @@
     "genere": "Giallo",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "trama": "Colette Gaspard, icona del cinema e della musica, è perseguitata da uno stalker. A proteggerla viene chiamata Isabelle Bonnet, Madame le commissaire, che lascia la quiete della Provenza per i boulevard di Parigi.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/, rielaborato"
+    }
+  },
+  {
+    "titolo": "Il pacco",
+    "autore": "Sebastian Fitzek",
+    "editore": "Fazi",
+    "mese": "2026-11",
+    "giorno": 10,
+    "traduttore": "Sveva Lizza",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Thriller",
+    "segnalazioni": [],
+    "link": "https://fazieditore.it/catalogo/anteprime",
+    "trama": "Da quando la giovane psichiatra Emma Stein è stata violentata nella stanza di un hotel di lusso, la sua vita si è trasformata in un incubo. Ora passa lunghe giornate in compagnia del suo husky ad aspettare che il marito, Philipp, torni dal lavoro e a rimuginare sull'episodio che le ha stravolto l'esistenza.",
+    "fonti": {
+      "scoperta": "https://fazieditore.it/catalogo/anteprime",
+      "scheda_libraio": "https://www.lafeltrinelli.it/pacco-libro-sebastian-fitzek/e/9791259678874",
+      "trama": "https://www.lafeltrinelli.it/pacco-libro-sebastian-fitzek/e/9791259678874 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)",
+      "riedizione": "OPAC SBN, ricerca del 11/10/2026: nessun risultato"
     }
   },
   {
@@ -2101,8 +2765,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Hugo, quattordici anni, muore dopo mesi di bullismo nell'indifferenza della scuola. Il padre Vincent ripercorre i ricordi del figlio, dai più felici ai più strazianti, mentre il corteo in lutto attraversa le strade di Saint-Nazaire.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "https://www.lafeltrinelli.it/vi-parlo-di-mio-figlio-libro-philippe-besson/e/9788823536166 (testo dell'editore, corretto a mano)"
     }
   },
   {
@@ -2117,10 +2783,12 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Dopo un'infestazione di cimici nella sua casa di Zagabria, Gorana, architetta affermata, ha un crollo e torna nella città natale. La famiglia la accoglie con sospetto: tutti sanno dell'incidente misterioso con il marito e della sua sparizione. Premio dell'Unione Europea per la Letteratura 2023.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "scheda_libraio": "https://www.lafeltrinelli.it/cimici-libro-martina-vidaic/e/9788862436427",
-      "titolo_originale": "EU Prize for Literature, pagina dell'autrice: romanzo Stjenice (2021), premio 2023, trama coincidente"
+      "titolo_originale": "EU Prize for Literature, pagina dell'autrice: romanzo Stjenice (2021), premio 2023, trama coincidente",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -2135,10 +2803,12 @@
     "genere": "Memoir",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "trama": "A nove anni Stefan Merrill Block viene ritirato da scuola dalla madre, che a Plano, in Texas, costruisce intorno a lui un mondo chiuso di regole ed esperimenti educativi per impedirgli di crescere. Cinque anni dopo, il ritorno tra i coetanei diventa una vera odissea.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/scuola-di-mia-madre-libro-stefan-merrill-block/e/9788854534223",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/, rielaborato"
     }
   },
   {
@@ -2153,10 +2823,32 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "Un medico viene trovato carbonizzato nell'ospedale psichiatrico giudiziario in cui lavora. Tra segreto professionale e pazienti inaffidabili, dopo un secondo omicidio Saga Bauer si infiltra sotto copertura nel reparto, con Joona Linna come unico contatto con l'esterno.",
     "fonti": {
       "scoperta": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
       "data": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
-      "titolo_originale": "Albert Bonniers Förlag: Medusa, uscita svedese 21/09/2026, undicesimo Joona Linna (ricerca web del 11/10/2026)"
+      "titolo_originale": "Albert Bonniers Förlag: Medusa, uscita svedese 21/09/2026, undicesimo Joona Linna (ricerca web del 11/10/2026)",
+      "trama": "ilLibraio, rielaborato"
+    }
+  },
+  {
+    "titolo": "Mallet o il romanzo degli sguardi",
+    "autore": "Daniel Pennac",
+    "editore": "Feltrinelli",
+    "mese": "2026-11",
+    "giorno": 17,
+    "traduttore": "Yasmina Mélaouah",
+    "titolo_originale": null,
+    "titolo_alternativo": null,
+    "genere": "Ibrido",
+    "segnalazioni": [],
+    "link": "https://www.feltrinellieditore.it/libri/prossimeuscite/",
+    "trama": "Un giorno, incuriosito da un enigmatico personaggio che fotografa i visitatori dei musei davanti alle opere esposte, Daniel Pennac decide di seguirlo per capire il perché di quegli scatti. È così che nasce questo romanzo, come lo chiama lui, anche se romanzo non è, ma un percorso singolare e affascinante tra il presente e il passato, tra un'opera d'arte e l'altra, e gli occhi che le guardano.",
+    "fonti": {
+      "scoperta": "https://www.feltrinellieditore.it/libri/prossimeuscite/",
+      "scheda_libraio": "https://www.lafeltrinelli.it/mallet-o-romanzo-degli-sguardi-libro-daniel-pennac/e/9788807037573",
+      "trama": "https://www.lafeltrinelli.it/mallet-o-romanzo-degli-sguardi-libro-daniel-pennac/e/9788807037573 (testo dell'editore, accorciato)",
+      "titolo_originale": "non trovato su laFeltrinelli (11/10/2026)"
     }
   },
   {
@@ -2173,10 +2865,12 @@
       "Data da confermare"
     ],
     "link": "https://www.libreriauniversitaria.it/libri-editore_Mercurio+Books-mercurio_books.htm",
+    "trama": "Nei dintorni di Denver, corpi di ogni età e genere vengono rinvenuti divorati e scorticati. Nel frattempo, alcuni sconosciuti si risvegliano sul ciglio della strada senza alcun ricordo di come ci siano finiti, indossando la pelle di vittime che non hanno mai conosciuto.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.libreriauniversitaria.it/libri-editore_Mercurio+Books-mercurio_books.htm",
       "traduttore": "https://www.lafeltrinelli.it/headlights-libro-cj-leede/e/9791281656765",
-      "data": "fonte precedente: 20 novembre; laFeltrinelli: 13 novembre"
+      "data": "fonte precedente: 20 novembre; laFeltrinelli: 13 novembre",
+      "trama": "https://www.lafeltrinelli.it/headlights-libro-cj-leede/e/9791281656765 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -2191,9 +2885,11 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Karina e Tonya condividono tutto: l'università, i sogni, il progetto di trasferirsi in Europa. Ma nella Russia di inizio millennio, divisa tra lusso sfrenato e lotta per sopravvivere, una borsa di studio in Germania mette alla prova la loro amicizia.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-      "data": "https://www.lafeltrinelli.it/moscow-mule-libro-maya-rosa/e/9788862436441"
+      "data": "https://www.lafeltrinelli.it/moscow-mule-libro-maya-rosa/e/9788862436441",
+      "trama": "ilLibraio, rielaborato"
     }
   },
   {
@@ -2208,9 +2904,11 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
+    "trama": "Nick Radcliffe sembra l'uomo perfetto per Nina, da poco vedova. Fin troppo, secondo la figlia Ash, che comincia a scavare nel suo passato. Intanto la vicina Martha sospetta del marito, sempre più spesso via per lavoro. Le tre donne non sanno di essere vicine a una verità terribile.",
     "fonti": {
       "scoperta": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.nerdgames.it/fumetti-libri/neri-pozza-novita-novembre-2026/, rielaborato"
     }
   },
   {
@@ -2225,10 +2923,12 @@
     "genere": "Thriller",
     "segnalazioni": [],
     "link": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
+    "trama": "L'assassino è preciso e invisibile: si muove nel buio, disattiva ogni allarme e non lascia alcuna traccia, solo il sangue ancora caldo delle sue vittime innocenti. Cross e il collega Sampson si mettono subito al lavoro, ma non sono gli unici a indagare.",
     "fonti": {
       "scoperta": "https://i-libri.com/libri-longanesi-in-uscita-da-agosto-a-novembre-2026/",
       "scheda_libraio": "https://www.lafeltrinelli.it/schema-di-morte-libro-james-patterson/e/9788830464933",
-      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)"
+      "titolo_originale": "titolo originale: non cercato oltre la scheda laFeltrinelli e la fonte di scoperta (11/10/2026)",
+      "trama": "https://www.lafeltrinelli.it/schema-di-morte-libro-james-patterson/e/9788830464933 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -2243,9 +2943,11 @@
     "genere": "Fantascienza",
     "segnalazioni": [],
     "link": "https://www.lafeltrinelli.it/libri/editori/mercurio-books",
+    "trama": "Immagina un nemico che non solo non puoi vedere, ma che cancella il ricordo stesso della sua esistenza ogni volta che lo incontri. Puoi pensare agli antimeme come a dei mostri: non puoi ricordarli, non puoi fotografarli senza dimenticarti cosa c’è nell’immagine, e se qualcuno te ne parla, un secondo dopo avrai un vuoto di memoria.",
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.lafeltrinelli.it/libri/editori/mercurio-books",
-      "traduttore": "https://www.lafeltrinelli.it/divisione-antimemetica-libro-qntm/e/9791281656796"
+      "traduttore": "https://www.lafeltrinelli.it/divisione-antimemetica-libro-qntm/e/9791281656796",
+      "trama": "https://www.lafeltrinelli.it/divisione-antimemetica-libro-qntm/e/9791281656796 (testo dell'editore, accorciato)"
     }
   },
   {
@@ -2260,56 +2962,9 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.mondadori.it/libri/il-maestro-di-coro-mikkel-fonsskov/",
+    "trama": null,
     "fonti": {
       "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/il-maestro-di-coro-mikkel-fonsskov/"
-    }
-  },
-  {
-    "titolo": "I nostri doni crudeli",
-    "autore": "Kathryn Foxfield",
-    "editore": "Mondadori",
-    "mese": null,
-    "giorno": null,
-    "traduttore": null,
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Young adult",
-    "segnalazioni": [],
-    "link": "https://www.mondadori.it/libri/i-nostri-doni-crudeli-kathryn-foxfield/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.mondadori.it/libri/i-nostri-doni-crudeli-kathryn-foxfield/"
-    }
-  },
-  {
-    "titolo": "Il caso ombra",
-    "autore": "Thomas Pynchon",
-    "editore": "Einaudi",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Gianni Pannofino",
-    "titolo_originale": "Shadow Ticket",
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Una vita lontana",
-    "autore": "M.L. Stedman",
-    "editore": "Garzanti",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Maria Giulia Castagnone",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/libri/m-l-stedman-una-vita-lontana-9788811019404/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/m-l-stedman-una-vita-lontana-9788811019404/"
     }
   },
   {
@@ -2324,108 +2979,10 @@
     "genere": "Romanzo",
     "segnalazioni": [],
     "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+    "trama": "Dieci anni dopo Sottomissione volontaria torna Ester Nilsson, ora saggista stimata. A un simposio a Copenaghen conosce un uomo e, dopo molte esitazioni da entrambe le parti, i due si innamorano davvero, pur sapendo che niente di terreno dura per sempre.",
     "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "L'occupazione",
-    "autore": "Annie Ernaux",
-    "editore": "L'orma",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Lorenzo Flabbi",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Ibrido",
-    "segnalazioni": [
-      "Possibile riedizione"
-    ],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Le fredde notti dell'infanzia",
-    "autore": "Tezer Özlü",
-    "editore": "Crocetti",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Massimiliano Calvia",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Le forze",
-    "autore": "Laura Vazquez",
-    "editore": "Crocetti",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Paolo Bellomo, Luca Bondioli",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/"
-    }
-  },
-  {
-    "titolo": "Le lacrime del Nilo",
-    "autore": "Reem Gaafar",
-    "editore": "astoria",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Cecilia Vallardi",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [
-      "Esordio"
-    ],
-    "link": "https://www.illibraio.it/libri/reem-gaafar-le-lacrime-del-nilo-9788833213262/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/reem-gaafar-le-lacrime-del-nilo-9788833213262/"
-    }
-  },
-  {
-    "titolo": "La donna che amava Borges",
-    "autore": "Florencia Etcheves",
-    "editore": "Salani",
-    "mese": null,
-    "giorno": null,
-    "traduttore": null,
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Romanzo",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/libri/florencia-etcheves-la-donna-che-amava-borges-9788831024938/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/florencia-etcheves-la-donna-che-amava-borges-9788831024938/"
-    }
-  },
-  {
-    "titolo": "L'ultimo viaggio di mio fratello Wolf",
-    "autore": "Lara Taveirne",
-    "editore": "Ponte alle Grazie",
-    "mese": null,
-    "giorno": null,
-    "traduttore": "Claudia Cozzi, Chiara Nardo",
-    "titolo_originale": null,
-    "titolo_alternativo": null,
-    "genere": "Ibrido",
-    "segnalazioni": [],
-    "link": "https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/",
-    "fonti": {
-      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/libri/lara-taveirne-lultimo-viaggio-di-mio-fratello-wolf-9791255823223/"
+      "import": "Prototipo BookBuzz (ottobre 2026): tutti i campi da https://www.illibraio.it/news/narrativa/libri-da-leggere-autunno-2026-1502831/",
+      "trama": "ilLibraio, rielaborato"
     }
   }
 ]
