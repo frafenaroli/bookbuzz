@@ -201,8 +201,14 @@ function evidTags(b){ return b.ev.map(function(e){ return '<span class="bb-tagl"
 var THEMES = ["auto","light","dark"];
 var theme = "auto";
 try { var savedTheme = localStorage.getItem("bb-theme"); if (THEMES.indexOf(savedTheme) > -1) theme = savedTheme; } catch (e) {}
+/* Il tema segue il dispositivo finché non si preme il pulsante, che mostra il simbolo del tema opposto */
+var darkQuery = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+function isDark(){ return theme === "dark" || (theme === "auto" && !!darkQuery && darkQuery.matches); }
 function paintTheme(){
-  document.querySelectorAll(".bb-theme [data-theme]").forEach(function(el){ el.setAttribute("aria-pressed", String(el.dataset.theme === theme)); });
+  var btn = $("bb-theme"), dark = isDark(), label = dark ? "Passa al tema chiaro" : "Passa al tema scuro";
+  btn.classList.toggle("is-dark", dark);
+  btn.setAttribute("aria-label", label);
+  btn.title = label;
   root.className = root.className.replace(/\bt-\w+/, "t-" + theme);
 }
 
@@ -503,13 +509,12 @@ root.addEventListener("click", function(e){
     if (again && !again.disabled) again.focus({ preventScroll: true });
   }
 });
-document.querySelectorAll(".bb-theme [data-theme]").forEach(function(el){
-  el.addEventListener("click", function(){
-    theme = el.dataset.theme;
-    try { if (theme === "auto") localStorage.removeItem("bb-theme"); else localStorage.setItem("bb-theme", theme); } catch (e) {}
-    paintTheme();
-  });
+$("bb-theme").addEventListener("click", function(){
+  theme = isDark() ? "light" : "dark";
+  try { localStorage.setItem("bb-theme", theme); } catch (e) {}
+  paintTheme();
 });
+if (darkQuery && darkQuery.addEventListener) darkQuery.addEventListener("change", function(){ if (theme === "auto") paintTheme(); });
 $("bb-q").addEventListener("input", function(e){ set({ q: e.target.value, limit: PAGE }); });
 $("bb-pq").addEventListener("input", function(e){ set({ pubQ: e.target.value }); });
 document.querySelectorAll(".bb-sort").forEach(function(el){
