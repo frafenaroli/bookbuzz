@@ -151,9 +151,9 @@
     "nota": "ItaliaOggi, marzo 2025: marchio del Gruppo editoriale Athesis"
   },
   "Newton Compton": {
-    "indipendente": true,
-    "gruppo": null,
-    "nota": "di proprietà familiare, fuori dai grandi gruppi"
+    "indipendente": false,
+    "gruppo": "GeMS (Messaggerie)",
+    "nota": "Libreriamo, 10/10/2019: GeMS acquisisce il 51% di Newton Compton entro marzo 2020"
   },
   "NN": {
     "indipendente": true,
@@ -162,6 +162,11 @@
   "Nord": {
     "indipendente": false,
     "gruppo": "GeMS (Messaggerie)"
+  },
+  "nottetempo": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "Libreriamo: dal 2016 la maggioranza è di Andrea Gessner, figlio della fondatrice Roberta Einaudi; nessun gruppo"
   },
   "Polidoro": {
     "indipendente": true,
