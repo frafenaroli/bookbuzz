@@ -219,6 +219,11 @@
     "indipendente": false,
     "gruppo": "GeMS (Messaggerie)"
   },
+  "Ventanas": {
+    "indipendente": true,
+    "gruppo": null,
+    "nota": "Pitti Immagine, profilo espositore: casa editrice indipendente fondata nel 2023 da Laura Putti"
+  },
   "Voland": {
     "indipendente": true,
     "gruppo": null
