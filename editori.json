@@ -232,5 +232,10 @@
     "indipendente": null,
     "gruppo": null,
     "nota": "proprietà non verificata: sito dell'editore senza pagina \"chi siamo\" raggiungibile (novembre 2026)"
+  },
+  "Piemme": {
+    "indipendente": false,
+    "gruppo": "Mondadori",
+    "nota": "marchio di Mondadori Libri, elencato tra le case editrici del Gruppo Mondadori (gruppomondadori.it)"
   }
 }
