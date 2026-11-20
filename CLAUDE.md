@@ -9,7 +9,7 @@ Il catalogo si aggiorna con la skill `aggiorna-bookbuzz` (in `.claude/skills/agg
 - Narrativa straniera tradotta in italiano: romanzi, racconti, memoir, libri ibridi, narrativa di genere.
 - Esclusi: autori italiani, saggistica pura, varia, manualistica, fumetti, libri per l'infanzia sotto la fascia young adult.
 - Solo prime edizioni italiane. Riedizioni certe escluse; dubbi inclusi con la segnalazione "Possibile riedizione".
-- Finestra corrente: da settembre a dicembre 2026. Sono ammessi i libri annunciati come in arrivo con mese ancora ignoto (`mese: null`).
+- Finestra corrente: da settembre 2026 a gennaio 2027 (gennaio coperto per ora fino al 15). Sono ammessi i libri annunciati come in arrivo con mese ancora ignoto (`mese: null`).
 - La finestra si può allargare: il sito ricava schede dei mesi e sottotitolo dai mesi presenti nei dati, senza modifiche al codice.
 
 ## Uscite passate

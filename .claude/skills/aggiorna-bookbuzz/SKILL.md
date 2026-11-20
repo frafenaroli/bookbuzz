@@ -19,12 +19,14 @@ Gli script stanno in `scripts/` accanto a questo file. Lavora in una cartella te
 | `sbn.js "autore titolo"…` | Controllo riedizioni su OPAC SBN (luoghi, anni, titolo dell'opera). Va lanciato con `PW=$(npm root -g)/playwright node sbn.js …`. | ~15 s a ricerca |
 | `render.js URL…` | Testo delle pagine costruite via JavaScript (siti degli editori). Stesso `PW=` di sopra. | ~5 s a pagina |
 | `txt.py pagina.html` | Testo leggibile da un HTML scaricato con `curl`. | immediato |
+| `prenotazioni.py out.json` | Libri in prenotazione su laFeltrinelli nei reparti di narrativa, con titolo, autore, editore e data. | ~2 min |
 
 Regole:
 - Scarica le pagine con `curl` o `render.js` e leggile tu; non usare la ricerca web per i dati, perché restituisce riassunti generati e spesso sbagliati. Usala solo per trovare un indirizzo.
 - Raggruppa: prima raccogli tutti i candidati, poi una sola passata di `lf.py` su tutti, poi una sola passata di `sbn.js` sui dubbi.
 - Controlla sempre che la scheda trovata da `lf.py` sia il libro giusto: confronta il titolo con l'indirizzo e la data con l'anno. Con titoli generici (*Medusa*, *La voce*) o autori con molti libri lo script può prendere un'edizione vecchia o un altro titolo.
-- Le pagine "in prenotazione" dei librai e la ricerca su IBS non servono: la prima non filtra per editore, la seconda risponde 429.
+- La ricerca su IBS non serve: risponde 429.
+- Le prenotazioni di laFeltrinelli filtrate per reparto (`prenotazioni.py`) sono il canale più completo per i mesi non ancora coperti da liste e articoli: a novembre 2026 davano oltre 200 titoli per dicembre. Contengono molto rumore (fumetti, autori italiani, classici, "Nuova ediz.", tascabili di libri già usciti), quindi vanno filtrate a mano e passate a `lf.py`: se la scheda trovata ha una data vecchia, è una riedizione.
 
 ## 1. Raccolta dei candidati
 
